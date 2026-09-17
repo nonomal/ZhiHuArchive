@@ -1,0 +1,495 @@
+{
+  "id": "1996171102846727517",
+  "title": "《逃离童年》 第十六章 论「权利」一词的用法",
+  "type": "article",
+  "article_type": "normal",
+  "excerpt_title": "",
+  "url": "https://api.zhihu.com/articles/1996171102846727517",
+  "image_url": "https://pic1.zhimg.com/v2-1e2e1e4de93437d86d99fcec7f16db9b_720w.jpg?source=172ae18b",
+  "title_image": "https://picx.zhimg.com/v2-1e2e1e4de93437d86d99fcec7f16db9b_720w.jpg?source=172ae18b",
+  "excerpt": "<b>这些时日</b>，关于儿童「权利」的言论与文章铺天盖地。许多人使用这个词，是指我们都公认的一些对每个孩子都有益的美好事物，如「拥有一个好家庭的权利」，或「接受良好教育的权利」。但我所说的「权利」，是我们谈论成年人权利时所包含的那层含义。我主张法律…",
+  "created": 1768704624,
+  "updated": 1769304274,
+  "author": {
+    "is_followed": false,
+    "avatar_url_template": "https://pica.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94.jpg?source=172ae18b",
+    "uid": "592323397158703104",
+    "user_type": "people",
+    "is_following": false,
+    "url_token": "L.M.Sherlock",
+    "id": "4c592f496dc33822b560b382907ff1d0",
+    "description": "欢迎关注 Thoughts Memo 汉化组！我们关注的话题包括但不限于认知科学、知识工作、学习方法、学校教育、理性思考、儿童权利，目前已经完成翻译 1400 多篇文章。\n\n加入汉化组：https://paratranz.cn/projects/3131",
+    "name": "Thoughts Memo",
+    "is_advertiser": false,
+    "headline": "学校≠教育≠技能；文凭溢价=80%信号传递+20%人力资本",
+    "gender": -1,
+    "url": "https://api.zhihu.com/people/4c592f496dc33822b560b382907ff1d0",
+    "avatar_url": "https://pica.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94_l.jpg?source=172ae18b",
+    "is_org": false,
+    "type": "people",
+    "badge": [
+      {
+        "type": "identity",
+        "topics": [],
+        "description": "信息技术行业 算法工程师"
+      }
+    ],
+    "badge_v2": {
+      "title": "知势榜教育校园领域影响力榜答主",
+      "merged_badges": [
+        {
+          "type": "best",
+          "detail_type": "best",
+          "title": "社区成就",
+          "description": "知势榜教育校园领域影响力榜答主",
+          "url": "",
+          "sources": [],
+          "icon": "",
+          "night_icon": "",
+          "badge_status": "passed"
+        },
+        {
+          "type": "identity",
+          "detail_type": "identity_people",
+          "title": "认证",
+          "description": "信息技术行业 算法工程师",
+          "url": "https://zhuanlan.zhihu.com/p/96956163",
+          "sources": [],
+          "icon": "",
+          "night_icon": "",
+          "badge_status": "passed"
+        }
+      ],
+      "detail_badges": [
+        {
+          "type": "reward",
+          "detail_type": "super_activity",
+          "title": "社区成就",
+          "description": "知势榜教育校园领域影响力榜答主",
+          "url": "",
+          "sources": [
+            {
+              "id": "27",
+              "token": "",
+              "type": "content_potential_category",
+              "url": "",
+              "name": "知势榜8月",
+              "avatar_path": "",
+              "avatar_url": "",
+              "description": "",
+              "priority": 27
+            }
+          ],
+          "icon": "https://pic1.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+          "night_icon": "https://pic1.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+          "badge_status": "passed"
+        },
+        {
+          "type": "identity",
+          "detail_type": "identity_people",
+          "title": "已认证的个人",
+          "description": "信息技术行业 算法工程师",
+          "url": "https://zhuanlan.zhihu.com/p/96956163",
+          "sources": [],
+          "icon": "https://pica.zhimg.com/v2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c",
+          "night_icon": "https://picx.zhimg.com/v2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c",
+          "badge_status": "passed"
+        }
+      ],
+      "icon": "https://pic1.zhimg.com/v2-27bfcba90e66db79ce8768ab807e017e_l.png?source=32738c0c",
+      "night_icon": "https://picx.zhimg.com/v2-27bfcba90e66db79ce8768ab807e017e_l.png?source=32738c0c"
+    },
+    "exposed_medal": {
+      "medal_id": "0",
+      "medal_name": "",
+      "avatar_url": "",
+      "mini_avatar_url": "",
+      "description": "",
+      "medal_avatar_frame": null
+    }
+  },
+  "comment_permission": "all",
+  "copyright_permission": "need_review",
+  "state": "published",
+  "ip_info": "北京",
+  "image_width": 1280,
+  "image_height": 720,
+  "content": "<p data-pid=\"_uadh79Y\"><b>这些时日</b>，关于儿童「权利」的言论与文章铺天盖地。许多人使用这个词，是指我们都公认的一些对每个孩子都有益的美好事物，如「拥有一个好家庭的权利」，或「接受良好教育的权利」。但我所说的「权利」，是我们谈论成年人权利时所包含的那层含义。我主张法律授予并保障年轻人如今已授予成年人的那种自由，即做出特定选择、从事特定活动、并承担特定责任的自由。这进而意味着，倘若有人干涉年轻人行使这些权利，法律将对其采取行动。因此，当法律保障我的投票权时，它并非在说我必须投票，也并非凭空给了我一张选票。它只是在表明，倘若我选择投票，它将对任何试图阻挠我的人采取行动。在授予我权利时，法律并不规定我必须或应当做什么，它只是申明，它不允许他人阻止我去做这些事。</p><p data-pid=\"KXI4--3O\">这种情况不适用于获得保障性收入的权利。在这里，我们谈论的是要求政府或国家必须采取某种行动。声称人们拥有获得最低保障收入的权利，意味着法律要求国家必须确保所有公民至少拥有这一数额的收入。若将这项权利赋予儿童，便意味着：无论国家向成年人提供何种收入，都必须同样地提供给年轻人。</p><p data-pid=\"RRKrn8Fq\">要求国家去保障它本身并不具备、也无法提供的事物，是毫无意义的。国家拥有金钱，因此可以提供资金。国家也可以承诺采取行动，制裁那些以某种方式阻碍公民（无论老幼）进行选择和行动的人。然而，国家无法保证每个孩子都拥有一个美好的家庭和亲情。 国家手中没有这些东西可供分配，也无法制造或获取它们。如果国家试图命令每个人都必须为其子女建立一个“美好”的家庭，它又能有哪些选择呢？首先，由谁来决定、并依据什么标准来决定一个家庭是否“美好”？《生活》杂志曾报道过这样一个案例：国家将孩子从他们深爱且渴望留下的父母身边强行带走，理由仅仅是某位心理学家判定这对父母的智商（I.Q.）不足以抚养家庭——尽管他们事实上一直在抚养着。在其他案例中，国家将不情愿的孩子带离父母，仅仅是因为邻居和社区不认同这对父母的生活方式或政治观点。国家做决定的理由往往是非常奇怪的。退一步说，如果以某种方式判定了这个家庭不好，国家下一步该怎么做？把孩子带走？国家难道有现成的好家庭来替代这个家吗？如果孩子不想离开这个被国家认为糟糕的家呢？如果比起国家提供的新家，他更喜欢原来的旧家呢？如果他拒绝待在那个“好”家，坚持一次次逃回国家认定“不够好”的老家呢？此时发生的情况就是：国家派出警察去追捕他，用武力把他抓回国家所选择的那个家中。或者，如果国家不想、或不能把孩子从它认为“坏”的家中带走，难道它要对父母说：这个家太糟了，把它变好吗？如果父母不照做或者做不到，国家又该怎么办？惩罚他们？但这能让这个家变得更好吗？</p><p data-pid=\"tQcJyAy_\">我们能够也应该做的，是将评判其家庭好坏的权利留给孩子自己，并给予他权利，倘若他不喜欢，便可选择他途。国家可以决定提供或协助提供某些其他的选择。但它不应使这些选择成为强制性的。它应允许孩子做出其所提供选项之外的选择。它应给予孩子权利，既能对父母说不，也能对国家说不。</p><p data-pid=\"vI6lwKMp\">我希望儿童拥有的一项权利，是为了赚钱而工作的权利。一听到这话，人们便会担心如何保护儿童免受剥削的问题。这一点我稍后会详述。然而，正如我们从妇女和少数族裔群体的经历中所见，一项更为艰巨的任务将是：保护年轻人免受歧视。在大多数地方，现行法律规定雇主在招聘和晋升时，不得基于种族、性别、出身等原因歧视他人。但在实践中，这很难落实。当雇主录用或晋升某人而忽略另一人，或者解雇甲而不是乙时，要证明他是基于非法的理由做出决定，是非常困难的。当然，雇主总是会拿「资质」来说事。雇主们会找出各种各样的理由不雇用年轻人。他们可能会声称——正如现在有些人所做的，且往往是实话——他们无法雇用年轻人工作，因为他们的保险不承保这些人。如果保险公司确实将此类条款写入合同，法律或许就必须采取行动加以制止。</p><p data-pid=\"hOVTpsSp\">简言之，即便我们为年轻人赢得了工作的权利，真正的难题将是，如何确保这项权利不会沦为一纸空文，一种有名无实的权利。这便是为何在一个充斥着贫困、失业与歧视的社会里，我们不太可能看到此类法律被通过，更不用说被有效执行了。</p><p data-pid=\"w-dLkH8Z\">我将反复申明，在这些权利之中，很难说孰轻孰重，也很难说非有此项、彼项便不能成立。有些权利要想真正发挥效力，在很大程度上取决于其他权利的保障；而另一些权利的独立性则相对较强。但即便如此，正如我们在成年人的案例中所发现的，这些权利总是紧密相连，相辅相成。倘若我所提议的所有权利都唾手可得，许多年轻人或许未必会选择一次性行使全部，可能只会选择一两项。但倘若他们在紧要关头无法行使其他某些权利，他们便可能无法有效地行使他们想用的那些权利。</p><p data-pid=\"BxeCcpn8\">以离家、旅行以及建立属于自己家庭的权利为例。大体而言，除非年轻人同时也拥有赚钱、从国家领取最低保障收入，以及承担法律和财务责任——如开设银行账户、开具支票等，否则上述权利便毫无意义。然而，处于这种境地的年轻人，除非能享有法律的充分运用与保护，否则将无法保护自己免受欺诈和剥削（这对当下的成年人来说都非易事）。反过来说，除非他拥有投票权，否则这种法律保护也未必能有多大意义。因此，也许投票权才是最重要的，且必须被置于首位。就实际操作而言，年轻人很可能在获得其他权利之前先获得此项权利；而且，他们大概也必须先获得投票权，才有可能争取到其他权利。但即便是选举权，对一个年轻人而言，也可能无法完全实现其意义，除非他能保护自己，免受父母逼迫他按其意愿投票的过度压力。我在别处提出了一些社会和法律可以协助他做到这一点的途径。但只要年轻人无法离家、且无处可去，这些措施的效果终究是有限的。</p><p data-pid=\"wSs_pNqX\">同理，一个年轻人管理自身学习的权利，是一项能够也应该被授予，并且能够或多或少独立于其他权利而被行使的权利。没有任何理由，一个在其他所有方面都依赖于父母生活的孩子，不能也不应拥有（像其他所有人一样）决定自己想学什么、何时学、想在学校学多少、在哪个学校学，以及想为此花费多少时间的权利。但还要重申的是，除非他有办法抵抗或逃避父母可能施加的种种压力，否则这项权利将无法充分发挥效力。</p><p data-pid=\"aE-oHg9s\">这并非是说，我认为一个社会应该或将会通过一部将所有这些权利捆绑在一起的「一揽子法案」。更有可能的情况是，如果年轻人最终获得了这些权利，那将是漫长的立法过程和一系列法院判决的结果，其中许多可能一次只涉及一项权利。但是，致力于为年轻人争取这些权利的人们，若能明白以下这一点将是明智的：没有任何一项权利能够单凭其自身就能非常有效，或能对年轻人的生活产生巨大的改变。如果我们非常在乎其中的某些权利，我们就很可能必须同时为争取其他权利而努力。</p><hr/><p data-pid=\"ylmX0GcD\">上一章：</p><a href=\"https://zhuanlan.zhihu.com/p/1991825533990897488\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-draft-title=\"《逃离童年》 第十五章 儿童所需要的，我们都需要\" data-draft-cover=\"https://picx.zhimg.com/v2-1e2e1e4de93437d86d99fcec7f16db9b.jpg?source=7e7ef6e2&amp;needBackground=1\" class=\"internal\">《逃离童年》 第十五章 儿童所需要的，我们都需要</a><p data-pid=\"_JAVWa5g\">下一章：</p><a href=\"https://zhuanlan.zhihu.com/p/1997371709934819307\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-draft-title=\"《逃离童年》 第十七章 年轻人的投票权\" data-draft-cover=\"https://picx.zhimg.com/v2-1e2e1e4de93437d86d99fcec7f16db9b.jpg?source=7e7ef6e2&amp;needBackground=1\" class=\"internal\">《逃离童年》 第十七章 年轻人的投票权</a><hr/><blockquote data-pid=\"Mr9ZlQ4o\"><a href=\"https://link.zhihu.com/?target=http%3A//paratranz.cn/projects/3131\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Thoughts Memo</a> 汉化组译制<br/>感谢主要译者 <span class=\"nolink\">gemini-2.5-pro</span>，校对 <span class=\"nolink\">solitude-alive</span><br/>原文：<a href=\"https://link.zhihu.com/?target=https%3A//archive.org/details/EscapeFromChildhood/page/n55/mode/2up\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">ESCAPE FROM CHILDHOOD : JOHN HOLT : Free Download, Borrow, and Streaming : Internet Archive</a></blockquote>",
+  "content_need_truncated": false,
+  "force_login_when_click_read_more": false,
+  "admin_closed_comment": false,
+  "topics": [
+    {
+      "url": "https://api.zhihu.com/topics/19575679",
+      "type": "topic",
+      "id": "19575679",
+      "name": "权利"
+    },
+    {
+      "url": "https://api.zhihu.com/topics/1940690955587032222",
+      "type": "topic",
+      "id": "1940690955587032222",
+      "name": "儿童权利"
+    },
+    {
+      "url": "https://api.zhihu.com/topics/19588362",
+      "type": "topic",
+      "id": "19588362",
+      "name": "年轻人"
+    }
+  ],
+  "voteup_count": 14,
+  "voting": 0,
+  "heavy_up_status": "allow_heavy_up",
+  "column": {
+    "description": "",
+    "can_manage": true,
+    "intro": "<p>论非学校教育与青少年权利。</p>",
+    "is_following": false,
+    "url_token": "c_1934963636444591835",
+    "id": "c_1934963636444591835",
+    "articles_count": 39,
+    "accept_submission": false,
+    "title": "John Caldwell Holt",
+    "url": "https://api.zhihu.com/columns/c_1934963636444591835",
+    "comment_permission": "all",
+    "created": 1754111286,
+    "updated": 1754111287,
+    "image_url": "https://picx.zhimg.com/v2-cc01c2a6978ca787ed37f6250ef21062_720w.jpg?source=172ae18b",
+    "author": {
+      "is_followed": false,
+      "avatar_url_template": "https://pic1.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94.jpg?source=172ae18b",
+      "uid": "592323397158703104",
+      "user_type": "people",
+      "is_following": false,
+      "url_token": "L.M.Sherlock",
+      "id": "4c592f496dc33822b560b382907ff1d0",
+      "description": "欢迎关注 Thoughts Memo 汉化组！我们关注的话题包括但不限于认知科学、知识工作、学习方法、学校教育、理性思考、儿童权利，目前已经完成翻译 1400 多篇文章。\n\n加入汉化组：https://paratranz.cn/projects/3131",
+      "name": "Thoughts Memo",
+      "is_advertiser": false,
+      "headline": "学校≠教育≠技能；文凭溢价=80%信号传递+20%人力资本",
+      "gender": -1,
+      "url": "https://api.zhihu.com/people/4c592f496dc33822b560b382907ff1d0",
+      "avatar_url": "https://picx.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94_l.jpg?source=172ae18b",
+      "is_org": false,
+      "type": "people",
+      "badge_v2": {
+        "title": "",
+        "merged_badges": [],
+        "detail_badges": [],
+        "icon": "",
+        "night_icon": ""
+      }
+    },
+    "followers": 111,
+    "type": "column",
+    "column_type": "normal"
+  },
+  "comment_count": 1,
+  "contributions": [
+    {
+      "id": 53344842,
+      "state": "accepted",
+      "type": "first_publish",
+      "column": {
+        "description": "",
+        "can_manage": true,
+        "intro": "<p>论非学校教育与青少年权利。</p>",
+        "is_following": false,
+        "url_token": "c_1934963636444591835",
+        "id": "c_1934963636444591835",
+        "articles_count": 39,
+        "accept_submission": false,
+        "title": "John Caldwell Holt",
+        "url": "https://api.zhihu.com/columns/c_1934963636444591835",
+        "comment_permission": "all",
+        "created": 1754111286,
+        "updated": 1754111287,
+        "image_url": "https://picx.zhimg.com/v2-cc01c2a6978ca787ed37f6250ef21062_720w.jpg?source=172ae18b",
+        "author": {
+          "is_followed": false,
+          "avatar_url_template": "https://pic1.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94.jpg?source=172ae18b",
+          "uid": "592323397158703104",
+          "user_type": "people",
+          "is_following": false,
+          "url_token": "L.M.Sherlock",
+          "id": "4c592f496dc33822b560b382907ff1d0",
+          "description": "欢迎关注 Thoughts Memo 汉化组！我们关注的话题包括但不限于认知科学、知识工作、学习方法、学校教育、理性思考、儿童权利，目前已经完成翻译 1400 多篇文章。\n\n加入汉化组：https://paratranz.cn/projects/3131",
+          "name": "Thoughts Memo",
+          "is_advertiser": false,
+          "headline": "学校≠教育≠技能；文凭溢价=80%信号传递+20%人力资本",
+          "gender": -1,
+          "url": "https://api.zhihu.com/people/4c592f496dc33822b560b382907ff1d0",
+          "avatar_url": "https://picx.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94_l.jpg?source=172ae18b",
+          "is_org": false,
+          "type": "people",
+          "badge_v2": {
+            "title": "",
+            "merged_badges": [],
+            "detail_badges": [],
+            "icon": "",
+            "night_icon": ""
+          }
+        },
+        "followers": 111,
+        "type": "column",
+        "column_type": "normal"
+      }
+    },
+    {
+      "id": 53346460,
+      "state": "accepted",
+      "type": "first_publish",
+      "column": {
+        "description": "",
+        "can_manage": false,
+        "intro": "关注县中现象，记录县中生活，致力县中振兴",
+        "is_following": false,
+        "url_token": "c_1877680760091176960",
+        "id": "c_1877680760091176960",
+        "articles_count": 22,
+        "accept_submission": true,
+        "title": "县中教育",
+        "url": "https://api.zhihu.com/columns/c_1877680760091176960",
+        "comment_permission": "all",
+        "created": 1740453979,
+        "updated": 1741517537,
+        "image_url": "https://picx.zhimg.com/v2-c5be1695771c4f9b442b5bde56e5e8e0_720w.jpg?source=172ae18b",
+        "author": {
+          "is_followed": false,
+          "avatar_url_template": "https://pic1.zhimg.com/0359b33f886e26834ba056cce494a063.jpg?source=172ae18b",
+          "uid": "543360939269869568",
+          "user_type": "people",
+          "is_following": false,
+          "url_token": "xiao-dao-hui",
+          "id": "7444e106b724c95075c622929caa313c",
+          "description": "",
+          "name": "语文分子",
+          "is_advertiser": false,
+          "headline": "县中教育亲历者，目前正在成为记录者",
+          "gender": 1,
+          "url": "https://api.zhihu.com/people/7444e106b724c95075c622929caa313c",
+          "avatar_url": "https://picx.zhimg.com/0359b33f886e26834ba056cce494a063_l.jpg?source=172ae18b",
+          "is_org": false,
+          "type": "people",
+          "badge_v2": {
+            "title": "",
+            "merged_badges": [],
+            "detail_badges": [],
+            "icon": "",
+            "night_icon": ""
+          }
+        },
+        "followers": 5,
+        "type": "column",
+        "column_type": "normal"
+      }
+    }
+  ],
+  "is_title_image_full_screen": false,
+  "upvoted_followees": [],
+  "commercial_info": {
+    "is_commercial": false,
+    "plugin": {}
+  },
+  "suggest_edit": {
+    "status": false,
+    "reason": "",
+    "tip": "",
+    "url": "",
+    "title": ""
+  },
+  "reason": "",
+  "annotation_action": [],
+  "can_tip": false,
+  "can_open_tipjar": true,
+  "tipjarors_count": 0,
+  "is_labeled": false,
+  "has_publishing_draft": false,
+  "is_favorited": false,
+  "favlists_count": 6,
+  "is_normal": true,
+  "status": 0,
+  "activity_topping_info": {
+    "state": "untopped"
+  },
+  "share_text": "《逃离童年》 第十六章 论「权利」一词的用法 - 来自知乎专栏「John Caldwell Holt」，作者: Thoughts Memo https://zhuanlan.zhihu.com/p/1996171102846727517 （想看更多？下载 @知乎 App：http://weibo.com/p/100404711598 ）",
+  "can_comment": {
+    "status": true,
+    "reason": ""
+  },
+  "linkbox": {
+    "url": "",
+    "category": "",
+    "pic": "",
+    "title": ""
+  },
+  "mcn_fp_show": -1,
+  "is_visible": true,
+  "is_liked": false,
+  "liked_count": 0,
+  "has_column": true,
+  "republishers": [
+    {
+      "is_followed": false,
+      "avatar_url_template": "https://pic1.zhimg.com/0359b33f886e26834ba056cce494a063.jpg?source=172ae18b",
+      "uid": "543360939269869568",
+      "user_type": "people",
+      "is_following": false,
+      "url_token": "xiao-dao-hui",
+      "id": "7444e106b724c95075c622929caa313c",
+      "description": "",
+      "name": "语文分子",
+      "is_advertiser": false,
+      "headline": "县中教育亲历者，目前正在成为记录者",
+      "gender": 1,
+      "url": "https://api.zhihu.com/people/7444e106b724c95075c622929caa313c",
+      "avatar_url": "https://picx.zhimg.com/0359b33f886e26834ba056cce494a063_l.jpg?source=172ae18b",
+      "is_org": false,
+      "type": "people",
+      "badge_v2": {
+        "title": "",
+        "merged_badges": [],
+        "detail_badges": [],
+        "icon": "",
+        "night_icon": ""
+      }
+    }
+  ],
+  "is_new_link_card": true,
+  "emoji_reaction": {
+    "like_count": 0,
+    "like_has_set": false
+  },
+  "ab_param": {
+    "qa_hidden_voteup": "",
+    "rs_interest1": "",
+    "zp_zhi_style": ""
+  },
+  "attached_info": "kgIuCgkyNjkxOTY5OTASEzE5OTYxNzExMDI4NDY3Mjc1MTcYByIKSU1BR0VfVEVYVA==",
+  "share_guide": {
+    "has_positive_bubble": false,
+    "has_time_bubble": false,
+    "hit_share_guide_cluster": false
+  },
+  "settings": {
+    "table_of_contents": {
+      "enabled": false
+    }
+  },
+  "can_reference": false,
+  "reaction_instruction": {},
+  "reaction": {
+    "statistics": {
+      "up_vote_count": 14,
+      "down_vote_count": 0,
+      "like_count": 0,
+      "comment_count": 1,
+      "share_count": 0,
+      "play_count": 0,
+      "interest_play_count": 0,
+      "favorites": 6,
+      "pv_count": 0,
+      "bullet_count": 0,
+      "applaud_count": 0,
+      "question_follower_count": 0,
+      "question_answer_count": 0,
+      "plaincontent_vote_up_count": 0,
+      "plaincontent_like_count": 0,
+      "img_like_count": {
+        "v2-1e2e1e4de93437d86d99fcec7f16db9b": 0
+      },
+      "subscribe_count": 0,
+      "republishers": []
+    },
+    "relation": {
+      "is_author": true,
+      "vote": "Neutral",
+      "liked": false,
+      "img_liked": {
+        "v2-1e2e1e4de93437d86d99fcec7f16db9b": false
+      },
+      "faved": false,
+      "following": false,
+      "subcribed": false,
+      "is_navigator_vote": false,
+      "current_user_is_navigator": false,
+      "vote_next_step": ""
+    },
+    "image_reactions": {
+      "v2-1e2e1e4de93437d86d99fcec7f16db9b": {
+        "like_count": 0,
+        "is_liked": false
+      }
+    }
+  },
+  "interaction_bar_plugins": [
+    {
+      "type": "comment",
+      "comment": {
+        "enable": true,
+        "placeholder": "发条带图评论"
+      }
+    }
+  ],
+  "bar_plugins_flip_time": 3000,
+  "podcast_audio_enter": {
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13,
+    "action_url": "zhihu://podcast/audio_player/58994548894?contentId=1996171102846727517&contentType=article"
+  },
+  "endorsements": [
+    {
+      "elements": [
+        {
+          "type": "IMAGE",
+          "image_key": "zhicon_icon_24_column_fill",
+          "image_color": {
+            "alpha": 1,
+            "group": "GBL01A"
+          },
+          "width": 16,
+          "height": 16
+        },
+        {
+          "type": "TEXT",
+          "content": "收录于 · John Caldwell Holt",
+          "font_size": 13,
+          "font_color": {
+            "alpha": 1,
+            "group": "GBL01A"
+          },
+          "is_bold": false,
+          "max_line": 1
+        },
+        {
+          "type": "IMAGE",
+          "image_key": "zhicon_icon_16_arrow_right",
+          "image_color": {
+            "alpha": 1,
+            "group": "GBL01A"
+          },
+          "width": 12,
+          "height": 12
+        }
+      ],
+      "sub_elements": [],
+      "sub_elements_type": "DESCRIPTION",
+      "background_color": {
+        "alpha": 0.08,
+        "group": "GBL01A"
+      },
+      "action_url": "https://www.zhihu.com/column/c_1934963636444591835",
+      "za": {
+        "block_text": "Column",
+        "type": "text",
+        "text": "收录于 · John Caldwell Holt"
+      }
+    }
+  ],
+  "allow_segment_interaction": 1,
+  "is_navigator": false,
+  "navigator_vote": false,
+  "vote_next_step": "vote"
+}

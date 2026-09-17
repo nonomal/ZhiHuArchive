@@ -1,0 +1,420 @@
+{
+  "id": "2011833930874127360",
+  "title": "《逃离童年》 第二十二章 享有「获取『保障收入』」的权利",
+  "type": "article",
+  "article_type": "normal",
+  "excerpt_title": "",
+  "url": "https://api.zhihu.com/articles/2011833930874127360",
+  "image_url": "https://pica.zhimg.com/v2-1e2e1e4de93437d86d99fcec7f16db9b_720w.jpg?source=172ae18b",
+  "title_image": "https://pic1.zhimg.com/v2-1e2e1e4de93437d86d99fcec7f16db9b_720w.jpg?source=172ae18b",
+  "excerpt": "如果在某个特定的社会里，大多数人维持基本生计的唯一方式是拥有一份工作，而该社会提供的岗位数量总是少于待业人数的话，那么很显然，许多人的生计将不得不依赖那些具有稳定工作的人。现如今，这个国家里约半数的女性、大部分的老人，以及所有的年轻人都面…",
+  "created": 1772453737,
+  "updated": 1772706388,
+  "author": {
+    "is_followed": false,
+    "avatar_url_template": "https://picx.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94.jpg?source=172ae18b",
+    "uid": "592323397158703104",
+    "user_type": "people",
+    "is_following": false,
+    "url_token": "L.M.Sherlock",
+    "id": "4c592f496dc33822b560b382907ff1d0",
+    "description": "欢迎关注 Thoughts Memo 汉化组！我们关注的话题包括但不限于认知科学、知识工作、学习方法、学校教育、理性思考、儿童权利，目前已经完成翻译 1400 多篇文章。\n\n加入汉化组：https://paratranz.cn/projects/3131",
+    "name": "Thoughts Memo",
+    "is_advertiser": false,
+    "headline": "学校≠教育≠技能；文凭溢价=80%信号传递+20%人力资本",
+    "gender": -1,
+    "url": "https://api.zhihu.com/people/4c592f496dc33822b560b382907ff1d0",
+    "avatar_url": "https://picx.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94_l.jpg?source=172ae18b",
+    "is_org": false,
+    "type": "people",
+    "badge": [
+      {
+        "type": "identity",
+        "topics": [],
+        "description": "信息技术行业 算法工程师"
+      }
+    ],
+    "badge_v2": {
+      "title": "知势榜教育校园领域影响力榜答主",
+      "merged_badges": [
+        {
+          "type": "best",
+          "detail_type": "best",
+          "title": "社区成就",
+          "description": "知势榜教育校园领域影响力榜答主",
+          "url": "",
+          "sources": [],
+          "icon": "",
+          "night_icon": "",
+          "badge_status": "passed"
+        },
+        {
+          "type": "identity",
+          "detail_type": "identity_people",
+          "title": "认证",
+          "description": "信息技术行业 算法工程师",
+          "url": "https://zhuanlan.zhihu.com/p/96956163",
+          "sources": [],
+          "icon": "",
+          "night_icon": "",
+          "badge_status": "passed"
+        }
+      ],
+      "detail_badges": [
+        {
+          "type": "reward",
+          "detail_type": "super_activity",
+          "title": "社区成就",
+          "description": "知势榜教育校园领域影响力榜答主",
+          "url": "",
+          "sources": [
+            {
+              "id": "27",
+              "token": "",
+              "type": "content_potential_category",
+              "url": "",
+              "name": "知势榜8月",
+              "avatar_path": "",
+              "avatar_url": "",
+              "description": "",
+              "priority": 27
+            }
+          ],
+          "icon": "https://pica.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+          "night_icon": "https://picx.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+          "badge_status": "passed"
+        },
+        {
+          "type": "identity",
+          "detail_type": "identity_people",
+          "title": "已认证的个人",
+          "description": "信息技术行业 算法工程师",
+          "url": "https://zhuanlan.zhihu.com/p/96956163",
+          "sources": [],
+          "icon": "https://picx.zhimg.com/v2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c",
+          "night_icon": "https://pic1.zhimg.com/v2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c",
+          "badge_status": "passed"
+        }
+      ],
+      "icon": "https://picx.zhimg.com/v2-27bfcba90e66db79ce8768ab807e017e_l.png?source=32738c0c",
+      "night_icon": "https://pic1.zhimg.com/v2-27bfcba90e66db79ce8768ab807e017e_l.png?source=32738c0c"
+    },
+    "exposed_medal": {
+      "medal_id": "0",
+      "medal_name": "",
+      "avatar_url": "",
+      "mini_avatar_url": "",
+      "description": "",
+      "medal_avatar_frame": null
+    }
+  },
+  "comment_permission": "all",
+  "copyright_permission": "need_review",
+  "state": "published",
+  "ip_info": "广东",
+  "image_width": 1280,
+  "image_height": 720,
+  "content": "<p data-pid=\"X0Ouz2tN\">如果在某个特定的社会里，大多数人维持基本生计的唯一方式是拥有一份工作，而该社会提供的岗位数量总是少于待业人数的话，那么很显然，许多人的生计将不得不依赖那些具有稳定工作的人。现如今，这个国家里约半数的女性、大部分的老人，以及所有的年轻人都面临着该困境。只要这种境况不变，对于他们的独立或平等权利的讨论就是纸上谈兵。如果他们只能从某个拥有稳定工作的人那里获取生活所需，那么他们所依赖的人就会觉得自己有权对他们发号施令，在实践上，这种号令大概不会受法律法规的左右。除了唯命是从，他们别无选择，因为他们已无处可去了。</p><p data-pid=\"CnLMZbmQ\">在我们的社会中，当我们谈及妇女或儿童的平等权利时，我们所谈论的，必然主要是中上阶层和富人阶层，处于这些阶层的女性乃至年轻人，他们更有可能拥有自己的积蓄、更容易找到工作、能更轻易地获得有钱人的帮助。而大多数人则没有那些选择。中下阶层及贫困的妇女儿童，除非他们有自己确切的收入来源，否则这种对于某个工作者的生存依赖，将会继续成为他们的禁锢。</p><p data-pid=\"wp7mcDCN\">因此，若一个社会并不保障个人的最低收入，那么「每个人都具有选择独立的权利」在实践上几乎只是空话一句。为什么应该有这样一笔支出，其数额应该是多少，这笔资金又该如何筹集，集资可能需要面临哪些心理和政治上的阻碍？又该如何有效地克服这些阻碍——所有的这些问题都需要展开讨论，这不是我在此可以用一两句话说清楚的。而我所倡议的是，这笔拨款应该受到保障，它的领取对象不应该只局限于所有成人——男或女，单身或已婚——它同样也应该被提供给所有儿童，它应该被降低领取年龄限制——以使得所有想要领取这笔资金的儿童都能受益。因为很显然，如果没有基本生活资金的支持，对离家、旅行、寻找其他监护人、选择居所（如果愿意，也可独居）等等这一系列权利的行使，对大多数的年轻人来说，只是白日做梦。有些人反对这种倡议，因为他们认为这种经济上的独立，会削弱家庭成员之间的连结。但问题是，家庭成员之间的连结或其他私人关系中的连结，是不该建立在国家对人们进行的贫困威胁之上的，这就好比用胶水强行把大家粘合起来一样。</p><p data-pid=\"F-Mbxq0W\">如果一个孩子依附于一位长辈监护人生活，他的衣食住行和其他必要支出都由该监护人承担，那孩子的一部分收入是否应该用于弥补这些开销，如果是，那又该弥补多少？若孩子出于自身意愿选择与一位协议下的代理监护人共同生活，他们或许早已就此问题进行了协商并达成一致。假如监护人经济状况较差，他可能会对孩子说：「如果你想住这，你的一切支出得自己买单。」假如监护人经济状况比较好，他可能就不会提出这种要求。如果孩子和监护人日后对协议里的这部分内容产生了新的异议，他们可以重新进行协定。在一些紧要关头，监护人总能说：「如果你不给够钱，我们养不起你，你不就能继续住这。」不过话又说回来，如果抛开经济不谈，在其余各个方面都有共同居住的意愿的话，大概也不太可能会在这一点上闹翻。</p><p data-pid=\"NyhTGnic\">但父母作为主要的监护人，却不能对孩子说，要么给钱，要么走人。那么，他该如何从孩子的收入中获取应份的补偿呢？而怎样才算是应份？这些相关事宜，又是否应该写进法律里？出于一些似乎就摆在眼前的原因，我的回答更倾向于说不。也许可以有一条统一的法规，要求与主要监护人同住的孩子要把部分收入直接上交到监护人手中，如果监护人和孩子想要改变上交资金的比例，他们可以自行协商解决。</p><p data-pid=\"k3Y4bP9h\">﻿一些人会担忧，如果每个家庭成员都自行支配自己的收入，各自填写税表并获得税收抵免，是否会导致在譬如「应该如何筹集、分配资金？」「每一位家庭成员应该为家庭支出贡献多少金额？」这一类问题上的无休止争吵？那样会比现在这样做更好吗——让每个人把自己的收入存进家庭账户中，把家庭视作一个独立的经济单位？在我所提议的情境下，家庭成员之间的确可能会为钱吵架。﻿但是为了避免争吵而拒绝采用这种家庭资金管理机制，在今天看来似乎是个更为错误的选择。这说起来是很好听——让每个人把自己的收入放到家庭账户中，把家庭视作一个独立的经济单位。但﻿在实践中，这通常意味着，所有的财产和收入都属于一家之主（通常是男性），而其他家庭成员出于私人事务需要动用资金时，只能向一家之主讨价还价或苦苦哀求。换句话说，家庭财产的分配问题由来已久。不同之处在于，现如今还没能自行独立的家庭成员只能处在一个弱势且不平等的位置去协商或乞求。﻿除非他们有工作，否则他们将不具有任何的收入或权利。﻿如果每个人都能领取属于他自己的保障收入，并自行纳税或领取税收抵免，那就可以避免引发更多与钱相关的家庭纷争。但是这类技术性问题的解决必须依赖政治途径，仅仅依靠在这里的讨论是无济于事的。</p><p data-pid=\"9654uNGF\">最后，还有一点需要说明的是。首先，正是一种源自贫穷的威胁和恐惧，将许多人禁锢在了对他人的依赖之中。但是，没有任何一个国家可以真正克服贫穷或减少对贫穷的恐惧，即使是那些能为每个人提供保障性收入的国家，除非它能不断地降低——或至少能稳定保持——人们体面生活所需的最低收入水平。要真实衡量一个国家的国民生活质量，就要像衡量一个社区的居民生活质量一样，要看其中最穷的人过着怎样的生活。</p><hr/><p data-pid=\"FUGf-s0s\">上一章：</p><a href=\"https://zhuanlan.zhihu.com/p/2011263917926654907\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-draft-title=\"《逃离童年》 第二十一章 选择监护人的权利\" data-draft-cover=\"https://pic1.zhimg.com/v2-1e2e1e4de93437d86d99fcec7f16db9b.jpg?source=7e7ef6e2&amp;needBackground=1\" class=\"internal\">《逃离童年》 第二十一章 选择监护人的权利</a><p data-pid=\"zCjr4r81\">下一章：</p><a href=\"https://zhuanlan.zhihu.com/p/2012824008983348707\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-draft-title=\"《逃离童年》 第二十三章 法律与财务责任的权利\" data-draft-cover=\"https://pic1.zhimg.com/v2-1e2e1e4de93437d86d99fcec7f16db9b.jpg?source=7e7ef6e2&amp;needBackground=1\" class=\"internal\">《逃离童年》 第二十三章 法律与财务责任的权利</a><hr/><blockquote data-pid=\"GmQEOhvy\"><a href=\"https://link.zhihu.com/?target=http%3A//paratranz.cn/projects/3131\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Thoughts Memo</a> 汉化组译制<br/>感谢主要译者 <span class=\"nolink\">gemini-2.5-pro</span>，校对 <span class=\"nolink\">Ornithogalum</span><br/>原文：<a href=\"https://link.zhihu.com/?target=https%3A//archive.org/details/EscapeFromChildhood/page/n87/mode/2up\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">ESCAPE FROM CHILDHOOD : JOHN HOLT : Free Download, Borrow, and Streaming : Internet Archive</a></blockquote>",
+  "content_need_truncated": false,
+  "force_login_when_click_read_more": false,
+  "admin_closed_comment": false,
+  "topics": [
+    {
+      "url": "https://api.zhihu.com/topics/20173790",
+      "type": "topic",
+      "id": "20173790",
+      "name": "全民基本收入"
+    },
+    {
+      "url": "https://api.zhihu.com/topics/19651884",
+      "type": "topic",
+      "id": "19651884",
+      "name": "经济独立"
+    },
+    {
+      "url": "https://api.zhihu.com/topics/19551506",
+      "type": "topic",
+      "id": "19551506",
+      "name": "儿童"
+    }
+  ],
+  "voteup_count": 12,
+  "voting": 0,
+  "heavy_up_status": "allow_heavy_up",
+  "column": {
+    "description": "",
+    "can_manage": true,
+    "intro": "<p>论非学校教育与青少年权利。</p>",
+    "is_following": false,
+    "url_token": "c_1934963636444591835",
+    "id": "c_1934963636444591835",
+    "articles_count": 39,
+    "accept_submission": false,
+    "title": "John Caldwell Holt",
+    "url": "https://api.zhihu.com/columns/c_1934963636444591835",
+    "comment_permission": "all",
+    "created": 1754111286,
+    "updated": 1754111287,
+    "image_url": "https://pic1.zhimg.com/v2-cc01c2a6978ca787ed37f6250ef21062_720w.jpg?source=172ae18b",
+    "author": {
+      "is_followed": false,
+      "avatar_url_template": "https://picx.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94.jpg?source=172ae18b",
+      "uid": "592323397158703104",
+      "user_type": "people",
+      "is_following": false,
+      "url_token": "L.M.Sherlock",
+      "id": "4c592f496dc33822b560b382907ff1d0",
+      "description": "欢迎关注 Thoughts Memo 汉化组！我们关注的话题包括但不限于认知科学、知识工作、学习方法、学校教育、理性思考、儿童权利，目前已经完成翻译 1400 多篇文章。\n\n加入汉化组：https://paratranz.cn/projects/3131",
+      "name": "Thoughts Memo",
+      "is_advertiser": false,
+      "headline": "学校≠教育≠技能；文凭溢价=80%信号传递+20%人力资本",
+      "gender": -1,
+      "url": "https://api.zhihu.com/people/4c592f496dc33822b560b382907ff1d0",
+      "avatar_url": "https://picx.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94_l.jpg?source=172ae18b",
+      "is_org": false,
+      "type": "people",
+      "badge_v2": {
+        "title": "",
+        "merged_badges": [],
+        "detail_badges": [],
+        "icon": "",
+        "night_icon": ""
+      }
+    },
+    "followers": 111,
+    "type": "column",
+    "column_type": "normal"
+  },
+  "comment_count": 0,
+  "contributions": [
+    {
+      "id": 53579723,
+      "state": "accepted",
+      "type": "first_publish",
+      "column": {
+        "description": "",
+        "can_manage": true,
+        "intro": "<p>论非学校教育与青少年权利。</p>",
+        "is_following": false,
+        "url_token": "c_1934963636444591835",
+        "id": "c_1934963636444591835",
+        "articles_count": 39,
+        "accept_submission": false,
+        "title": "John Caldwell Holt",
+        "url": "https://api.zhihu.com/columns/c_1934963636444591835",
+        "comment_permission": "all",
+        "created": 1754111286,
+        "updated": 1754111287,
+        "image_url": "https://pic1.zhimg.com/v2-cc01c2a6978ca787ed37f6250ef21062_720w.jpg?source=172ae18b",
+        "author": {
+          "is_followed": false,
+          "avatar_url_template": "https://picx.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94.jpg?source=172ae18b",
+          "uid": "592323397158703104",
+          "user_type": "people",
+          "is_following": false,
+          "url_token": "L.M.Sherlock",
+          "id": "4c592f496dc33822b560b382907ff1d0",
+          "description": "欢迎关注 Thoughts Memo 汉化组！我们关注的话题包括但不限于认知科学、知识工作、学习方法、学校教育、理性思考、儿童权利，目前已经完成翻译 1400 多篇文章。\n\n加入汉化组：https://paratranz.cn/projects/3131",
+          "name": "Thoughts Memo",
+          "is_advertiser": false,
+          "headline": "学校≠教育≠技能；文凭溢价=80%信号传递+20%人力资本",
+          "gender": -1,
+          "url": "https://api.zhihu.com/people/4c592f496dc33822b560b382907ff1d0",
+          "avatar_url": "https://picx.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94_l.jpg?source=172ae18b",
+          "is_org": false,
+          "type": "people",
+          "badge_v2": {
+            "title": "",
+            "merged_badges": [],
+            "detail_badges": [],
+            "icon": "",
+            "night_icon": ""
+          }
+        },
+        "followers": 111,
+        "type": "column",
+        "column_type": "normal"
+      }
+    }
+  ],
+  "is_title_image_full_screen": false,
+  "upvoted_followees": [],
+  "commercial_info": {
+    "is_commercial": false,
+    "plugin": {}
+  },
+  "suggest_edit": {
+    "status": false,
+    "reason": "",
+    "tip": "",
+    "url": "",
+    "title": ""
+  },
+  "reason": "",
+  "annotation_action": [],
+  "can_tip": false,
+  "can_open_tipjar": true,
+  "tipjarors_count": 0,
+  "is_labeled": false,
+  "has_publishing_draft": false,
+  "is_favorited": false,
+  "favlists_count": 10,
+  "is_normal": true,
+  "status": 0,
+  "activity_topping_info": {
+    "state": "untopped"
+  },
+  "share_text": "《逃离童年》 第二十二章 享有「获取『保障收入』」的权利 - 来自知乎专栏「John Caldwell Holt」，作者: Thoughts Memo https://zhuanlan.zhihu.com/p/2011833930874127360 （想看更多？下载 @知乎 App：http://weibo.com/p/100404711598 ）",
+  "can_comment": {
+    "status": true,
+    "reason": ""
+  },
+  "linkbox": {
+    "url": "",
+    "category": "",
+    "pic": "",
+    "title": ""
+  },
+  "mcn_fp_show": -1,
+  "is_visible": true,
+  "is_liked": false,
+  "liked_count": 0,
+  "has_column": true,
+  "republishers": [],
+  "is_new_link_card": true,
+  "emoji_reaction": {
+    "like_count": 0,
+    "like_has_set": false
+  },
+  "ab_param": {
+    "qa_hidden_voteup": "",
+    "rs_interest1": "",
+    "zp_zhi_style": ""
+  },
+  "attached_info": "kgIuCgkyNzA4NTk2ODkSEzIwMTE4MzM5MzA4NzQxMjczNjAYByIKSU1BR0VfVEVYVA==",
+  "share_guide": {
+    "has_positive_bubble": false,
+    "has_time_bubble": false,
+    "hit_share_guide_cluster": false
+  },
+  "settings": {
+    "table_of_contents": {
+      "enabled": false
+    }
+  },
+  "can_reference": false,
+  "reaction_instruction": {},
+  "reaction": {
+    "statistics": {
+      "up_vote_count": 12,
+      "down_vote_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "play_count": 0,
+      "interest_play_count": 0,
+      "favorites": 10,
+      "pv_count": 0,
+      "bullet_count": 0,
+      "applaud_count": 0,
+      "question_follower_count": 0,
+      "question_answer_count": 0,
+      "plaincontent_vote_up_count": 0,
+      "plaincontent_like_count": 0,
+      "img_like_count": {
+        "v2-1e2e1e4de93437d86d99fcec7f16db9b": 0
+      },
+      "subscribe_count": 0,
+      "republishers": []
+    },
+    "relation": {
+      "is_author": true,
+      "vote": "Neutral",
+      "liked": false,
+      "img_liked": {
+        "v2-1e2e1e4de93437d86d99fcec7f16db9b": false
+      },
+      "faved": false,
+      "following": false,
+      "subcribed": false,
+      "is_navigator_vote": false,
+      "current_user_is_navigator": false,
+      "vote_next_step": ""
+    },
+    "image_reactions": {
+      "v2-1e2e1e4de93437d86d99fcec7f16db9b": {
+        "like_count": 0,
+        "is_liked": false
+      }
+    }
+  },
+  "interaction_bar_plugins": [
+    {
+      "type": "comment",
+      "comment": {
+        "enable": true,
+        "placeholder": "发条带图评论"
+      }
+    }
+  ],
+  "bar_plugins_flip_time": 3000,
+  "podcast_audio_enter": {
+    "text": "1 人听过",
+    "text_color": "MapBrand",
+    "text_size": 13,
+    "action_url": "zhihu://podcast/audio_player/64894335545?contentId=2011833930874127360&contentType=article"
+  },
+  "endorsements": [
+    {
+      "elements": [
+        {
+          "type": "IMAGE",
+          "image_key": "zhicon_icon_24_column_fill",
+          "image_color": {
+            "alpha": 1,
+            "group": "GBL01A"
+          },
+          "width": 16,
+          "height": 16
+        },
+        {
+          "type": "TEXT",
+          "content": "收录于 · John Caldwell Holt",
+          "font_size": 13,
+          "font_color": {
+            "alpha": 1,
+            "group": "GBL01A"
+          },
+          "is_bold": false,
+          "max_line": 1
+        },
+        {
+          "type": "IMAGE",
+          "image_key": "zhicon_icon_16_arrow_right",
+          "image_color": {
+            "alpha": 1,
+            "group": "GBL01A"
+          },
+          "width": 12,
+          "height": 12
+        }
+      ],
+      "sub_elements": [],
+      "sub_elements_type": "DESCRIPTION",
+      "background_color": {
+        "alpha": 0.08,
+        "group": "GBL01A"
+      },
+      "action_url": "https://www.zhihu.com/column/c_1934963636444591835",
+      "za": {
+        "block_text": "Column",
+        "type": "text",
+        "text": "收录于 · John Caldwell Holt"
+      }
+    }
+  ],
+  "allow_segment_interaction": 1,
+  "is_navigator": false,
+  "navigator_vote": false,
+  "vote_next_step": "vote"
+}

@@ -1,0 +1,496 @@
+{
+  "id": "2002818500717207719",
+  "title": "日语学习指南",
+  "type": "article",
+  "article_type": "normal",
+  "excerpt_title": "",
+  "url": "https://api.zhihu.com/articles/2002818500717207719",
+  "image_url": "https://picx.zhimg.com/v2-420de41fcf925e868dae3e6011a64a8d_720w.jpg?source=172ae18b",
+  "title_image": "https://picx.zhimg.com/v2-420de41fcf925e868dae3e6011a64a8d_720w.jpg?source=172ae18b",
+  "excerpt": "<img src=\"https://picx.zhimg.com/v2-a9c1091e34bf1523a9d3efad920beea1_200x112.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"800\" data-rawheight=\"800\" data-watermark=\"original\" data-original-src=\"v2-a9c1091e34bf1523a9d3efad920beea1\" data-watermark-src=\"v2-4dd48b2be5cb647ef85bfbee93329396\" data-private-watermark-src=\"\" class=\"origin_image inline-img zh-lightbox-thumb\" data-original=\"https://picx.zhimg.com/v2-a9c1091e34bf1523a9d3efad920beea1_r.jpg\"/>编者按本文是英文互联网知名日语学习社区 <a href=\"https://link.zhihu.com/?target=https%3A//learnjapanese.moe/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">TheMoeWay</a> 所共同撰写的日语学习指南。本指南中关于汉字的部分，可能会让中文读者觉得啰哩啰嗦、显而易见，但请注意，原指南的目标读者是想要学习日语的英语母语者，本译文已尽力在不大幅修改原文的前提下做了部分…",
+  "created": 1770290867,
+  "updated": 1771992328,
+  "author": {
+    "is_followed": false,
+    "avatar_url_template": "https://picx.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94.jpg?source=172ae18b",
+    "uid": "592323397158703104",
+    "user_type": "people",
+    "is_following": false,
+    "url_token": "L.M.Sherlock",
+    "id": "4c592f496dc33822b560b382907ff1d0",
+    "description": "欢迎关注 Thoughts Memo 汉化组！我们关注的话题包括但不限于认知科学、知识工作、学习方法、学校教育、理性思考、儿童权利，目前已经完成翻译 1400 多篇文章。\n\n加入汉化组：https://paratranz.cn/projects/3131",
+    "name": "Thoughts Memo",
+    "is_advertiser": false,
+    "headline": "学校≠教育≠技能；文凭溢价=80%信号传递+20%人力资本",
+    "gender": -1,
+    "url": "https://api.zhihu.com/people/4c592f496dc33822b560b382907ff1d0",
+    "avatar_url": "https://pic1.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94_l.jpg?source=172ae18b",
+    "is_org": false,
+    "type": "people",
+    "badge": [
+      {
+        "type": "identity",
+        "topics": [],
+        "description": "信息技术行业 算法工程师"
+      }
+    ],
+    "badge_v2": {
+      "title": "知势榜教育校园领域影响力榜答主",
+      "merged_badges": [
+        {
+          "type": "best",
+          "detail_type": "best",
+          "title": "社区成就",
+          "description": "知势榜教育校园领域影响力榜答主",
+          "url": "",
+          "sources": [],
+          "icon": "",
+          "night_icon": "",
+          "badge_status": "passed"
+        },
+        {
+          "type": "identity",
+          "detail_type": "identity_people",
+          "title": "认证",
+          "description": "信息技术行业 算法工程师",
+          "url": "https://zhuanlan.zhihu.com/p/96956163",
+          "sources": [],
+          "icon": "",
+          "night_icon": "",
+          "badge_status": "passed"
+        }
+      ],
+      "detail_badges": [
+        {
+          "type": "reward",
+          "detail_type": "super_activity",
+          "title": "社区成就",
+          "description": "知势榜教育校园领域影响力榜答主",
+          "url": "",
+          "sources": [
+            {
+              "id": "27",
+              "token": "",
+              "type": "content_potential_category",
+              "url": "",
+              "name": "知势榜8月",
+              "avatar_path": "",
+              "avatar_url": "",
+              "description": "",
+              "priority": 27
+            }
+          ],
+          "icon": "https://picx.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+          "night_icon": "https://picx.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+          "badge_status": "passed"
+        },
+        {
+          "type": "identity",
+          "detail_type": "identity_people",
+          "title": "已认证的个人",
+          "description": "信息技术行业 算法工程师",
+          "url": "https://zhuanlan.zhihu.com/p/96956163",
+          "sources": [],
+          "icon": "https://picx.zhimg.com/v2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c",
+          "night_icon": "https://pic1.zhimg.com/v2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c",
+          "badge_status": "passed"
+        }
+      ],
+      "icon": "https://picx.zhimg.com/v2-27bfcba90e66db79ce8768ab807e017e_l.png?source=32738c0c",
+      "night_icon": "https://pica.zhimg.com/v2-27bfcba90e66db79ce8768ab807e017e_l.png?source=32738c0c"
+    },
+    "exposed_medal": {
+      "medal_id": "0",
+      "medal_name": "",
+      "avatar_url": "",
+      "mini_avatar_url": "",
+      "description": "",
+      "medal_avatar_frame": null
+    }
+  },
+  "comment_permission": "all",
+  "copyright_permission": "need_review",
+  "state": "published",
+  "ip_info": "广东",
+  "image_width": 3273,
+  "image_height": 928,
+  "content": "<h2>编者按</h2><p data-pid=\"GBIo4IMt\">本文是英文互联网知名日语学习社区 <a href=\"https://link.zhihu.com/?target=https%3A//learnjapanese.moe/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">TheMoeWay</a> 所共同撰写的日语学习指南。本指南中关于汉字的部分，可能会让中文读者觉得啰哩啰嗦、显而易见，但请注意，原指南的目标读者是想要学习日语的英语母语者，本译文已尽力在不大幅修改原文的前提下做了部分本土化处理。本指南中有许多资源来自英文互联网，可能对中文读者并不友好，我推荐阅读<a href=\"https://link.zhihu.com/?target=https%3A//my.feishu.cn/wiki/YeOSwsG7giLuQxkcDFscUXVZn2f\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">​‌​⁠​​​‬﻿‍​​‍‍﻿​⁠‬⁠​​⁠‍​﻿‍⁠​​‍​​​​‌‌‍⁠​⁠​​​​​基于二语习得理论的日语学习指南</a>以获得更好的体验。</p><p data-pid=\"nbkf5mMw\">可能会有读者困惑，既然如此，为什么你还要翻译这篇指南呢？我对此的回答很简单：因为我就是看这篇指南上手学习的日语。日语学习的资源早就烂大街了，不缺我一个来补充资源。但根据我自身的英语学习经历，以及对身边学习外语的朋友观察，我发现真正限制我们学习外语的并不是资源，而是心态。许多人被自己在学校学习英语的经历所束缚，只懂得一种学习语言的方式：听课、背诵、刷题。通过自我设限，许多人成功地在语言学习上失败了。</p><p data-pid=\"S0ZHXjfY\">而本指南，正如其社区名 The Moe Way 那样，是一条完全有别于学校的语言学习路径（萌萌二次元路径，笑死）。通过这种方法学习语言，不仅更加符合<a href=\"https://zhuanlan.zhihu.com/p/2002678189403705791\" class=\"internal\" target=\"_blank\">《二语习得理论》</a>，而且也要比传统语言学习方法更有趣，更有效。这不是我瞎说的，而是我的真实体验。我自己时不时会把我按照 The Moe Way 方法学习日语的过程录制成视频传到 B 站，大家可以随意观看：</p><a href=\"https://link.zhihu.com/?target=https%3A//space.bilibili.com/5301648/lists/6752064%3Ftype%3Dseason\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-draft-title=\"合集·学日语\" data-draft-cover=\"\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">合集·学日语</a><p data-pid=\"IArN12Sy\">至于其他学习语言，我们汉化组也翻译过一个系列，其精神与 The Moe Way 也是一致的：</p><a href=\"https://zhuanlan.zhihu.com/p/671671625\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-draft-title=\"从 0 开始学外语：Refold 路线图（详细版）\" data-draft-cover=\"https://picx.zhimg.com/v2-ad9fd00d617ba3c3b92524e9c77ef66b.png?source=7e7ef6e2&amp;needBackground=1\" class=\"internal\">从 0 开始学外语：Refold 路线图（详细版）</a><p data-pid=\"R_QKHOY2\">其他废话我就不多说了，往下看吧。</p><p data-pid=\"VxGjGg3I\">PS：原文作者说可以跳过前言，但我认为前言才是精华，最好不要错过，233</p><hr/><p data-pid=\"oxYN42qv\">如果你不需要前言，请直接跳到 <span class=\"nolink\">2.1 如何学习日语</span>。</p><h2><b>1.1 为什么很多人「学不会」日语</b></h2><p data-pid=\"X-9A5Lx9\">很多人在学习日语时心里都有很简单的目标：享受未被翻译的日语内容，并能流利地说日语。你问他们学习目标是什么时，几乎每个人都会说类似的话。然而，很多人即便学习多年也仍然无法实现这些目标。是这门语言太难吗？还是他们不够努力？</p><p data-pid=\"D4iqTjYU\">我认为这其实不怪他们，而是方法的问题。在语言学习中，你所采用的方法会极大影响你取得怎样的进步。</p><p data-pid=\"2MHsBtrN\">事实是，用「传统」的日语学习方法并不能达成这类目标。许多学生之所以注定失败，是因为他们的学习流程里缺少一个关键成分：<b>沉浸（immersion）</b>。<b>沉浸</b>指的是去听、去读由母语者面向母语者创作的原生内容。比如动画片原本就是日语音轨、没有字幕；当你以这种形式去看它时，我们就称之为沉浸。</p><h2><b>1.2 传统方法的问题</b></h2><figure data-size=\"normal\"><img src=\"https://picx.zhimg.com/v2-a9c1091e34bf1523a9d3efad920beea1_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"800\" data-rawheight=\"800\" data-original-token=\"v2-a9c1091e34bf1523a9d3efad920beea1\" class=\"origin_image zh-lightbox-thumb\" width=\"800\" data-original=\"https://picx.zhimg.com/v2-a9c1091e34bf1523a9d3efad920beea1_r.jpg\"/></figure><p data-pid=\"mlp2GKS_\">一个采用「传统」学习方法的日语学习者，通常会经历以下步骤：</p><ul><li data-pid=\"gNp8Oozu\">学习字母表（或多套字母表）。</li><li data-pid=\"sxCY66ZL\">学习一些基础句子，比如问候语和自我介绍。</li><li data-pid=\"NTCGgYki\">学习基础语法结构与词汇。</li><li data-pid=\"wxNDstSS\">通过与家教/学习伙伴对话或写作来造句。</li><li data-pid=\"0BvsS2Wc\">把例句在母语与目标语言之间互译。</li><li data-pid=\"Y6QNP45L\">在教材或家教推荐的 YouTube 视频里查找更多关于语法结构与词汇的材料。</li><li data-pid=\"7IKyau6q\">用已学内容练习对话。</li><li data-pid=\"RYUV2kVg\">积累更多词汇和语法结构，并把这当作衡量自己进步的方式。</li><li data-pid=\"ywpxzQZB\">最后在「终局阶段」，搬去或去日本旅行，希望能有机会练习技能。</li></ul><p data-pid=\"Ry0MkOnX\">这些步骤本身并不坏，甚至可以说学习量已经足够，但它不足以把你带到高水平。问题在于：他们并没有真正接触真实的语言——这是什么意思？</p><p data-pid=\"I3d_DkEO\">拿游泳举例。你不能一直戴着游泳圈待在儿童泳池，非要等到自己成了儿童泳池里的高手，才敢去真正的泳池里尝试。这不会让你成为游泳健将。同理，你也不可能纸上谈兵，光学游泳理论、却从不真正下水，然后就期待自己能游得很好。</p><p data-pid=\"M-ca-WHK\">再举一个更贴近大家的例子：电子竞技游戏。你整天只打人机、在训练模式里埋头苦练，也不会变强。哪怕会被打成 0-5，你也得打真人匹配。这就是「打真实的游戏」，不附带任何条件。</p><p data-pid=\"kuQzukos\"><b>学会继续前进，这非常重要！</b></p><p data-pid=\"EThfX1Cr\"><b>学会继续前进，这非常重要！</b></p><p data-pid=\"UaGA83B3\"><b>学会继续前进，这非常重要！</b></p><p data-pid=\"03cV7g27\">语言学习者常掉入的一个陷阱，就是在入门资料上呆太久。</p><p data-pid=\"bFu3Cezn\">他们想确保自己把基础的每一个细节都弄得滴水不漏，于是拒绝走向真实语言。他们拒绝接触任何自己还不舒服的东西，因为他们太害怕自己什么都不懂。他们可能觉得自己还「没准备好」。但你必须尽早离开入门资源，因为现实是：只有当你真的开始接触真实语言、让自己逐渐适应时，你才会变得「准备好」。</p><p data-pid=\"c-2CCJZT\">对学语言来说，完美主义是把双刃剑。作为一个完美主义者，我曾因为过于纠结无关紧要的小细节而深受其害，最终得不偿失。</p><p data-pid=\"6YRmIVMS\">学语言就像爬山。你可以不准备任何工具直接出发。虽然这会异常困难，但只要坚持下去，最终一定能爬到山顶。而传统学习方法就像是为了让爬山更轻松，先编一根绳子。但你不可能只靠编绳子就爬上山！你最后还是得亲自去爬才行，因为不管你编了多少绳子，爬山依然是艰难而且耗时的。</p><h2><b>1.3 语言的浩瀚</b></h2><p data-pid=\"Nds49zaz\">语言是……浩瀚无垠的。它的内涵之丰富，远非教室或手机 App 那种「x 等于 y」或「x 用来做 y」的教学模式所能承载。要想将一门语言掌握到更高层次，你需要通过海量的阅读和听力，来体验母语者究竟是如何表达的。</p><p data-pid=\"mcksp7Ou\">我们常常很难理解：为什么母语者会在这个语境里用「那个」表达，而在另一个语境里用「这个」表达；为什么用这个词而不用另一个词……这就给我们学习者造成了一道障碍，因为我们无法单靠学习语法和词汇就获得母语般的流利度。</p><p data-pid=\"sk-Mvqyp\">如果缺乏必要的语言体验，你用目标语言造出的句子，往往会显得不自然，甚至晦涩难懂。反过来，由于不熟悉学习资料以外的表达方式，缺乏对母语者如何使用语言的经验，也会让你很难听懂他们的话。</p><p data-pid=\"DNi6VhM3\">因此，在你的学习流程里，<b>你要做我们称之为「沉浸」的事——去读、去听母语者写的、说的东西。</b></p><p data-pid=\"N2S4H1UD\">语言学习本质上是：在可理解输入中，下意识地记住各种模式。也就是说，当你在沉浸（输入）中理解了某些内容（可理解）时，你的大脑会在无意识中把这种模式存下来，以便日后检索。你之所以能很轻松地读完这份指南，只是因为你过去读过大量中文；于是当你阅读时，你的大脑会想类似这样的话：「哦，这里用了第 234 号模式，搭配了第 82 号模式和第 10 号模式！」</p><p data-pid=\"hpF44W6P\">正因为你是一位熟练的中文读者，这个过程才显得毫不费力。你能看懂句子中的每个词，能理解句子之间的逻辑联系，甚至能察觉到我写作的语气和正式程度。这一切，都归功于你的大脑储存了你所遇到过的所有语言模式的语境及其他相关信息。</p><p data-pid=\"LRFoKxPZ\">你注意到我没有提「掌握语法」或「背熟词汇」吗？这是因为，你处理语言的自然方式并非如此。有些读者甚至可能不是中文母语者，也许以前也学过中文语法，但当他们每天接触中文时，大概率不会主动去思考那些语法规则。</p><h2><b>1.4 接受自己一开始很菜</b></h2><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-2fd75c1db48cfca8726e8b7955d27b01_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"800\" data-rawheight=\"800\" data-original-token=\"v2-2fd75c1db48cfca8726e8b7955d27b01\" class=\"origin_image zh-lightbox-thumb\" width=\"800\" data-original=\"https://pic4.zhimg.com/v2-2fd75c1db48cfca8726e8b7955d27b01_r.jpg\"/></figure><p data-pid=\"dx6pTpxL\">  在语言学习中，在任何需要技能的事情上，你一开始都会挣扎很久，直到慢慢变好。如前所述，许多学习者（我也一样)会掉进一个陷阱：在真正开始练习之前，总想先把某个东西彻底搞懂。</p><p data-pid=\"zo9U0D6s\">比如，一个学生可能在某个语法点上纠结太久，以至于永远找不到时间去做更值得做的事情。</p><h3><b>↑ 这正是我们要避免的。</b></h3><p data-pid=\"g3GVoqoQ\">我们必须养成「放手」的习惯，开始做我们真正需要做的事情。</p><p data-pid=\"Q9UudMM-\">是的，你第一次读那本书、看那部动画时，不可能完美理解；但学习本来就不是这样的。往往需要第三次、第四次、第五次，甚至第六次尝试，你才会真正学会某些东西。</p><h2><b>1.5 「沉浸」到底是什么？</b></h2><p data-pid=\"ZLb56uLY\">沉浸指的是：你去接触目标语中的自然内容。也就是说，这些内容不是为学习者制作、也不是专为学习者挑选的；而是母语者自己也会消费的内容。</p><p data-pid=\"Hzu109Ba\">如果你是一名汉语学习者，那么你此刻阅读这份指南就算是在「做汉语沉浸」，因为这份指南并不是简化版，也不是面向汉语学习者写的；它是为母语/熟练汉语读者写的。</p><p data-pid=\"Iv0G-fHP\">因此，当你去听、去读日本人通常也会消费的日语内容时，你就在做沉浸。</p><p data-pid=\"1NCVUuyd\">严格来说，我们也可以把这叫作输入（input），但我更喜欢沉浸（immersion）这个词。</p><h2><b>1.6 自上而下的学习</b></h2><p data-pid=\"Ct-HgLiQ\">学语言需要接受一个事实：你无法理解所有内容。  </p><p data-pid=\"6dv6JeVL\">这与学校中常见的学习方式截然不同。在学校，完美主义往往受到奖励，而你会根据一些任意的标准或考试成绩被评定。  </p><p data-pid=\"QB9bJLux\">通常，当语言学习者尝试接触真实的语言时，无论是观看该语言的电视剧、阅读书籍，还是与母语者进行正常的对话，他们都会因为无法理解所有内容或几乎完全无法理解而感到沮丧。毕竟，当你理解得如此有限时，继续下去似乎违背直觉。但正如前面所解释的，学语言就像是跳入深水区。  </p><p data-pid=\"oCrZuW0K\">语言学习和上学的最大区别在于，它是完全基于现实世界和实际使用，而这些内容是学习材料无法完全涵盖的。  </p><p data-pid=\"4M0rw2Fp\">所以，你要习惯这一切的唯一办法，就是接受自己理解度很低；因为你与语言互动得越多，你就会进步得越快。</p><p data-pid=\"eJMceicY\">当然，你不会在完全没有任何辅助的情况下<b>只</b>做沉浸。你还会同时学习语法和基础词汇，也会用词典学习沉浸过程中遇到的单词。</p><h2><b>2.1 如何学习日语</b></h2><h3><b>初学者的学习过程</b></h3><p data-pid=\"29_J8fla\">初学者的学习过程包括以下几个步骤：</p><ul><li data-pid=\"VQZF8aNl\">学习平假名和片假名，它们是日语书写系统中的两部分。</li><li data-pid=\"6hQJaUuT\">通过一个叫作 <i>Anki</i> 的程序学习基础词汇及其汉字。</li><li data-pid=\"3-9eA_mx\">通过一个 <i>YouTube</i> 播放列表学习语法。</li><li data-pid=\"I7D6i7II\">开始进行沉浸，接触简单内容并进行高频重复。这将占据你大部分的学习时间。</li></ul><h2><b>2.2 平假名与片假名</b></h2><figure data-size=\"normal\"><img src=\"https://pica.zhimg.com/v2-b7db6faa94af22ca229f1b339b91ecf4_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"300\" data-original-token=\"v2-b7db6faa94af22ca229f1b339b91ecf4\" class=\"content_image\" width=\"400\"/></figure><p data-pid=\"yi7b-bb9\">平假名和片假名是日语书写系统的两部分，第三部分是汉字。</p><p data-pid=\"HlN1BTyf\">日语的书写系统与其说是「字母表」，不如说是「音节文字」。严格来说，把它们叫作字母表并不准确，因为每个字符表示的是一个音节，而不是一个元音或辅音。比如「か」，读作「ka」。</p><p data-pid=\"ELyz5KRG\">平假名与片假名合称为「<b>假名</b>」。</p><p data-pid=\"VHVOcNgC\">平假名与片假名覆盖了日语中的所有语音。虽然技术上你可以只用假名写完整个日语，但现实中的日语通常不会这样写，而是混合使用假名（平假名与片假名）以及汉字。</p><h3><b>平假名</b></h3><figure data-size=\"normal\"><img src=\"https://pica.zhimg.com/v2-89d479da554f4f9d8a6fcee06b68bea6_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"651\" data-rawheight=\"383\" data-original-token=\"v2-89d479da554f4f9d8a6fcee06b68bea6\" class=\"origin_image zh-lightbox-thumb\" width=\"651\" data-original=\"https://pica.zhimg.com/v2-89d479da554f4f9d8a6fcee06b68bea6_r.jpg\"/></figure><p data-pid=\"7N5bbqu5\">平假名可以被理解为日语的「主要字母表」。它是假名中更圆润、更可爱的那一套。  它通常用于：</p><ul><li data-pid=\"Qb_Wvl2I\">语法成分</li><li data-pid=\"jXNX4Qm-\">日语固有词的一部分</li><li data-pid=\"4y0G2dx0\">通常不写成汉字的词</li></ul><p data-pid=\"LmCaQMGP\">它也可能用于：</p><ul><li data-pid=\"CxG78wCy\">人名</li></ul><h3><b>片假名</b></h3><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-b81b28db6eaa7bc776e8be01cd6ae7a1_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"651\" data-rawheight=\"383\" data-original-token=\"v2-b81b28db6eaa7bc776e8be01cd6ae7a1\" class=\"origin_image zh-lightbox-thumb\" width=\"651\" data-original=\"https://pic4.zhimg.com/v2-b81b28db6eaa7bc776e8be01cd6ae7a1_r.jpg\"/></figure><p data-pid=\"nel8yNcC\">片假名是假名里更棱角分明、尖锐的一套。它的语音与平假名完全相同。它通常用于：</p><ul><li data-pid=\"MKKLy2jy\">外来语、借词（从英语等其他语言借来的词）</li><li data-pid=\"L6sz-lwF\">拟声拟态词（日语里这种词非常多！）</li><li data-pid=\"tAR5y1eE\">俚语</li></ul><p data-pid=\"QA3t-_um\">它也可能用于：</p><ul><li data-pid=\"xLDWH4cn\">人名，主要是外文人名</li></ul><h3><b>如何学习假名</b></h3><h3><b>第 1 步——假名表</b></h3><p data-pid=\"g9X_GU7C\">首先，我希望你认真看一看这张假名表。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-67b0aee9a67d7d48e3fcbc1345f9ba5a_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"3840\" data-rawheight=\"3654\" data-original-token=\"v2-67b0aee9a67d7d48e3fcbc1345f9ba5a\" class=\"origin_image zh-lightbox-thumb\" width=\"3840\" data-original=\"https://pic1.zhimg.com/v2-67b0aee9a67d7d48e3fcbc1345f9ba5a_r.jpg\"/></figure><p data-pid=\"k5aLFsk9\">当你学习阅读假名时，这张表会非常有用。我建议你把它保存下来。</p><p data-pid=\"tvgvh9ut\">你可以用这张表做的事情：</p><ul><li data-pid=\"K5h33xK6\">对照表格学习读假名。列表示元音，行表示辅音。因为「か」在 K 行、A 列，所以它读作「ka」。</li><li data-pid=\"WhG4-Sxy\">通过笔顺（字符上的蓝色小箭头和数字）学习书写方式。</li><li data-pid=\"0KajpJLu\">把它当作所有单个假名的总索引/参考表。这会在你学习日语阅读时帮你很多。</li></ul><h3><b>第 2 步——YouTube 视频</b></h3><h3><b><a href=\"https://link.zhihu.com/?target=https%3A//youtu.be/_wZHqOghvSs\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">观看这个 YouTube 视频</a></b></h3><p data-pid=\"9JIAnXhr\">这是一段 2 小时的视频，讲的是平假名与片假名。它是了解假名的一个很好的入门介绍。</p><h3><b>第 3 步——刷熟练度</b></h3><p data-pid=\"zLITlBmD\">做完这些之后，来玩这个假名刷熟练度游戏。</p><h3><b><a href=\"https://link.zhihu.com/?target=https%3A//gohoneko.neocities.org/learn/kana\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">假名刷熟练度游戏</a></b></h3><h3><b>怎么玩</b></h3><ol><li data-pid=\"TG5Cs02G\">点击「show/hide options」。</li><li data-pid=\"56BlwIqm\">在「平假名」里点击「check all」。</li><li data-pid=\"9UaJFEQf\">开始猜这些平假名怎么读（怎么发音）。</li><li data-pid=\"3bz0U3oR\">重复直到有把握（可能需要几天或几周），然后做同样的事，但这次把所有「平假名组合」也勾上。</li><li data-pid=\"RPBOkcIk\">重复直到有把握，然后把所有「片假名」也勾上，再把所有「片假名组合」也勾上。</li></ol><p data-pid=\"jCMN1l5p\">整个过程因人而异，可能需要 3 周到 1 个月。若这部分花了你不少时间，请不要气馁，因为你还可以做其他事情，比如初级沉浸。</p><h3><b>第 4 步——阅读练习</b></h3><p data-pid=\"VeAFV-ZW\">记住假名的一个巨大帮助，是阅读用假名写的句子。  并非所有日语都写成假名；在没有汉字知识的情况下，你此时读大多数内容都会很困难。但有时日语会在汉字上方标注假名来帮助你阅读，这叫作 <i>furigana</i>（振假名）。比如这里：日本語(にほんご)。这就是「日语」（「nihongo」）的意思。我用汉字写出了它的字形，并在上方标了平假名。</p><p data-pid=\"94xM9Ljt\">我建议你通过阅读 Tadoku 分级读物来练习假名，你可以在<a href=\"https://link.zhihu.com/?target=https%3A//tadoku.org/japanese/free-books/%23l0\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">这里</a>找到。</p><h3><b>你现在不需要能理解任何内容。这只是为了让你更擅长读假名。</b> </h3><h2><b>2.3 词汇与汉字</b></h2><h3><b>汉字：那个「异类」</b></h3><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-ba129ec7fcd98c9bf729f2b8caf6df88_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1167\" data-rawheight=\"825\" data-original-token=\"v2-ba129ec7fcd98c9bf729f2b8caf6df88\" class=\"origin_image zh-lightbox-thumb\" width=\"1167\" data-original=\"https://pic3.zhimg.com/v2-ba129ec7fcd98c9bf729f2b8caf6df88_r.jpg\"/></figure><p data-pid=\"HqSV0VOm\">汉字（意为「中文字符」）是日语使用的另一套书写系统。它们是表意文字，比假名更复杂、种类也更多。日语常用的汉字大约有 2000 到 3000 个；但这个数字不应该让你灰心，因为汉字并不是像假名那样用来孤立学习、反复刷熟练度的。</p><p data-pid=\"BDAvrnlk\">假名数量少、而且<b>语音对应关系稳定</b>，因此可以脱离语境单独学习，并在短时间内掌握；但汉字不是。它们的使用方式也不同，并不那么「符合直觉」。这是什么意思？</p><p data-pid=\"DN6fySWa\">举个例子。因为假名表示的是日语的语音，只要某个音有对应的假名，我们就可以按读音写任何东西——这甚至包括把英语单词写成假名。</p><p data-pid=\"WNjC6pXI\">现在想象一下，我把<b>英语</b>句子「I am learning Japanese」用假名写出来，会变成：</p><blockquote data-pid=\"gqCxyzcw\">&#34;あい　あむ　らあにんぐ　じゃぱにいず&#34;</blockquote><p data-pid=\"EhBDyNxL\">当然，这很荒谬，你也没有任何理由这样写。但重点是：你没法用汉字做类似的事情，否则会变得完全不可读、不可理解。那为什么我们要用汉字？<b>因为词。</b>词会用到汉字，因此……</p><p data-pid=\"CYoVovwq\"><b>只有当汉字用在词里时，它才有意义。</b></p><p data-pid=\"DIa0MLLm\">我再说一遍：</p><p data-pid=\"xuktAgck\"><b>只有当汉字用在词里时，它才有意义！</b></p><p data-pid=\"uLUJ6dKh\">任何语言都有<b>大量</b>词汇，不同的词有不同的意思。不知为何，中文和日语选择用汉字把不同的词及其意义拼装出来。这就是为什么汉字这么多，也就是为什么你不必被它们吓到：它们本来就应该和使用它们的词一起学。毕竟……没人会在学会阅读之前，先把所有词都预先背完！那太离谱了。</p><p data-pid=\"asXCeXeT\"><b>汉字不是词，但它们是构成词的「积木」。</b></p><p data-pid=\"LdJFTvFv\">日语在学习阅读上多了额外步骤：因为有汉字，你必须不断查词典，才能学会任何东西怎么读。  比如，如果我给你看这个词：<b>今日</b>，你很可能不会读，也不知道它的意思。你要学会读它，就得去查词典，比如 <a href=\"https://link.zhihu.com/?target=https%3A//jisho.org/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Jisho.org</a>。  词典会告诉你它读作 <b>きょう</b>，意思是 <i>today</i>（今天）。当我们在阅读中遇到这个词并查到它时，我们会把这条信息内化，然后继续读下去。  很麻烦……但有像 <a href=\"https://link.zhihu.com/?target=https%3A//learnjapanese.moe/yomichan\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Yomitan</a> 这样的工具，只需要按一下键就能完成这些事。</p><h3><b>关于「脱离词汇单独学汉字」的一点说明</b></h3><p data-pid=\"aO7eVGOp\">只要日语学习这件事存在，汉字学习方法就一直充满争论。初学者在阅读日语时遇到的一个常见问题是：很多汉字长得太像，形状也看不出道理。</p><p data-pid=\"DeTvF3XU\">汉字看起来像随机形状，但它们其实由一些常见部件组成。比如本网站图标所用的汉字<b>萌</b>：它实际上由 3 个常见部件构成，而这些部件也出现在许多其他汉字里。</p><figure data-size=\"normal\"><img src=\"https://picx.zhimg.com/v2-420de41fcf925e868dae3e6011a64a8d_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"3273\" data-rawheight=\"928\" data-original-token=\"v2-420de41fcf925e868dae3e6011a64a8d\" class=\"origin_image zh-lightbox-thumb\" width=\"3273\" data-original=\"https://picx.zhimg.com/v2-420de41fcf925e868dae3e6011a64a8d_r.jpg\"/></figure><p data-pid=\"a0ZtqSPq\">这不是必需的，但如果你很难区分不同汉字，可以尝试先按部件来孤立学习汉字。你可以用一套额外的 <i>Anki </i>牌组（下一节会解释）来做这件事。你可以在<a href=\"https://link.zhihu.com/?target=https%3A//mega.nz/file/2SJiWC4b%23hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">这里</a>找到这套牌组。</p><h2><b>2.4 学习词汇</b></h2><p data-pid=\"2aA5T9KR\">为了对汉字以及它们如何在词中组合使用形成直觉，我建议你先把一个面向初学者的 Anki 词汇牌组过一遍。这个牌组大约包含 <i>1500</i> 个词，旨在教你最常见的日语词汇，从而为你的日语学习「起步加速」。</p><h3><b>Anki 快速安装</b></h3><p data-pid=\"Hb04zuk2\">Anki 是一款专为辅助记忆大量信息（如词汇）设计的抽认卡程序。</p><p data-pid=\"mfmLhzdv\">访问 <a href=\"https://link.zhihu.com/?target=https%3A//apps.ankiweb.net/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Anki 下载页面</a>，下载适用于你系统的 Anki 版本并安装。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-e20601d30dd261ed5045d696ad06b3a7_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"852\" data-rawheight=\"470\" data-original-token=\"v2-e20601d30dd261ed5045d696ad06b3a7\" class=\"origin_image zh-lightbox-thumb\" width=\"852\" data-original=\"https://pic2.zhimg.com/v2-e20601d30dd261ed5045d696ad06b3a7_r.jpg\"/></figure><p data-pid=\"F9l8Qnre\">第一次打开 Anki 时，它会让你选择界面语言；直接保持默认（英语）即可。</p><p data-pid=\"317Xmm2Q\">我推荐的入门牌组是 <a href=\"https://link.zhihu.com/?target=https%3A//github.com/donkuri/Kaishi/releases\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Kaishi 1.5k</a><sup data-text=\"Kaishi 1.5k zh-CN\" data-url=\"https://github.com/maimemo/kaishi-zh-cn/\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"1\">[1]</sup>，可以在<a href=\"https://link.zhihu.com/?target=https%3A//github.com/donkuri/Kaishi/releases\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">这里</a>下载（点击 .apkg 链接）。</p><p data-pid=\"2fFOkxlS\">下载完成后，点击「Import file」并定位到下载的文件（.apkg），然后点击右上角的 Import 导入牌组。</p><h3><b>Anki 快速使用指南</b></h3><p data-pid=\"yECQVO_S\">开始学习前，我建议你先改一些设置。点击牌组旁的齿轮图标，然后进入 <i>Options</i>。</p><p data-pid=\"U3SurwOh\">把 <i>Maximum reviews/day</i> 从 <code>200</code> 改为 <code>9999</code>。别被这个数字吓到，你每天的复习数量几乎不可能高到这个程度；这只是为了取消每日复习上限，获得更好的体验。</p><p data-pid=\"wmWQZ0E9\">至于 <i>New cards/day</i>，我觉得 <code>20</code> 对一些人来说可能投入太大。如果你觉得每天学 20 个新词没把握，可以把这个数字降到 <code>10</code>，或者更低。</p><p data-pid=\"muJSrgJc\">当你开始学习 <i>Kaishi 1.5k</i> 牌组时，第一张卡片会是一张说明卡。你可以点「More」然后点击「Delete Note」把它删掉。</p><p data-pid=\"MXQchocA\">Anki 通过测试你是否记得卡片背面的内容来帮助你记忆。这里测试的是：你是否知道这个词的意思，以及它怎么读。卡片上的其他信息都只是辅助。  请注意：尽管 <i>Kaishi 1.5k</i> 里有例句，但它的设计目标只是教你单个词。</p><p data-pid=\"4r8DROZM\">当你第一次看到一张不熟悉的 Anki 卡片时，一般的做法是点击 <i>Show Answer</i> 来看背面内容。</p><figure data-size=\"normal\"><img src=\"https://pica.zhimg.com/v2-1d18c5330d8ef988c23e67b7c26aab12_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"669\" data-rawheight=\"602\" data-original-token=\"v2-1d18c5330d8ef988c23e67b7c26aab12\" class=\"origin_image zh-lightbox-thumb\" width=\"669\" data-original=\"https://pica.zhimg.com/v2-1d18c5330d8ef988c23e67b7c26aab12_r.jpg\"/></figure><p data-pid=\"FcOMnhyu\">看清楚之后，按 <i>Again</i>（意思是「再来一次」）。然后你会进入下一张卡片；对它也做同样的事，因为它同样是你第一次看到的卡片。  下次再见到这张卡片时，就进入「测验」阶段了。尽你所能回忆卡片背面的意思与读音，然后给自己打分！</p><p data-pid=\"aSw9hfb5\">这基本就是我们在入门阶段学习词汇的方法。</p><p data-pid=\"y5KTBwXI\">当你完成当天的新卡片后，记得第二天回来做复习！</p><h2><b>2.5 语法</b></h2><p data-pid=\"uCc17nmL\">学习语法既可以很直接，也可以很复杂。它对学习日语很关键；虽然一开始可能让人望而生畏，但确实有很多资源能让过程变得更轻松。语法学习流程相对简单：挑一份指南，读/看就行。</p><p data-pid=\"q-K7vDHO\">这些年出现过很多语法资源，有的很好，有的不太行。由于主题本身的性质，只靠一份语法资源未必适合所有人。</p><p data-pid=\"My2BQrQD\">下面是一些我按「推荐程度」为完全初学者排序的指南。你不需要把每一个都做完，只要找到最适合你的那一个即可。</p><ul><li data-pid=\"kMwmIE5Y\"><a href=\"https://link.zhihu.com/?target=https%3A//yoku.bi/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Yokubi</a></li><li data-pid=\"7p1jpC24\"><a href=\"https://link.zhihu.com/?target=https%3A//www.youtube.com/playlist%3Flist%3DPLd5-Wp_4tLqYZxS5j3g6kbeOfVXlTkr3N\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Japanese Ammo with Misa 语法 YouTube 播放列表</a></li><li data-pid=\"m9QD9y8s\"><a href=\"https://link.zhihu.com/?target=https%3A//www.youtube.com/playlist%3Flist%3DPLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Cure Dolly 的 Organic Japanese YouTube 播放列表</a>（<a href=\"https://link.zhihu.com/?target=https%3A//kellenok.github.io/cure-script/1-the-basic-types-of-sentences.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">文字稿</a>）</li><li data-pid=\"J462se_V\"><a href=\"https://link.zhihu.com/?target=https%3A//gohoneko.neocities.org/grammar/taekim\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Tae Kim 的日语指南</a></li><li data-pid=\"DLCf6-wp\"><a href=\"https://link.zhihu.com/?target=https%3A//gohoneko.neocities.org/learn/anon/sakubi\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Sakubi</a></li><li data-pid=\"Dg4VYCNQ\"><a href=\"https://link.zhihu.com/?target=https%3A//imabi.org/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">IMABI</a></li></ul><p data-pid=\"bgh3RjEG\">当你学了一些新的语法点之后，就到了开始做沉浸的黄金时间。看到你学过的语法在真实用法中如何被使用，会非常有助于你进一步理解这些语法点。</p><h2><b>2.6 初学者的沉浸：一场艰苦的战斗</b></h2><p data-pid=\"o-bvb6YP\">如果你还记得 1.3 节，我提到过一个概念：可理解输入（comprehensible input）。它指的是：在你目前水平下大体能懂的输入，每隔几句只缺少一点点拼图碎片。做这种沉浸时，你会在上下文的帮助下用合理猜测去填补那些暂时不可理解的部分；这也正是它对语言学习特别有用的原因。</p><p data-pid=\"QJdzB24Q\">现在你可能注意到一个问题：如果你接触不到可理解输入怎么办？作为完全初学者，没有任何内容是「简单」的。事实上，这也是为什么很多人会陷入无尽循环：从一个入门资源跳到另一个入门资源。不可理解输入（incomprehensible input）并非毫无用处——它确实有益，也能帮助学习——但要跨过最初那道坎非常困难。</p><p data-pid=\"22Xud4Ix\">当你读不懂/听不懂自己想享受的内容时，本来就很难受；除非你采用一种特定心态：从「我正在缓慢进步」这件事中获得快乐，即便这种进步在当下难以察觉。然而，这种心态很难一直维持，因此它并不适合作为唯一的长期动力——而长期一致性正是掌握任何技能的第一关键！</p><p data-pid=\"6FLVNl6_\">那我们怎样才能不再总是害怕去啃那些难懂的内容呢？</p><p data-pid=\"5jzYczYA\">答案其实很简单：乐趣！媒体的可娱乐性并不只来自语言本身。只要你选择的媒体即使不考虑语言难度也足够有趣，你就能持续投入、保持动力去做沉浸。随后，随着语言经验的增长，你会自然地听懂/读懂越来越多；曾经看似遥不可及的「找到可理解输入」会变成理所当然，而你的目标会转而变成：找到难度足够、能推动你继续学习的内容。</p><h2><b>2.7 如何沉浸</b></h2><h3><b>阅读与词典</b></h3><p data-pid=\"y5s4IfnM\">为了让阅读日语没那么痛苦，你可以使用一个免费的浏览器扩展：Yomitan。你可以在<a href=\"https://link.zhihu.com/?target=https%3A//learnjapanese.moe/yomichan\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">这里</a>找到使用教程。</p><p data-pid=\"IDGezz9d\">如果你想逐个查词，可以用 <a href=\"https://link.zhihu.com/?target=https%3A//jisho.org/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Jisho.org</a>；手机 App 方面，Android 有 <a href=\"https://link.zhihu.com/?target=https%3A//play.google.com/store/apps/details%3Fid%3Dcom.craxic.akebifree\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Akebi</a>，iOS 有 <a href=\"https://link.zhihu.com/?target=https%3A//apps.apple.com/us/app/shirabe-jisho/id1005203380\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Shirabe Jisho</a>。</p><h3><b>选择沉浸内容</b></h3><p data-pid=\"NABmWKJt\">说真的，选你想看的就行。可以是任何动画、电影、日剧、小说、轻小说、漫画、视觉小说、游戏或 YouTube 视频。如果你完全没有头绪，也可以去看<a href=\"https://link.zhihu.com/?target=https%3A//hianime.to/watch/love-live-school-idol-project-1706%3Fep%3D22404\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">我最喜欢的动画</a>。只要确保：你真的对自己选择的沉浸内容感兴趣！</p><h3><b>听力沉浸怎么做</b></h3><p data-pid=\"i9_XFrgI\">听力几乎完全是一种自上而下、偏「直觉」的方法。听的时候不要想太多，顺着内容走，直到你遇到一个很好的时机再暂停并查点东西。  听力大致有几个层级：第 1 级是自由流动式聆听——不查词，就让内容继续播放；第 2 级是查一些让你眼前一亮的点，但仍然让内容继续播放；第 3 级是每遇到一个不认识的词就暂停并查。  在入门到中级阶段，听力基本就是第 1 级和第 2 级。别想太多，好好珍惜你遇到的每一个小机会。</p><h3><b>「主动」与「被动」聆听</b></h3><p data-pid=\"DOu-Vw3J\">主动聆听指的是：你把注意力全部放在听的内容上，比如盯着屏幕看、认真听动画对白。这种聆听方式带来的收益最大。</p><p data-pid=\"qAqMW-XY\">被动聆听指的是：你在做别的事情，同时让音频在后台播放。如果你在过程中偶尔分神听上几段，它会非常有帮助，尤其适合生活忙碌的人。我其实很推荐用被动沉浸来填补那些你平时没在做日语的时间缝隙。</p><h3><b>阅读沉浸怎么做</b></h3><p data-pid=\"-khMnDLo\">与听力相反，阅读更像是自下而上、慢慢来、偏「分析式」的方法。你可以花任意时间去读句子、查词。流程循环大致是<b>阅读 → 查词 → 反应 → 继续阅读 → 查词 →（重复）</b>。一开始你会觉得像在撞墙，但这就是你建立阅读能力的方式。  带有视觉信息的阅读材料（例如带日语字幕的动画——详见 <a href=\"https://link.zhihu.com/?target=https%3A//learnjapanese.moe/routine\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">UsagiSpoon</a><sup data-text=\"30 天入门日语\" data-url=\"https://zhuanlan.zhihu.com/p/2003200028689338460\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"2\">[2]</sup>——以及漫画与视觉小说）能帮助你更平滑地进入阅读。</p><h3><b>听读的理想比例</b></h3><p data-pid=\"WZjbzhqN\">在入门阶段，我建议听力与阅读的时间比例是 7:3。这主要是因为听力是语言最自然的形态，我认为优先听力能让你的大脑更自然地加工日语。  当你的日语变好之后，可以把听力降低到与阅读相等的 5:5。</p><h2><b>2.8 入门阶段的学习循环</b></h2><h3><b>错误做法</b></h3><p data-pid=\"M5AShHko\">错误做法是这样：</p><p data-pid=\"C8wFMfMG\">先把所有假名都学完，再把 Kaishi 的 1500 个词全部学完，再把所有语法都学完，最后才第一次开始沉浸……</p><p data-pid=\"_8HVHXxe\">这是一个很糟糕的方法。你需要每样都做一点。</p><h3><b>正确做法</b></h3><p data-pid=\"yOoDg8VU\">当你在学习假名时，我建议你先进入沉浸状态：试着看点日语内容，不带字幕。你喜欢什么都可以，你也不需要能听懂任何东西。  之后，你应该同时学习词汇与语法。比如每天学 10 个新词、学 2 个语法点？并且在同一天里，尽量做一点沉浸。</p><p data-pid=\"e2dx5WOv\">每天应该沉浸多久？</p><p data-pid=\"8lpiXGnA\">刚开始时，我推荐每天 1 到 2 小时。做得更多也没有坏处；沉浸时间越多，你进步得越快。</p><h2><b>3.1 关于口语与写作（输出）</b></h2><p data-pid=\"cTOq6FGB\">很多人误以为：多说这门语言就会变强。但事实并非如此；真正帮助我们的是输入——我们听到、看到母语者使用语言的那些内容。输出并不会直接提升你的语言熟练度，但练输出仍然很重要，无论是发消息还是说话，因为输入与输出相辅相成。有效的输出会迫使你的大脑确认：自己是否真的理解了听到的词；同时，你也可能会在输入中下意识地寻找机会，把听到的东西用在输出里。  建议保持规律的输出，同时保持规律的输入。</p><p data-pid=\"z18Xj-bs\">与很多沉浸式学习方法所说的相反，我不认为为了诸如「说错会『毁』了日语」之类的理由而把输出拖到你「非常厉害」之后才开始，是个聪明的主意。这样做会让你错过无数机会：你本可以更早在输出中吸收并使用一些东西；同时，它还会把你洗脑进一种有毒的完美主义心态，让你对自己的日语变得极度保护。</p><p data-pid=\"dUMebgKQ\">在我运营 TheMoeWay 的 4 年多里，我与各类沉浸学习者聊过很多。我几乎没见过多少人在输出上真正自信。为什么？因为他们中的大多数甚至根本不愿意尝试输出：他们害怕说出「坏掉的」日语；害怕这会毁了自己的日语；害怕被别人嘲笑……这些都是有毒完美主义心态的产物，而它会伤害沉浸学习。</p><h2><b>3.2 发音与音高重音</b></h2><p data-pid=\"5CSpTAwf\">与几乎所有其他语言的社群与资源相比，日语资源、家教和学习者往往会把发音当作一个次要问题，因为日语发音很简单。是的，它确实简单；是的，你也不太需要担心因为发音而被误解。但对一些学习者来说，发音好不好可能就是他们的目标之一。</p><p data-pid=\"WrMAMjxc\">我也要把这份指南加入那一长串「你不需要专门学发音」的资源之中：如果你并不在意自己听起来有多惊艳，那就别为发音纠结。</p><p data-pid=\"XpLnQbLS\">想更进一步的学习者，可以考虑自行学习 <i>pitch accent</i>（音高重音）以及正确的 IPA 发音，最好越早越好。</p><h2><b>3.3 学习里程碑</b></h2><p data-pid=\"p1S7539J\">如果你很好奇，达到这些里程碑后，你大致可以期待自己拥有怎样的日语水平：</p><ul><li data-pid=\"siOfGJxk\">看完 10 部无字幕动画：你开始真正掌握「听日语」的感觉了。你现在很可能能理解不少句子。你在学习初期看过的动画，会让你感觉「完全不一样」！<br/><br/></li><li data-pid=\"tn5zKiNW\">看完 25 部无字幕动画：这时听日语会比以往任何时候都更自然。<br/><br/></li><li data-pid=\"E4U7Mrju\">看完 50 部无字幕动画：如果你一直保持学习……那我已经很难再把你当作初学者了。和起步时相比，你现在的能力会有巨大差异！<br/><br/></li><li data-pid=\"qEJp2S89\">读完 1 本完整小说：虽然你读这本书时会非常痛苦，但你已经开始真正走出入门阶段。你读的下一本会明显更容易。<br/><br/></li><li data-pid=\"B1E6R3Ut\">读完 5 本小说 / 1 部中长篇视觉小说：我不会再把你当作初学者了。你确实开始建立起良好的日语阅读能力了。<br/><br/></li><li data-pid=\"7vy4hDWK\">读完 10 本小说 / 2 部中长篇视觉小说：这时你已经完全是中级水平了。恭喜！</li></ul><h2><b>3.4 结语：走出入门阶段之后</b></h2><p data-pid=\"tIuHfF1S\">日语学习过程其实没太多玄学：大量沉浸，学词与学语法。用这种方法，你确实可以把日语学到流利。但当你离开入门阶段后，有一件事会发生变化。</p><p data-pid=\"CM0y32Fz\">用 Anki 学词会变得更个人化，因为你会开始从自己的沉浸内容里挖词做卡片，这个过程通常被称为 <i>mining</i>。我推荐的挖词指南是 <a href=\"https://link.zhihu.com/?target=https%3A//donkuri.github.io/learn-japanese/mining/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Donkuri 的挖词指南</a>。挖词基本会成为你日语「学习」的核心。</p><p data-pid=\"Y6a-H6-Z\">非常感谢你花时间读完这份指南，祝你日语学习之旅一切顺利！</p><p data-pid=\"h_BzL1UV\">如果你有任何问题，欢迎来我们的 Discord 服务器提问。</p><p data-pid=\"C_I7I-9L\"><a href=\"https://link.zhihu.com/?target=https%3A//learnjapanese.moe/join\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">加入 Discord</a></p><h3><b>Patreon</b></h3><p data-pid=\"0pp5zVE1\">如果这份指南对你的日语学习之旅有帮助，我们将非常感谢你在 Patreon 上的捐助！</p><p data-pid=\"v040rrtA\"><a href=\"https://link.zhihu.com/?target=https%3A//www.patreon.com/shoui\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">成为赞助者</a></p><h3><b>贡献者</b></h3><p data-pid=\"8O57xmAa\">我想感谢所有参与制作本指南的人：</p><p data-pid=\"97zn4h26\">iamatryhard  shigatsunoraion  qazsedctgb  ktamashi  kaio.n  saegusa.mayumin  pedipanol  .ikki.  ultravioletspring  deviru  kazuhira___  marv.n</p><hr/><blockquote data-pid=\"ZmDfyy5Q\"><a href=\"https://link.zhihu.com/?target=http%3A//paratranz.cn/projects/3131\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Thoughts Memo</a> 汉化组译制<br/>感谢主要译者 <span class=\"nolink\">John Qing</span>、<span class=\"nolink\">GPT-5.2</span>，校对 Jarrett Ye<br/>原文：<a href=\"https://link.zhihu.com/?target=https%3A//learnjapanese.moe/guide/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Japanese Guide</a><br/>目录：<a href=\"https://zhuanlan.zhihu.com/p/2005777505055967011\" class=\"internal\" target=\"_blank\">日语学习：萌萌二次元之路</a></blockquote>",
+  "content_need_truncated": false,
+  "force_login_when_click_read_more": false,
+  "admin_closed_comment": false,
+  "topics": [
+    {
+      "url": "https://api.zhihu.com/topics/21306208",
+      "type": "topic",
+      "id": "21306208",
+      "name": "零基础学日语"
+    },
+    {
+      "url": "https://api.zhihu.com/topics/19789286",
+      "type": "topic",
+      "id": "19789286",
+      "name": "日语学习"
+    },
+    {
+      "url": "https://api.zhihu.com/topics/19686545",
+      "type": "topic",
+      "id": "19686545",
+      "name": "二语习得理论"
+    }
+  ],
+  "voteup_count": 319,
+  "voting": 0,
+  "heavy_up_status": "allow_heavy_up",
+  "column": {
+    "description": "",
+    "can_manage": true,
+    "intro": "你并不需要刻意记住语言，而是要去熟悉语言",
+    "is_following": false,
+    "url_token": "c_1537015147880669184",
+    "id": "c_1537015147880669184",
+    "articles_count": 95,
+    "accept_submission": false,
+    "title": "外语习得",
+    "url": "https://api.zhihu.com/columns/c_1537015147880669184",
+    "comment_permission": "all",
+    "created": 1659232967,
+    "updated": 1751811168,
+    "image_url": "https://picx.zhimg.com/v2-9e674c4fb024a1226e2d46e314d3ca5f_720w.jpg?source=172ae18b",
+    "author": {
+      "is_followed": false,
+      "avatar_url_template": "https://pic1.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94.jpg?source=172ae18b",
+      "uid": "592323397158703104",
+      "user_type": "people",
+      "is_following": false,
+      "url_token": "L.M.Sherlock",
+      "id": "4c592f496dc33822b560b382907ff1d0",
+      "description": "欢迎关注 Thoughts Memo 汉化组！我们关注的话题包括但不限于认知科学、知识工作、学习方法、学校教育、理性思考、儿童权利，目前已经完成翻译 1400 多篇文章。\n\n加入汉化组：https://paratranz.cn/projects/3131",
+      "name": "Thoughts Memo",
+      "is_advertiser": false,
+      "headline": "学校≠教育≠技能；文凭溢价=80%信号传递+20%人力资本",
+      "gender": -1,
+      "url": "https://api.zhihu.com/people/4c592f496dc33822b560b382907ff1d0",
+      "avatar_url": "https://pic1.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94_l.jpg?source=172ae18b",
+      "is_org": false,
+      "type": "people",
+      "badge_v2": {
+        "title": "",
+        "merged_badges": [],
+        "detail_badges": [],
+        "icon": "",
+        "night_icon": ""
+      }
+    },
+    "followers": 974,
+    "type": "column",
+    "column_type": "normal"
+  },
+  "comment_count": 40,
+  "contributions": [
+    {
+      "id": 53440136,
+      "state": "accepted",
+      "type": "first_publish",
+      "column": {
+        "description": "",
+        "can_manage": true,
+        "intro": "你并不需要刻意记住语言，而是要去熟悉语言",
+        "is_following": false,
+        "url_token": "c_1537015147880669184",
+        "id": "c_1537015147880669184",
+        "articles_count": 95,
+        "accept_submission": false,
+        "title": "外语习得",
+        "url": "https://api.zhihu.com/columns/c_1537015147880669184",
+        "comment_permission": "all",
+        "created": 1659232967,
+        "updated": 1751811168,
+        "image_url": "https://picx.zhimg.com/v2-9e674c4fb024a1226e2d46e314d3ca5f_720w.jpg?source=172ae18b",
+        "author": {
+          "is_followed": false,
+          "avatar_url_template": "https://pic1.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94.jpg?source=172ae18b",
+          "uid": "592323397158703104",
+          "user_type": "people",
+          "is_following": false,
+          "url_token": "L.M.Sherlock",
+          "id": "4c592f496dc33822b560b382907ff1d0",
+          "description": "欢迎关注 Thoughts Memo 汉化组！我们关注的话题包括但不限于认知科学、知识工作、学习方法、学校教育、理性思考、儿童权利，目前已经完成翻译 1400 多篇文章。\n\n加入汉化组：https://paratranz.cn/projects/3131",
+          "name": "Thoughts Memo",
+          "is_advertiser": false,
+          "headline": "学校≠教育≠技能；文凭溢价=80%信号传递+20%人力资本",
+          "gender": -1,
+          "url": "https://api.zhihu.com/people/4c592f496dc33822b560b382907ff1d0",
+          "avatar_url": "https://pic1.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94_l.jpg?source=172ae18b",
+          "is_org": false,
+          "type": "people",
+          "badge_v2": {
+            "title": "",
+            "merged_badges": [],
+            "detail_badges": [],
+            "icon": "",
+            "night_icon": ""
+          }
+        },
+        "followers": 974,
+        "type": "column",
+        "column_type": "normal"
+      }
+    }
+  ],
+  "is_title_image_full_screen": false,
+  "upvoted_followees": [],
+  "commercial_info": {
+    "is_commercial": false,
+    "plugin": {}
+  },
+  "suggest_edit": {
+    "status": false,
+    "reason": "",
+    "tip": "",
+    "url": "",
+    "title": ""
+  },
+  "reason": "",
+  "annotation_action": [],
+  "can_tip": false,
+  "can_open_tipjar": true,
+  "tipjarors_count": 0,
+  "is_labeled": false,
+  "has_publishing_draft": false,
+  "is_favorited": false,
+  "favlists_count": 766,
+  "is_normal": true,
+  "status": 0,
+  "activity_topping_info": {
+    "state": "untopped"
+  },
+  "share_text": "日语学习指南 - 来自知乎专栏「外语习得」，作者: Thoughts Memo https://zhuanlan.zhihu.com/p/2002818500717207719 （想看更多？下载 @知乎 App：http://weibo.com/p/100404711598 ）",
+  "can_comment": {
+    "status": true,
+    "reason": ""
+  },
+  "linkbox": {
+    "url": "",
+    "category": "",
+    "pic": "",
+    "title": ""
+  },
+  "mcn_fp_show": -1,
+  "is_visible": true,
+  "is_liked": false,
+  "liked_count": 28,
+  "has_column": true,
+  "republishers": [],
+  "is_new_link_card": true,
+  "emoji_reaction": {
+    "like_count": 28,
+    "like_has_set": false
+  },
+  "ab_param": {
+    "qa_hidden_voteup": "",
+    "rs_interest1": "",
+    "zp_zhi_style": ""
+  },
+  "attached_info": "kgIuCgkyNzAwMzIyMjASEzIwMDI4MTg1MDA3MTcyMDc3MTkYByIKSU1BR0VfVEVYVA==",
+  "share_guide": {
+    "has_positive_bubble": false,
+    "has_time_bubble": false,
+    "hit_share_guide_cluster": false
+  },
+  "settings": {
+    "table_of_contents": {
+      "enabled": true
+    }
+  },
+  "can_reference": false,
+  "reaction_instruction": {},
+  "reaction": {
+    "statistics": {
+      "up_vote_count": 319,
+      "down_vote_count": 3,
+      "like_count": 28,
+      "comment_count": 40,
+      "share_count": 0,
+      "play_count": 0,
+      "interest_play_count": 0,
+      "favorites": 766,
+      "pv_count": 0,
+      "bullet_count": 0,
+      "applaud_count": 0,
+      "question_follower_count": 0,
+      "question_answer_count": 0,
+      "plaincontent_vote_up_count": 0,
+      "plaincontent_like_count": 0,
+      "img_like_count": {
+        "v2-1d18c5330d8ef988c23e67b7c26aab12": 0,
+        "v2-2fd75c1db48cfca8726e8b7955d27b01": 2,
+        "v2-420de41fcf925e868dae3e6011a64a8d": 0,
+        "v2-67b0aee9a67d7d48e3fcbc1345f9ba5a": 0,
+        "v2-89d479da554f4f9d8a6fcee06b68bea6": 0,
+        "v2-a9c1091e34bf1523a9d3efad920beea1": 0,
+        "v2-b7db6faa94af22ca229f1b339b91ecf4": 0,
+        "v2-b81b28db6eaa7bc776e8be01cd6ae7a1": 0,
+        "v2-ba129ec7fcd98c9bf729f2b8caf6df88": 0,
+        "v2-e20601d30dd261ed5045d696ad06b3a7": 0
+      },
+      "subscribe_count": 0,
+      "republishers": []
+    },
+    "relation": {
+      "is_author": true,
+      "vote": "Neutral",
+      "liked": false,
+      "img_liked": {
+        "v2-1d18c5330d8ef988c23e67b7c26aab12": false,
+        "v2-2fd75c1db48cfca8726e8b7955d27b01": false,
+        "v2-420de41fcf925e868dae3e6011a64a8d": false,
+        "v2-67b0aee9a67d7d48e3fcbc1345f9ba5a": false,
+        "v2-89d479da554f4f9d8a6fcee06b68bea6": false,
+        "v2-a9c1091e34bf1523a9d3efad920beea1": false,
+        "v2-b7db6faa94af22ca229f1b339b91ecf4": false,
+        "v2-b81b28db6eaa7bc776e8be01cd6ae7a1": false,
+        "v2-ba129ec7fcd98c9bf729f2b8caf6df88": false,
+        "v2-e20601d30dd261ed5045d696ad06b3a7": false
+      },
+      "faved": false,
+      "following": false,
+      "subcribed": false,
+      "is_navigator_vote": false,
+      "current_user_is_navigator": false,
+      "vote_next_step": ""
+    },
+    "image_reactions": {
+      "v2-1d18c5330d8ef988c23e67b7c26aab12": {
+        "like_count": 0,
+        "is_liked": false
+      },
+      "v2-2fd75c1db48cfca8726e8b7955d27b01": {
+        "like_count": 2,
+        "is_liked": false
+      },
+      "v2-420de41fcf925e868dae3e6011a64a8d": {
+        "like_count": 0,
+        "is_liked": false
+      },
+      "v2-67b0aee9a67d7d48e3fcbc1345f9ba5a": {
+        "like_count": 0,
+        "is_liked": false
+      },
+      "v2-89d479da554f4f9d8a6fcee06b68bea6": {
+        "like_count": 0,
+        "is_liked": false
+      },
+      "v2-a9c1091e34bf1523a9d3efad920beea1": {
+        "like_count": 0,
+        "is_liked": false
+      },
+      "v2-b7db6faa94af22ca229f1b339b91ecf4": {
+        "like_count": 0,
+        "is_liked": false
+      },
+      "v2-b81b28db6eaa7bc776e8be01cd6ae7a1": {
+        "like_count": 0,
+        "is_liked": false
+      },
+      "v2-ba129ec7fcd98c9bf729f2b8caf6df88": {
+        "like_count": 0,
+        "is_liked": false
+      },
+      "v2-e20601d30dd261ed5045d696ad06b3a7": {
+        "like_count": 0,
+        "is_liked": false
+      }
+    }
+  },
+  "interaction_bar_plugins": [
+    {
+      "type": "comment",
+      "comment": {
+        "enable": true,
+        "placeholder": "发条带图评论"
+      }
+    }
+  ],
+  "bar_plugins_flip_time": 3000,
+  "podcast_audio_enter": {
+    "text": "3 人听过",
+    "text_color": "MapBrand",
+    "text_size": 13,
+    "action_url": "zhihu://podcast/audio_player/63563981955?contentId=2002818500717207719&contentType=article"
+  },
+  "endorsements": [
+    {
+      "elements": [
+        {
+          "type": "IMAGE",
+          "image_key": "zhicon_icon_24_column_fill",
+          "image_color": {
+            "alpha": 1,
+            "group": "GBL01A"
+          },
+          "width": 16,
+          "height": 16
+        },
+        {
+          "type": "TEXT",
+          "content": "收录于 · 外语习得",
+          "font_size": 13,
+          "font_color": {
+            "alpha": 1,
+            "group": "GBL01A"
+          },
+          "is_bold": false,
+          "max_line": 1
+        },
+        {
+          "type": "IMAGE",
+          "image_key": "zhicon_icon_16_arrow_right",
+          "image_color": {
+            "alpha": 1,
+            "group": "GBL01A"
+          },
+          "width": 12,
+          "height": 12
+        }
+      ],
+      "sub_elements": [],
+      "sub_elements_type": "DESCRIPTION",
+      "background_color": {
+        "alpha": 0.08,
+        "group": "GBL01A"
+      },
+      "action_url": "https://www.zhihu.com/column/c_1537015147880669184",
+      "za": {
+        "block_text": "Column",
+        "type": "text",
+        "text": "收录于 · 外语习得"
+      }
+    }
+  ],
+  "segment_infos": [
+    {
+      "pid": "2MHsBtrN",
+      "text": "事实是，用「传统」的日语学习方法并不能达成这类目标。许多学生之所以注定失败，是因为他们的学习流程里缺少一个关键成分：沉浸（immersion）。沉浸指的是去听、去读由母语者面向母语者创作的原生内容。比如动画片原本就是日语音轨、没有字幕；当你以这种形式去看它时，我们就称之为沉浸。",
+      "marks": [
+        {
+          "start_index": 72,
+          "end_index": 99,
+          "seg_info": {
+            "seg_ids": [
+              "2003045931378036901"
+            ],
+            "is_like": false,
+            "like_count": 2,
+            "comment_count": 0,
+            "my_comment_count": 0,
+            "is_span": false
+          }
+        }
+      ]
+    }
+  ],
+  "allow_segment_interaction": 1,
+  "is_navigator": false,
+  "navigator_vote": false,
+  "vote_next_step": "vote"
+}

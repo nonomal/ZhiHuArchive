@@ -1,0 +1,519 @@
+{
+  "id": "2009993453967262876",
+  "title": "Alpha 学校天生与众不同",
+  "type": "article",
+  "article_type": "normal",
+  "excerpt_title": "",
+  "url": "https://api.zhihu.com/articles/2009993453967262876",
+  "image_url": "https://picx.zhimg.com/v2-9d928c62300093bb17b56282c47c734d_720w.jpg?source=172ae18b",
+  "title_image": "https://picx.zhimg.com/v2-9d928c62300093bb17b56282c47c734d_720w.jpg?source=172ae18b",
+  "excerpt": "<img src=\"https://pic1.zhimg.com/v2-a8b4919bffbbb7ce0acbafb0d103a3ce_200x112.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1456\" data-rawheight=\"830\" data-watermark=\"original\" data-original-src=\"v2-a8b4919bffbbb7ce0acbafb0d103a3ce\" data-watermark-src=\"v2-094f6a9c4213dae8c1b2b9a10616f775\" data-private-watermark-src=\"\" class=\"origin_image inline-img zh-lightbox-thumb\" data-original=\"https://pic1.zhimg.com/v2-a8b4919bffbbb7ce0acbafb0d103a3ce_r.jpg\"/>不了解 Alpha 学校的可以先读这两篇： 《<a href=\"https://zhuanlan.zhihu.com/p/1962882704082211479\" class=\"internal\" target=\"_blank\">每天学习两小时：对 Alpha 学校的详细评测——它会是教育的未来吗？</a>》 《<a href=\"https://zhuanlan.zhihu.com/p/1967273928855651385\" class=\"internal\" target=\"_blank\">评 Alpha School：当你尝试目标拆解应试教育</a>》<b>揭秘他们「秘方」的另一面</b>我刚刚连着看了大概三十多个 Alpha 学校的 <a href=\"https://link.zhihu.com/?target=https%3A//www.youtube.com/%40thealphaschool/videos\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">宣传视频</a>。我看到小孩子们…",
+  "created": 1772111849,
+  "updated": 1772112199,
+  "author": {
+    "is_followed": false,
+    "avatar_url_template": "https://picx.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94.jpg?source=172ae18b",
+    "uid": "592323397158703104",
+    "user_type": "people",
+    "is_following": false,
+    "url_token": "L.M.Sherlock",
+    "id": "4c592f496dc33822b560b382907ff1d0",
+    "description": "欢迎关注 Thoughts Memo 汉化组！我们关注的话题包括但不限于认知科学、知识工作、学习方法、学校教育、理性思考、儿童权利，目前已经完成翻译 1400 多篇文章。\n\n加入汉化组：https://paratranz.cn/projects/3131",
+    "name": "Thoughts Memo",
+    "is_advertiser": false,
+    "headline": "学校≠教育≠技能；文凭溢价=80%信号传递+20%人力资本",
+    "gender": -1,
+    "url": "https://api.zhihu.com/people/4c592f496dc33822b560b382907ff1d0",
+    "avatar_url": "https://pic1.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94_l.jpg?source=172ae18b",
+    "is_org": false,
+    "type": "people",
+    "badge": [
+      {
+        "type": "identity",
+        "topics": [],
+        "description": "信息技术行业 算法工程师"
+      }
+    ],
+    "badge_v2": {
+      "title": "知势榜教育校园领域影响力榜答主",
+      "merged_badges": [
+        {
+          "type": "best",
+          "detail_type": "best",
+          "title": "社区成就",
+          "description": "知势榜教育校园领域影响力榜答主",
+          "url": "",
+          "sources": [],
+          "icon": "",
+          "night_icon": "",
+          "badge_status": "passed"
+        },
+        {
+          "type": "identity",
+          "detail_type": "identity_people",
+          "title": "认证",
+          "description": "信息技术行业 算法工程师",
+          "url": "https://zhuanlan.zhihu.com/p/96956163",
+          "sources": [],
+          "icon": "",
+          "night_icon": "",
+          "badge_status": "passed"
+        }
+      ],
+      "detail_badges": [
+        {
+          "type": "reward",
+          "detail_type": "super_activity",
+          "title": "社区成就",
+          "description": "知势榜教育校园领域影响力榜答主",
+          "url": "",
+          "sources": [
+            {
+              "id": "27",
+              "token": "",
+              "type": "content_potential_category",
+              "url": "",
+              "name": "知势榜8月",
+              "avatar_path": "",
+              "avatar_url": "",
+              "description": "",
+              "priority": 27
+            }
+          ],
+          "icon": "https://pica.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+          "night_icon": "https://picx.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+          "badge_status": "passed"
+        },
+        {
+          "type": "identity",
+          "detail_type": "identity_people",
+          "title": "已认证的个人",
+          "description": "信息技术行业 算法工程师",
+          "url": "https://zhuanlan.zhihu.com/p/96956163",
+          "sources": [],
+          "icon": "https://picx.zhimg.com/v2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c",
+          "night_icon": "https://picx.zhimg.com/v2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c",
+          "badge_status": "passed"
+        }
+      ],
+      "icon": "https://picx.zhimg.com/v2-27bfcba90e66db79ce8768ab807e017e_l.png?source=32738c0c",
+      "night_icon": "https://pic1.zhimg.com/v2-27bfcba90e66db79ce8768ab807e017e_l.png?source=32738c0c"
+    },
+    "exposed_medal": {
+      "medal_id": "0",
+      "medal_name": "",
+      "avatar_url": "",
+      "mini_avatar_url": "",
+      "description": "",
+      "medal_avatar_frame": null
+    }
+  },
+  "comment_permission": "all",
+  "copyright_permission": "need_review",
+  "state": "published",
+  "ip_info": "广东",
+  "image_width": 1155,
+  "image_height": 727,
+  "content": "<blockquote data-pid=\"9t6jJtve\">不了解 Alpha 学校的可以先读这两篇：<br/>《<a href=\"https://zhuanlan.zhihu.com/p/1962882704082211479\" class=\"internal\" target=\"_blank\">每天学习两小时：对 Alpha 学校的详细评测——它会是教育的未来吗？</a>》<br/>《<a href=\"https://zhuanlan.zhihu.com/p/1967273928855651385\" class=\"internal\" target=\"_blank\">评 Alpha School：当你尝试目标拆解应试教育</a>》</blockquote><h2><b>揭秘他们「秘方」的另一面</b></h2><p data-pid=\"oQpfwnEB\">我刚刚连着看了大概三十多个 Alpha 学校的<a href=\"https://link.zhihu.com/?target=https%3A//www.youtube.com/%40thealphaschool/videos\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">宣传视频</a>。我看到小孩子们在击剑、编织、攀岩、骑车、慢跑、撸马、和 Dr. Phil 对话、打高尔夫、画画、跟海豹突击队一起训练、弹钢琴、弹吉他、做引体向上、练深蹲、发表 TED 演讲、划皮划艇、玩火、烘焙、在停车场奔跑，甚至录制播客。但我就是很难找到一个学生在看书的镜头。</p><p data-pid=\"xn-7RMzN\">声明一下：我保证这绝不是在刻意攻击他们。我只是单纯在陈述我的观察。</p><p data-pid=\"ANSmcRUX\">Alpha 是一个主打科技牌的私立学校网络，他们利用一系列 App 来完成核心的学术教学。他们频频登上新闻头条，主要是因为他们大肆标榜自己能利用 AI 进行高效教学。这就是他们引以为傲的「两小时学习」承诺：数学、阅读、写作和科学的教学都可以被压缩在一个紧凑的两小时窗口内完成，从而把整个下午的时间完全腾出来，让孩子们去击剑、编织、攀岩、骑车、慢跑、撸马等等。</p><a href=\"https://link.zhihu.com/?target=https%3A//youtu.be/e7Py1EOcaro\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-draft-title=\"https://youtu.be/e7Py1EOcaro\" data-draft-cover=\"\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">youtu.be/e7Py1EOcaro</span><span class=\"invisible\"></span></a><p data-pid=\"gBxvINRo\">正如 <a href=\"https://link.zhihu.com/?target=https%3A//fivetwelvethirteen.substack.com/p/alpha-schools-secret-sauce\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Dylan Kane 所指出的</a>，那些关于 AI 的宣传其实是个幌子。直到最近，Alpha 依然在使用 iXL——一款非常普及但平庸得令人发指的软件——来进行所有的数学教学。他们同时也在用可汗学院（Khan Academy）教科学。但 Alpha 官方和 Dylan 都认同，这些 App 根本不是什么「秘方」——真正的核心在于 Alpha 的激励机制，它能够监控学生的行为，并激励他们在 App 上达成目标，这套机制尤其体现在他们用来统筹学习的全新 App「Timeback」上。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-a8b4919bffbbb7ce0acbafb0d103a3ce_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1456\" data-rawheight=\"830\" data-original-token=\"v2-a8b4919bffbbb7ce0acbafb0d103a3ce\" class=\"origin_image zh-lightbox-thumb\" width=\"1456\" data-original=\"https://pic1.zhimg.com/v2-a8b4919bffbbb7ce0acbafb0d103a3ce_r.jpg\"/></figure><p data-pid=\"mNI5Zma4\">Ahali Shah 的 Timeback 界面</p><p data-pid=\"8UYA6auH\">Alpha 背后的软件亿万富翁 Joe Liemandt 对 Timeback 赞不绝口。「这是我这四十年来做过的最棒的产品，遥遥领先于其他，」他说道。这款产品的核心逻辑如字面意思，得益于高效的学习方式和他们对个性化学习的专注，孩子们终于把时间<b>拿了回来</b>。拿回时间去干嘛？去骑车、慢跑、撸马等等。</p><p data-pid=\"5GGynoEH\">（一篇<a href=\"https://link.zhihu.com/?target=https%3A//colossus.com/article/joe-liemandt-class-dismissed/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">人物简介</a>中提到：「Joe Liemandt 当年是个学霸，但他同时也非常痛恨学校。」）</p><p data-pid=\"CCTT3hsW\">Alpha 是一个非常有料且极具挑衅性的话题，我们可以从很多角度来剖析它：我们可以深挖他们的数据，看看是否真如宣传那般神乎其神；这里面牵涉到数字监控和隐私问题；他们甚至花钱雇孩子们做练习；这是一家收费高昂的私立学校；它由一家营利性机构运营；他们把老师改头换面称为「向导」；他们正在高薪聘请一个学习科学家团队来重新设计他们的 App；Linda McMahon 是他们的粉丝；Bill Ackman 也是。</p><p data-pid=\"ufeVNh8M\">但听着，我只想陈述一个显而易见的事实：如果用传统标准来衡量，Alpha 压根就没打算提供最顶尖、最宏伟的数学或英语（ELA）教育。如果他们真想这么做，他们完全可以在下午继续安排英语或数学课。相反，他们的目标是：在最大化提升技能的同时，尽可能压缩花在核心学科上的时间。</p><p data-pid=\"gfMF3UOj\">这种做法极其反常！这绝不是大多数学校的办学目标！</p><p data-pid=\"ov7u-OAE\">以曼哈顿最顶级的贵族学校之一 <a href=\"https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Trinity_School_%28New_York_City%29\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Trinity</a> 为例。他们向家长承诺，学校致力于培养三年级学生对文学的「热爱」。他们选用的教材「主要是小说和传记」，而且是「凭借其文学价值而入选」的。他们宣称学生将学习撰写个人叙事散文和说理性文章。学校不仅有强制的独立阅读时间，还安排了集体朗读活动。我虽然不知道这在实际课堂里具体是怎样运作的——但这确实是他们对外宣扬的重点。</p><p data-pid=\"LgfMRVQh\">相比之下，Alpha 的目标可谓大相径庭。通过他们的 AlphaReads 软件，他们给学生分配的通常是由 AI 生成的短篇阅读材料，并配以阅读理解题，形式与标准化考试中的题目如出一辙。这些<a href=\"https://link.zhihu.com/?target=https%3A//docs.google.com/document/d/1IcifBUyxz3Qvw8BePgEwCowWvNeDqRieYANNQZ6z-5c/edit%3Ftab%3Dt.0\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">文本</a>的主题主要集中在历史、科学或古典神话领域：比如《奥德修斯重返伊萨卡》、《雅典的黄金时代》、《光：它如何反弹并被吸收》。</p><p data-pid=\"N2BqKLdc\">正如前面所说，正儿八经的「书」在这里并不是核心——Liemandt 声称<a href=\"https://link.zhihu.com/?target=https%3A//x.com/jliemandt/status/2024666012889518277\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">孩子们会在下午阅读</a>，但我搞不清楚这到底是一项有组织的日常活动，还是仅仅是孩子们偶尔为之的消遣。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-57c162d44315a135cd337c10b9d252b4_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1024\" data-rawheight=\"768\" data-original-token=\"v2-57c162d44315a135cd337c10b9d252b4\" class=\"origin_image zh-lightbox-thumb\" width=\"1024\" data-original=\"https://pic1.zhimg.com/v2-57c162d44315a135cd337c10b9d252b4_r.jpg\"/></figure><p data-pid=\"EVGtJ4V7\">来源：<a href=\"https://link.zhihu.com/?target=https%3A//x.com/angusdav/status/2023536903899807977\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Angus Davis 在 X 上</a></p><p data-pid=\"40U03sZ6\">这些阅读材料甚至都不是人类写的。Alpha 正在不断加大对 AI 生成文本和题目的依赖。最近，媒体 <a href=\"https://link.zhihu.com/?target=https%3A//www.404media.co/students-are-being-treated-like-guinea-pigs-inside-an-ai-powered-private-school/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">404 Media 的一篇报道</a>采访了前员工，他们透露，随着这些工具通过 Timeback 被推向学生，整个体验过程可谓充满波折。我想表达的观点很简单——你绝对无法想象 Trinity 会干出这种事！如果你天天把培养对文学的热爱<b>挂在嘴边</b>，你的核心阅读课绝不可能搞成这副德行。Alpha 的目标，说白了，就跟 Trinity 完全是两码事。</p><p data-pid=\"IWU1RfR4\">Alpha 宣称他们的学生在 NWEA 的 MAP 考试中取得了惊人的进步。再说一次，这不是在攻击，我也不打算去评估这些说法的真假，但关键在于——如果他们真的在 MAP 考试中取得了令人难以置信的分数增长，那也是说得通的，因为大多数顶尖学校压根就没打算这么做！大多数学校在学生达到某个基本的分数门槛后，就会试图将教学拓展到基础技能之外。他们会开展一个诗歌单元。他们会让孩子们自己写神话故事。图书管理员会帮助孩子们找到一本他们可能会爱不释手的书。Alpha 在某个层面上极具野心，但在另一个层面上却又极度缺乏野心。他们只想专注于 MAP 考试所能衡量的那部分技能。当然，他们有权这么做——这确实很有意思——但我们在解读他们的成绩单时，必须要把这个前提考虑进去。</p><p data-pid=\"5KyDA6O_\">数学也是一样的道理。Alpha 目前正在逐步淘汰 iXL（据 404 Media 报道，他们涉嫌抓取 iXL 的数据并违反了服务条款），并把所有学生转移到 Math Academy 平台上。你们知道我<a href=\"https://link.zhihu.com/?target=https%3A//pershmail.substack.com/p/math-academy-wants-to-supercharge\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">对 Math Academy 的看法</a>；<b>Math Academy</b> 极度精简了数学课程，就是为了让学生能快速刷完。我承认当时那确实是一篇批评文章——但我现在可不是在搞批评！所以让我来点明一点：Math Academy 背后的团队对他们打造的这个工具及其目的，认识得非常明确且清晰。它的创始人们常常把「提升技能」挂在嘴边，强调「倾尽全力」的重要性，以及技能培养过程中那种枯燥的「死磕」。就像 AlphaRead 一样，它就是一个工具，目的在于<b>在尽可能短的时间内掌握必要的技能</b>。</p><p data-pid=\"oeTJVNbu\">稍微对数学教育有点追求、有点敬畏之心的人，都不会这么说话！我的同行们绝不会这么说话。这是一个极不寻常的目标！如果 Math Academy 真的能成功地让优秀的学生在技能学习上快速加速，从而让他们能在技能格栅中一路狂奔，那这也说得通——毕竟很少有人会试图这么干！</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-e55abda928db098feb3357fdee638e15_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"883\" data-rawheight=\"857\" data-original-token=\"v2-e55abda928db098feb3357fdee638e15\" class=\"origin_image zh-lightbox-thumb\" width=\"883\" data-original=\"https://pic2.zhimg.com/v2-e55abda928db098feb3357fdee638e15_r.jpg\"/></figure><blockquote data-pid=\"6YXC5HWV\">全文见《<a href=\"https://zhuanlan.zhihu.com/p/1895168314860357192\" class=\"internal\" target=\"_blank\">技能提升指南</a>》</blockquote><p data-pid=\"6alNcW1M\">大多数人可不会去谈论「技能栈」的投资回报率（ROI）！</p><p data-pid=\"_DrcmIIi\">Alpha 学校和 Math Academy 最让人感到新奇的，是他们对 K-12 基础教育的根本定位。他们的目标非常明确，就是尽量压缩基础教育的时间，然后赶紧进入下一阶段。进入什么阶段？对 Math Academy 来说，是微分方程和机器学习。对 Alpha 学校来说，是培养诸如「毅力」和「创业精神」这样的生活技能，而这些技能是通过骑自行车、慢跑以及——稍微开个玩笑——撸马，来灌输的。</p><figure data-size=\"normal\"><img src=\"https://pica.zhimg.com/v2-a364caba9ca2a8f8186717bdd3a011f2_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1252\" data-rawheight=\"663\" data-original-token=\"v2-a364caba9ca2a8f8186717bdd3a011f2\" class=\"origin_image zh-lightbox-thumb\" width=\"1252\" data-original=\"https://pica.zhimg.com/v2-a364caba9ca2a8f8186717bdd3a011f2_r.jpg\"/></figure><p data-pid=\"9K1Wvj7t\">我总是忍不住回到这个结论：Alpha 学校最有趣的创新，既不是他们的那些 App，也不是他们的课程表，更不是所谓的 Timeback，而是他们对待核心学术课程的态度。这所学校坚信，学校教育的「核心」就应该以最快、最无痛的方式搞定，以便把一天中剩下的时间留给那些真正重要的事情。大多数学校可不是这么干的！相反，我们会告诉孩子们，历史是理解我们自己和他人的一种方式。我们会说，数学可以是一种极致的快乐，充满了逻辑的惊喜。我们会告诉孩子们，一个好故事能够敞开你的心扉，启迪你的思想。</p><p data-pid=\"ylMB2w8v\">但 Alpha 不会这么做。他们的目标是精简流程，直奔掌握技能的要害。也许他们正在向世人证明，即使不读完整的书，你也能学会理解艰深的文本。也许一套由例题和（绝大多数是）选择题组成的数学教育，在现实中，就是你在 SAT 考试中拿高分所需的全部。</p><p data-pid=\"AaZS0x4i\">如果事实证明他们在这条路上走通了，那也是因为他们敢于尝试。</p><p data-pid=\"oFYhhzj6\">也许，在未来的某一天，Alpha 或是别的什么机构会永远破解这个学习的密码。到那时，所有的学生都可以快速刷完技能点，然后进入下一阶段。有了这么多额外的时间，学校会为孩子们找到比坐在教室里搞学术更有意义的事情去做。也许，到了那个阶段，我们会反问自己，死磕那些我们根本不关心的东西到底有什么意义？当机器已经能包揽一切时，我们真的还需要成为数学达人吗？学习如何阅读小说或虚构文学，真的有那么重要吗？也许，在未来的某一天，这就是书籍彻底从学校里消失的开端。</p><p data-pid=\"3O8f5XTL\">不过，这只是我脑海中挥之不去的一个胡思乱想罢了，我并不打算把这口锅扣在 Alpha 头上。我只是想表达：当你在评估一个教育项目是否成功时，请先看看他们试图达成的目标是什么。Alpha 的目标是把学生耗费在学术上的时间还给他们。他们的课程体系和项目设计都完美地体现了这一目标。这一点值得我们在看待他们时时刻铭记。</p><hr/><blockquote data-pid=\"YSYGb--g\"><a href=\"https://link.zhihu.com/?target=http%3A//paratranz.cn/projects/3131\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Thoughts Memo</a> 汉化组译制<br/>感谢主要译者 <span class=\"nolink\">gemini-3.1-pro</span>-preview，校对 Jarrett Ye<br/>原文：<a href=\"https://link.zhihu.com/?target=https%3A//pershmail.substack.com/p/alpha-school-is-built-different\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Alpha School is Built Different - by Michael Pershan</a><br/>作者：<a href=\"https://link.zhihu.com/?target=https%3A//substack.com/%40michaelpershan\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Michael Pershan</a><br/>2026 年 2 月 20 日</blockquote>",
+  "content_need_truncated": false,
+  "force_login_when_click_read_more": false,
+  "admin_closed_comment": false,
+  "topics": [
+    {
+      "url": "https://api.zhihu.com/topics/19574293",
+      "type": "topic",
+      "id": "19574293",
+      "name": "教育改革"
+    },
+    {
+      "url": "https://api.zhihu.com/topics/19569335",
+      "type": "topic",
+      "id": "19569335",
+      "name": "学校教育"
+    },
+    {
+      "url": "https://api.zhihu.com/topics/19933533",
+      "type": "topic",
+      "id": "19933533",
+      "name": "教育问题"
+    }
+  ],
+  "voteup_count": 35,
+  "voting": 0,
+  "heavy_up_status": "allow_heavy_up",
+  "column": {
+    "description": "该专栏翻译有关记忆，学习，睡眠，创造力，解决问题，脑科学，健康和教育的文章",
+    "can_manage": true,
+    "intro": "现代学校教育系统批判",
+    "is_following": false,
+    "url_token": "supermemo-guru-cn",
+    "id": "supermemo-guru-cn",
+    "articles_count": 367,
+    "accept_submission": true,
+    "title": "学校教育问题",
+    "url": "https://api.zhihu.com/columns/supermemo-guru-cn",
+    "comment_permission": "all",
+    "created": 1751810952,
+    "updated": 1530510592,
+    "image_url": "https://pica.zhimg.com/v2-597185044fc216b1f6b0cf3d55439dbb_720w.jpg?source=172ae18b",
+    "author": {
+      "is_followed": false,
+      "avatar_url_template": "https://pica.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94.jpg?source=172ae18b",
+      "uid": "592323397158703104",
+      "user_type": "people",
+      "is_following": false,
+      "url_token": "L.M.Sherlock",
+      "id": "4c592f496dc33822b560b382907ff1d0",
+      "description": "欢迎关注 Thoughts Memo 汉化组！我们关注的话题包括但不限于认知科学、知识工作、学习方法、学校教育、理性思考、儿童权利，目前已经完成翻译 1400 多篇文章。\n\n加入汉化组：https://paratranz.cn/projects/3131",
+      "name": "Thoughts Memo",
+      "is_advertiser": false,
+      "headline": "学校≠教育≠技能；文凭溢价=80%信号传递+20%人力资本",
+      "gender": -1,
+      "url": "https://api.zhihu.com/people/4c592f496dc33822b560b382907ff1d0",
+      "avatar_url": "https://pic1.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94_l.jpg?source=172ae18b",
+      "is_org": false,
+      "type": "people",
+      "badge_v2": {
+        "title": "",
+        "merged_badges": [],
+        "detail_badges": [],
+        "icon": "",
+        "night_icon": ""
+      }
+    },
+    "followers": 1488,
+    "type": "column",
+    "column_type": "normal"
+  },
+  "comment_count": 4,
+  "contributions": [
+    {
+      "id": 53552315,
+      "state": "accepted",
+      "type": "first_publish",
+      "column": {
+        "description": "该专栏翻译有关记忆，学习，睡眠，创造力，解决问题，脑科学，健康和教育的文章",
+        "can_manage": true,
+        "intro": "现代学校教育系统批判",
+        "is_following": false,
+        "url_token": "supermemo-guru-cn",
+        "id": "supermemo-guru-cn",
+        "articles_count": 367,
+        "accept_submission": true,
+        "title": "学校教育问题",
+        "url": "https://api.zhihu.com/columns/supermemo-guru-cn",
+        "comment_permission": "all",
+        "created": 1751810952,
+        "updated": 1530510592,
+        "image_url": "https://pica.zhimg.com/v2-597185044fc216b1f6b0cf3d55439dbb_720w.jpg?source=172ae18b",
+        "author": {
+          "is_followed": false,
+          "avatar_url_template": "https://pica.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94.jpg?source=172ae18b",
+          "uid": "592323397158703104",
+          "user_type": "people",
+          "is_following": false,
+          "url_token": "L.M.Sherlock",
+          "id": "4c592f496dc33822b560b382907ff1d0",
+          "description": "欢迎关注 Thoughts Memo 汉化组！我们关注的话题包括但不限于认知科学、知识工作、学习方法、学校教育、理性思考、儿童权利，目前已经完成翻译 1400 多篇文章。\n\n加入汉化组：https://paratranz.cn/projects/3131",
+          "name": "Thoughts Memo",
+          "is_advertiser": false,
+          "headline": "学校≠教育≠技能；文凭溢价=80%信号传递+20%人力资本",
+          "gender": -1,
+          "url": "https://api.zhihu.com/people/4c592f496dc33822b560b382907ff1d0",
+          "avatar_url": "https://pic1.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94_l.jpg?source=172ae18b",
+          "is_org": false,
+          "type": "people",
+          "badge_v2": {
+            "title": "",
+            "merged_badges": [],
+            "detail_badges": [],
+            "icon": "",
+            "night_icon": ""
+          }
+        },
+        "followers": 1488,
+        "type": "column",
+        "column_type": "normal"
+      }
+    },
+    {
+      "id": 53594799,
+      "state": "accepted",
+      "type": "first_publish",
+      "column": {
+        "description": "",
+        "can_manage": false,
+        "intro": "文章作者都是美国人，讨论的也是美国教育，真的。",
+        "is_following": false,
+        "url_token": "c_1643279594408067072",
+        "id": "c_1643279594408067072",
+        "articles_count": 70,
+        "accept_submission": true,
+        "title": "美国教育批判",
+        "url": "https://api.zhihu.com/columns/c_1643279594408067072",
+        "comment_permission": "all",
+        "created": 1684568386,
+        "updated": 1751811964,
+        "image_url": "https://picx.zhimg.com/v2-ab65ebb4aec25a82af80c9344848a6e4_720w.jpg?source=172ae18b",
+        "author": {
+          "is_followed": false,
+          "avatar_url_template": "https://picx.zhimg.com/v2-531a5c925d857e1a3b944414bbd451c6.jpg?source=172ae18b",
+          "uid": "1521893281407864832",
+          "user_type": "people",
+          "is_following": false,
+          "url_token": "JarrettYe",
+          "id": "3c9990a12cdbcd92e20b1387b160f0a3",
+          "description": "Anki 高考践行者，教育英特纳雄耐尔一定会实现！\n我的个人主页：https://l-m-sherlock.github.io/",
+          "name": "Jarrett Ye",
+          "is_advertiser": false,
+          "headline": "钻研人类记忆，探索复习算法。改善教育公平，践行自由学习。",
+          "gender": 1,
+          "url": "https://api.zhihu.com/people/3c9990a12cdbcd92e20b1387b160f0a3",
+          "avatar_url": "https://picx.zhimg.com/v2-531a5c925d857e1a3b944414bbd451c6_l.jpg?source=172ae18b",
+          "is_org": false,
+          "type": "people",
+          "badge_v2": {
+            "title": "",
+            "merged_badges": [],
+            "detail_badges": [],
+            "icon": "",
+            "night_icon": ""
+          }
+        },
+        "followers": 131,
+        "type": "column",
+        "column_type": "normal"
+      }
+    }
+  ],
+  "is_title_image_full_screen": false,
+  "upvoted_followees": [],
+  "commercial_info": {
+    "is_commercial": false,
+    "plugin": {}
+  },
+  "suggest_edit": {
+    "status": false,
+    "reason": "",
+    "tip": "",
+    "url": "",
+    "title": ""
+  },
+  "reason": "",
+  "annotation_action": [],
+  "can_tip": false,
+  "can_open_tipjar": true,
+  "tipjarors_count": 0,
+  "is_labeled": false,
+  "has_publishing_draft": false,
+  "is_favorited": false,
+  "favlists_count": 51,
+  "is_normal": true,
+  "status": 0,
+  "activity_topping_info": {
+    "state": "untopped"
+  },
+  "share_text": "Alpha 学校天生与众不同 - 来自知乎专栏「学校教育问题」，作者: Thoughts Memo https://zhuanlan.zhihu.com/p/2009993453967262876 （想看更多？下载 @知乎 App：http://weibo.com/p/100404711598 ）",
+  "can_comment": {
+    "status": true,
+    "reason": ""
+  },
+  "linkbox": {
+    "url": "",
+    "category": "",
+    "pic": "",
+    "title": ""
+  },
+  "mcn_fp_show": -1,
+  "is_visible": true,
+  "is_liked": false,
+  "liked_count": 3,
+  "has_column": true,
+  "republishers": [
+    {
+      "is_followed": false,
+      "avatar_url_template": "https://picx.zhimg.com/v2-531a5c925d857e1a3b944414bbd451c6.jpg?source=172ae18b",
+      "uid": "1521893281407864832",
+      "user_type": "people",
+      "is_following": false,
+      "url_token": "JarrettYe",
+      "id": "3c9990a12cdbcd92e20b1387b160f0a3",
+      "description": "Anki 高考践行者，教育英特纳雄耐尔一定会实现！\n我的个人主页：https://l-m-sherlock.github.io/",
+      "name": "Jarrett Ye",
+      "is_advertiser": false,
+      "headline": "钻研人类记忆，探索复习算法。改善教育公平，践行自由学习。",
+      "gender": 1,
+      "url": "https://api.zhihu.com/people/3c9990a12cdbcd92e20b1387b160f0a3",
+      "avatar_url": "https://picx.zhimg.com/v2-531a5c925d857e1a3b944414bbd451c6_l.jpg?source=172ae18b",
+      "is_org": false,
+      "type": "people",
+      "badge_v2": {
+        "title": "",
+        "merged_badges": [],
+        "detail_badges": [],
+        "icon": "",
+        "night_icon": ""
+      }
+    }
+  ],
+  "is_new_link_card": true,
+  "emoji_reaction": {
+    "like_count": 3,
+    "like_has_set": false
+  },
+  "ab_param": {
+    "qa_hidden_voteup": "",
+    "rs_interest1": "",
+    "zp_zhi_style": ""
+  },
+  "attached_info": "kgIuCgkyNzA2MjI5NDISEzIwMDk5OTM0NTM5NjcyNjI4NzYYByIKSU1BR0VfVEVYVA==",
+  "share_guide": {
+    "has_positive_bubble": false,
+    "has_time_bubble": false,
+    "hit_share_guide_cluster": false
+  },
+  "settings": {
+    "table_of_contents": {
+      "enabled": false
+    }
+  },
+  "can_reference": false,
+  "reaction_instruction": {},
+  "reaction": {
+    "statistics": {
+      "up_vote_count": 35,
+      "down_vote_count": 0,
+      "like_count": 3,
+      "comment_count": 4,
+      "share_count": 0,
+      "play_count": 0,
+      "interest_play_count": 0,
+      "favorites": 51,
+      "pv_count": 0,
+      "bullet_count": 0,
+      "applaud_count": 0,
+      "question_follower_count": 0,
+      "question_answer_count": 0,
+      "plaincontent_vote_up_count": 0,
+      "plaincontent_like_count": 0,
+      "img_like_count": {
+        "v2-57c162d44315a135cd337c10b9d252b4": 0,
+        "v2-9d928c62300093bb17b56282c47c734d": 0,
+        "v2-a364caba9ca2a8f8186717bdd3a011f2": 0,
+        "v2-a8b4919bffbbb7ce0acbafb0d103a3ce": 0,
+        "v2-e55abda928db098feb3357fdee638e15": 0
+      },
+      "subscribe_count": 0,
+      "republishers": []
+    },
+    "relation": {
+      "is_author": true,
+      "vote": "Neutral",
+      "liked": false,
+      "img_liked": {
+        "v2-57c162d44315a135cd337c10b9d252b4": false,
+        "v2-9d928c62300093bb17b56282c47c734d": false,
+        "v2-a364caba9ca2a8f8186717bdd3a011f2": false,
+        "v2-a8b4919bffbbb7ce0acbafb0d103a3ce": false,
+        "v2-e55abda928db098feb3357fdee638e15": false
+      },
+      "faved": false,
+      "following": false,
+      "subcribed": false,
+      "is_navigator_vote": false,
+      "current_user_is_navigator": false,
+      "vote_next_step": ""
+    },
+    "image_reactions": {
+      "v2-57c162d44315a135cd337c10b9d252b4": {
+        "like_count": 0,
+        "is_liked": false
+      },
+      "v2-9d928c62300093bb17b56282c47c734d": {
+        "like_count": 0,
+        "is_liked": false
+      },
+      "v2-a364caba9ca2a8f8186717bdd3a011f2": {
+        "like_count": 0,
+        "is_liked": false
+      },
+      "v2-a8b4919bffbbb7ce0acbafb0d103a3ce": {
+        "like_count": 0,
+        "is_liked": false
+      },
+      "v2-e55abda928db098feb3357fdee638e15": {
+        "like_count": 0,
+        "is_liked": false
+      }
+    }
+  },
+  "interaction_bar_plugins": [
+    {
+      "type": "comment",
+      "comment": {
+        "enable": true,
+        "placeholder": "发条带图评论"
+      }
+    }
+  ],
+  "bar_plugins_flip_time": 3000,
+  "podcast_audio_enter": {
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13,
+    "action_url": "zhihu://podcast/audio_player/63795428282?contentId=2009993453967262876&contentType=article"
+  },
+  "endorsements": [
+    {
+      "elements": [
+        {
+          "type": "IMAGE",
+          "image_key": "zhicon_icon_24_column_fill",
+          "image_color": {
+            "alpha": 1,
+            "group": "GBL01A"
+          },
+          "width": 16,
+          "height": 16
+        },
+        {
+          "type": "TEXT",
+          "content": "收录于 · 学校教育问题",
+          "font_size": 13,
+          "font_color": {
+            "alpha": 1,
+            "group": "GBL01A"
+          },
+          "is_bold": false,
+          "max_line": 1
+        },
+        {
+          "type": "IMAGE",
+          "image_key": "zhicon_icon_16_arrow_right",
+          "image_color": {
+            "alpha": 1,
+            "group": "GBL01A"
+          },
+          "width": 12,
+          "height": 12
+        }
+      ],
+      "sub_elements": [],
+      "sub_elements_type": "DESCRIPTION",
+      "background_color": {
+        "alpha": 0.08,
+        "group": "GBL01A"
+      },
+      "action_url": "https://www.zhihu.com/column/supermemo-guru-cn",
+      "za": {
+        "block_text": "Column",
+        "type": "text",
+        "text": "收录于 · 学校教育问题"
+      }
+    }
+  ],
+  "allow_segment_interaction": 1,
+  "is_navigator": false,
+  "navigator_vote": false,
+  "vote_next_step": "vote"
+}

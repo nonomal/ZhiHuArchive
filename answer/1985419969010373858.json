@@ -1,0 +1,71 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://picx.zhimg.com/v2-531a5c925d857e1a3b944414bbd451c6_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://picx.zhimg.com/v2-531a5c925d857e1a3b944414bbd451c6.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "钻研人类记忆，探索复习算法。改善教育公平，践行自由学习。"
+    },
+    "gender": 1,
+    "headline": "钻研人类记忆，探索复习算法。改善教育公平，践行自由学习。",
+    "id": "3c9990a12cdbcd92e20b1387b160f0a3",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "Jarrett Ye",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/3c9990a12cdbcd92e20b1387b160f0a3",
+    "url_token": "JarrettYe",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 8,
+  "content": "<p data-pid=\"_JsiHZvY\">没想到上次 cp 我因为开票时间太紧没去成，竟错失了最后一次机会（</p><p data-pid=\"qkG79Hjn\">还是看看能不能去成明年的 comiday 吧，别也成最后一次了。</p>",
+  "content_need_truncated": false,
+  "created_time": 1766141007,
+  "excerpt": "没想到上次 cp 我因为开票时间太紧没去成，竟错失了最后一次机会（ 还是看看能不能去成明年的 comiday 吧，别也成最后一次了。",
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "1985419969010373858",
+  "is_collapsed": false,
+  "is_contain_ai_content": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=1985419969010373858&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1766125255,
+    "detail": "<p>目前cp32已经变更调整为国风专场，日漫相关包括许多日产ip相关（任天堂街道等）已经被一刀切下架。</p><figure data-size=\"normal\"><img src=\"https://picx.zhimg.com/v2-7684e78f03ce08cb2e93e3f9808b010b_1440w.jpg\" data-rawwidth=\"1200\" data-rawheight=\"1863\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://picx.zhimg.com/v2-7684e78f03ce08cb2e93e3f9808b010b_r.jpg\"/></figure><p></p>",
+    "id": "1985353896923788076",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "如何看待cp32一刀切禁止所有日漫ip？",
+    "type": "question",
+    "updated_time": 1766125255,
+    "url": "https://www.zhihu.com/api/v4/questions/1985353896923788076"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1766141007,
+  "url": "https://www.zhihu.com/api/v4/answers/1985419969010373858",
+  "voteup_count": 41
+}

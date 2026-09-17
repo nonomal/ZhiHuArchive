@@ -1,0 +1,344 @@
+{
+  "id": "1999149514427213729",
+  "title": "读者通过执行程序来回答 Execute Program 的交互卡片",
+  "type": "article",
+  "article_type": "normal",
+  "excerpt_title": "",
+  "url": "https://api.zhihu.com/articles/1999149514427213729",
+  "image_url": "",
+  "title_image": "",
+  "excerpt": "像 <a href=\"https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/zKPv6qkSErdRGqyryvgS2wS\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">助记媒介（Mnemonic medium）</a>[1]一样，Execute Program 的课程将正文与交互卡片穿插在一起。但让 Execute Program 得以命名的核心理念在于，每一次交互都涉及在嵌入式解释器中执行一段程序。事实上，<a href=\"https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/zYCRKm7HujiD6CNtcC9gnmk\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Execute Program 没有任何不可执行的卡片</a>。例如，一节…",
+  "created": 1769499292,
+  "updated": 1769499293,
+  "author": {
+    "is_followed": true,
+    "avatar_url_template": "https://picx.zhimg.com/v2-531a5c925d857e1a3b944414bbd451c6.jpg?source=172ae18b",
+    "uid": "1521893281407864832",
+    "user_type": "people",
+    "is_following": true,
+    "url_token": "JarrettYe",
+    "id": "3c9990a12cdbcd92e20b1387b160f0a3",
+    "description": "Anki 高考践行者，教育英特纳雄耐尔一定会实现！\n我的个人主页：https://l-m-sherlock.github.io/",
+    "name": "Jarrett Ye",
+    "is_advertiser": false,
+    "headline": "钻研人类记忆，探索复习算法。改善教育公平，践行自由学习。",
+    "gender": 1,
+    "url": "https://api.zhihu.com/people/3c9990a12cdbcd92e20b1387b160f0a3",
+    "avatar_url": "https://pic1.zhimg.com/v2-531a5c925d857e1a3b944414bbd451c6_l.jpg?source=172ae18b",
+    "is_org": false,
+    "type": "people",
+    "badge": [],
+    "badge_v2": {
+      "title": "钻研人类记忆，探索复习算法。改善教育公平，践行自由学习。",
+      "merged_badges": [],
+      "detail_badges": [],
+      "icon": "",
+      "night_icon": ""
+    },
+    "exposed_medal": {
+      "medal_id": "1463836052717301760",
+      "medal_name": "知「势」之星",
+      "avatar_url": "https://pic1.zhimg.com/v2-e66f695db706a1c8c79b8097c1565da2_r.png?source=172ae18b",
+      "mini_avatar_url": "https://picx.zhimg.com/v2-e66f695db706a1c8c79b8097c1565da2_l.png?source=172ae18b",
+      "description": "「知势榜」上榜答主即可获得",
+      "medal_avatar_frame": ""
+    }
+  },
+  "comment_permission": "all",
+  "copyright_permission": "need_review",
+  "state": "published",
+  "ip_info": "广东",
+  "image_width": 0,
+  "image_height": 0,
+  "content": "<p data-pid=\"u_347-K4\">像<a href=\"https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/zKPv6qkSErdRGqyryvgS2wS\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">助记媒介（Mnemonic medium）</a><sup data-text=\"助记媒介（Mnemonic medium）\" data-url=\"https://zhuanlan.zhihu.com/p/459483765\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"1\">[1]</sup>一样，Execute Program 的课程将正文与交互卡片穿插在一起。但让 Execute Program 得以命名的核心理念在于，每一次交互都涉及在嵌入式解释器中执行一段程序。事实上，<a href=\"https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/zYCRKm7HujiD6CNtcC9gnmk\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Execute Program 没有任何不可执行的卡片</a>。</p><p data-pid=\"TCa5-O01\">例如，一节课可能包含几个段落，介绍在 SQL 中可以通过使用 <code>SELECT column_name</code> 来只选择特定的列。然后它可能会提供这样一个卡片：</p><div class=\"highlight\"><pre><code class=\"language-text\"> exec(`CREATE TABLE cats (name STRING, age INTEGER)`);\n exec(`INSERT INTO cats (name, age) VALUES (“Boromir”, 3), (“Aragorn”, 15)`);\n exec(`SELECT name FROM cats`)\n &gt; </code></pre></div><p data-pid=\"4tmPflY4\">读者的光标位于最后一行；他们需要输入上方代码表达式的求值结果。Execute Program 随后会对读者的输入表达式（即作为 Javascript 代码）进行求值，并将结果值与测试值进行比较。</p><p data-pid=\"2lHBuM1H\">这 <i>看起来</i> 像是一个 Quizlet 风格的抽认卡，要求用户输入标准答案，但事实并非如此。这是一个真正的解释器，它会真正地对你的程序求值。所以你可以写 <code>[{name: “Boromir”}, {name: “Aragorn”}]</code> 或者 <code>[“Boromir”, “Aragorn”].map(n =&gt; ({name: n})</code>——这两种写法都是正确的。我喜欢这个设计模型，因为它将课程置于更接近真实的语境中：<a href=\"https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z2etsLyP1LJUwNDPCwvRdUG\" data-draft-title=\"赋能环境着重于环境所赋能的事\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">赋能环境着重于环境所赋能的事</a><sup data-text=\"赋能环境着重于环境所赋能的事\" data-url=\"https://l-m-sherlock.github.io/ZhiHuArchive/487188240.html\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"2\">[2]</sup>。</p><p data-pid=\"xpuwRsHQ\">更复杂的卡片被称为「问题（problems）」，它为读者提供一份代码清单和一个「目标表达式」——即最后一行代码的期望值。例如：</p><div class=\"highlight\"><pre><code class=\"language-text\"> function adds2(input: number) {\n }\n adds2(4)\n ​\n // GOAL: 6</code></pre></div><p data-pid=\"dY0C7nat\">读者的任务是修改代码清单，以便生成目标表达式。当读者准备好时，他们执行自己的程序；程序会被求值，其输出将与目标值进行比较。</p><p data-pid=\"pZVUtvKO\">一个相关的、更具野心的构思：<a href=\"https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/zFS2bUsK1vzv1M7cYcMFdCV\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">将像 Shenzhen I/O 这样的游戏置于像 IDE 这样的专业环境中意味着什么？</a></p><p data-pid=\"ho6K1Zyy\">同样相关：<a href=\"https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/zLNcy2JiH3AGNaZjYkHzK9P\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">可执行的书籍</a></p><hr/><p data-pid=\"_YwNzY8e\">Q. Execute Program 的卡片要求读者输入一个答案。这种交互与 Quizlet 的有何不同？ <br/>A. 答案是在真正的解释器中进行求值的，而不仅仅是逐字比对。</p><p data-pid=\"Zf7HsF8e\">Q. 为什么 Execute Program 对读者的答案进行求值而不是逐字比对，这一点很重要？ <br/>A. 这允许读者在解决卡片时拥有一定的真实灵活性。</p><h2>链接至本文（已汉化）</h2><ul><li data-pid=\"gH5jwUp5\">暂无</li></ul><h2>声明</h2><p data-pid=\"a1kSLiu9\">此内容发布由 Andy Matuschak 许可。未经允许，不得转载或修改。保留所有权利。</p><p class=\"ztext-empty-paragraph\"><br/></p><blockquote data-pid=\"LmxKl2KQ\"><a href=\"https://link.zhihu.com/?target=http%3A//paratranz.cn/projects/3131\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Thoughts Memo</a> 汉化组译制<br/>感谢主要译者 gemini-3-pro-preview，校对 Jarrett Ye<br/>原文：<a href=\"https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z9DRugkwcBv7iLRACEnWVDL\" data-draft-title=\"Readers answer Execute Program’s prompts by executing a program\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Readers answer Execute Program’s prompts by executing a program</a></blockquote>",
+  "content_need_truncated": false,
+  "force_login_when_click_read_more": false,
+  "admin_closed_comment": false,
+  "topics": [
+    {
+      "url": "https://api.zhihu.com/topics/19566266",
+      "type": "topic",
+      "id": "19566266",
+      "name": "学习方法"
+    },
+    {
+      "url": "https://api.zhihu.com/topics/20387186",
+      "type": "topic",
+      "id": "20387186",
+      "name": "教育方法"
+    },
+    {
+      "url": "https://api.zhihu.com/topics/19554298",
+      "type": "topic",
+      "id": "19554298",
+      "name": "编程"
+    }
+  ],
+  "voteup_count": 2,
+  "voting": 1,
+  "heavy_up_status": "allow_heavy_up",
+  "column": {
+    "description": "",
+    "can_manage": false,
+    "intro": "助记媒介在叙事性散文中嵌入了间隔重复记忆系统",
+    "is_following": false,
+    "url_token": "c_1525784109008203776",
+    "id": "c_1525784109008203776",
+    "articles_count": 200,
+    "accept_submission": true,
+    "title": "助记媒介 & 思想工具",
+    "url": "https://api.zhihu.com/columns/c_1525784109008203776",
+    "comment_permission": "all",
+    "created": 1656555279,
+    "updated": 1751877351,
+    "image_url": "https://picx.zhimg.com/v2-f4040c00796b5bb3ba64980f9be88d6f_720w.jpg?source=172ae18b",
+    "author": {
+      "is_followed": false,
+      "avatar_url_template": "https://picx.zhimg.com/v2-531a5c925d857e1a3b944414bbd451c6.jpg?source=172ae18b",
+      "uid": "1521893281407864832",
+      "user_type": "people",
+      "is_following": false,
+      "url_token": "JarrettYe",
+      "id": "3c9990a12cdbcd92e20b1387b160f0a3",
+      "description": "Anki 高考践行者，教育英特纳雄耐尔一定会实现！\n我的个人主页：https://l-m-sherlock.github.io/",
+      "name": "Jarrett Ye",
+      "is_advertiser": false,
+      "headline": "钻研人类记忆，探索复习算法。改善教育公平，践行自由学习。",
+      "gender": 1,
+      "url": "https://api.zhihu.com/people/3c9990a12cdbcd92e20b1387b160f0a3",
+      "avatar_url": "https://picx.zhimg.com/v2-531a5c925d857e1a3b944414bbd451c6_l.jpg?source=172ae18b",
+      "is_org": false,
+      "type": "people",
+      "badge_v2": {
+        "title": "",
+        "merged_badges": [],
+        "detail_badges": [],
+        "icon": "",
+        "night_icon": ""
+      }
+    },
+    "followers": 72,
+    "type": "column",
+    "column_type": "normal"
+  },
+  "comment_count": 0,
+  "contributions": [
+    {
+      "id": 53390074,
+      "state": "accepted",
+      "type": "first_publish",
+      "column": {
+        "description": "",
+        "can_manage": false,
+        "intro": "助记媒介在叙事性散文中嵌入了间隔重复记忆系统",
+        "is_following": false,
+        "url_token": "c_1525784109008203776",
+        "id": "c_1525784109008203776",
+        "articles_count": 200,
+        "accept_submission": true,
+        "title": "助记媒介 & 思想工具",
+        "url": "https://api.zhihu.com/columns/c_1525784109008203776",
+        "comment_permission": "all",
+        "created": 1656555279,
+        "updated": 1751877351,
+        "image_url": "https://picx.zhimg.com/v2-f4040c00796b5bb3ba64980f9be88d6f_720w.jpg?source=172ae18b",
+        "author": {
+          "is_followed": false,
+          "avatar_url_template": "https://picx.zhimg.com/v2-531a5c925d857e1a3b944414bbd451c6.jpg?source=172ae18b",
+          "uid": "1521893281407864832",
+          "user_type": "people",
+          "is_following": false,
+          "url_token": "JarrettYe",
+          "id": "3c9990a12cdbcd92e20b1387b160f0a3",
+          "description": "Anki 高考践行者，教育英特纳雄耐尔一定会实现！\n我的个人主页：https://l-m-sherlock.github.io/",
+          "name": "Jarrett Ye",
+          "is_advertiser": false,
+          "headline": "钻研人类记忆，探索复习算法。改善教育公平，践行自由学习。",
+          "gender": 1,
+          "url": "https://api.zhihu.com/people/3c9990a12cdbcd92e20b1387b160f0a3",
+          "avatar_url": "https://picx.zhimg.com/v2-531a5c925d857e1a3b944414bbd451c6_l.jpg?source=172ae18b",
+          "is_org": false,
+          "type": "people",
+          "badge_v2": {
+            "title": "",
+            "merged_badges": [],
+            "detail_badges": [],
+            "icon": "",
+            "night_icon": ""
+          }
+        },
+        "followers": 72,
+        "type": "column",
+        "column_type": "normal"
+      }
+    }
+  ],
+  "is_title_image_full_screen": false,
+  "upvoted_followees": [],
+  "commercial_info": {
+    "is_commercial": false,
+    "plugin": {}
+  },
+  "suggest_edit": {
+    "status": false,
+    "reason": "",
+    "tip": "",
+    "url": "",
+    "title": ""
+  },
+  "reason": "",
+  "annotation_action": [],
+  "can_tip": false,
+  "tipjarors_count": 0,
+  "is_labeled": false,
+  "has_publishing_draft": false,
+  "is_favorited": false,
+  "favlists_count": 2,
+  "is_normal": true,
+  "status": 0,
+  "activity_topping_info": {
+    "state": "untopped"
+  },
+  "share_text": "读者通过执行程序来回答 Execute Program 的交互卡片 - 来自知乎专栏「助记媒介 &amp; 思想工具」，作者: Jarrett Ye https://zhuanlan.zhihu.com/p/1999149514427213729 （想看更多？下载 @知乎 App：http://weibo.com/p/100404711598 ）",
+  "can_comment": {
+    "status": true,
+    "reason": ""
+  },
+  "linkbox": {
+    "url": "",
+    "category": "",
+    "pic": "",
+    "title": ""
+  },
+  "mcn_fp_show": -1,
+  "is_visible": true,
+  "is_liked": false,
+  "liked_count": 0,
+  "has_column": true,
+  "republishers": [],
+  "is_new_link_card": true,
+  "emoji_reaction": {
+    "like_count": 0,
+    "like_has_set": false
+  },
+  "ab_param": {
+    "qa_hidden_voteup": "",
+    "rs_interest1": "",
+    "zp_zhi_style": ""
+  },
+  "attached_info": "kgIuCgkyNjk1ODg2NjQSEzE5OTkxNDk1MTQ0MjcyMTM3MjkYByIKSU1BR0VfVEVYVA==",
+  "share_guide": {
+    "has_positive_bubble": false,
+    "has_time_bubble": false,
+    "hit_share_guide_cluster": false
+  },
+  "settings": {
+    "table_of_contents": {
+      "enabled": false
+    }
+  },
+  "can_reference": false,
+  "reaction_instruction": {},
+  "reaction": {
+    "statistics": {
+      "up_vote_count": 2,
+      "down_vote_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "play_count": 0,
+      "interest_play_count": 0,
+      "favorites": 2,
+      "pv_count": 0,
+      "bullet_count": 0,
+      "applaud_count": 0,
+      "question_follower_count": 0,
+      "question_answer_count": 0,
+      "plaincontent_vote_up_count": 0,
+      "plaincontent_like_count": 0,
+      "subscribe_count": 0,
+      "republishers": []
+    },
+    "relation": {
+      "is_author": false,
+      "vote": "UP",
+      "liked": false,
+      "faved": false,
+      "following": false,
+      "subcribed": false,
+      "is_navigator_vote": false,
+      "current_user_is_navigator": false,
+      "vote_next_step": "vote"
+    },
+    "image_reactions": {}
+  },
+  "interaction_bar_plugins": [
+    {
+      "type": "comment",
+      "comment": {
+        "enable": true,
+        "placeholder": "发条带图评论"
+      }
+    }
+  ],
+  "bar_plugins_flip_time": 3000,
+  "podcast_audio_enter": {
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13,
+    "action_url": "zhihu://podcast/audio_player/59372583238?contentId=1999149514427213729&contentType=article"
+  },
+  "endorsements": [
+    {
+      "elements": [
+        {
+          "type": "IMAGE",
+          "image_key": "zhicon_icon_24_column_fill",
+          "image_color": {
+            "alpha": 1,
+            "group": "GBL01A"
+          },
+          "width": 16,
+          "height": 16
+        },
+        {
+          "type": "TEXT",
+          "content": "收录于 · 助记媒介 & 思想工具",
+          "font_size": 13,
+          "font_color": {
+            "alpha": 1,
+            "group": "GBL01A"
+          },
+          "is_bold": false,
+          "max_line": 1
+        },
+        {
+          "type": "IMAGE",
+          "image_key": "zhicon_icon_16_arrow_right",
+          "image_color": {
+            "alpha": 1,
+            "group": "GBL01A"
+          },
+          "width": 12,
+          "height": 12
+        }
+      ],
+      "sub_elements": [],
+      "sub_elements_type": "DESCRIPTION",
+      "background_color": {
+        "alpha": 0.08,
+        "group": "GBL01A"
+      },
+      "action_url": "https://www.zhihu.com/column/c_1525784109008203776",
+      "za": {
+        "block_text": "Column",
+        "type": "text",
+        "text": "收录于 · 助记媒介 & 思想工具"
+      }
+    }
+  ],
+  "allow_segment_interaction": 1,
+  "is_navigator": false,
+  "navigator_vote": false,
+  "vote_next_step": "unvote"
+}

@@ -1,0 +1,141 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://picx.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://pic1.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94.jpg?source=2c26e567",
+    "badge": [
+      {
+        "description": "信息技术行业 算法工程师",
+        "topics": [],
+        "type": "identity"
+      }
+    ],
+    "badge_v2": {
+      "detail_badges": [
+        {
+          "badge_status": "passed",
+          "description": "知势榜教育校园领域影响力榜答主",
+          "detail_type": "super_activity",
+          "icon": "https://picx.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+          "night_icon": "https://picx.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+          "sources": [
+            {
+              "avatar_path": "",
+              "avatar_url": "",
+              "description": "",
+              "id": "27",
+              "name": "知势榜8月",
+              "priority": 27,
+              "token": "",
+              "type": "content_potential_category",
+              "url": ""
+            }
+          ],
+          "title": "社区成就",
+          "type": "reward",
+          "url": ""
+        },
+        {
+          "badge_status": "passed",
+          "description": "信息技术行业 算法工程师",
+          "detail_type": "identity_people",
+          "icon": "https://picx.zhimg.com/v2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c",
+          "night_icon": "https://pica.zhimg.com/v2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c",
+          "sources": [],
+          "title": "已认证的个人",
+          "type": "identity",
+          "url": "https://zhuanlan.zhihu.com/p/96956163"
+        }
+      ],
+      "icon": "https://pic1.zhimg.com/v2-27bfcba90e66db79ce8768ab807e017e_l.png?source=32738c0c",
+      "merged_badges": [
+        {
+          "badge_status": "passed",
+          "description": "知势榜教育校园领域影响力榜答主",
+          "detail_type": "best",
+          "icon": "",
+          "night_icon": "",
+          "sources": [],
+          "title": "社区成就",
+          "type": "best",
+          "url": ""
+        },
+        {
+          "badge_status": "passed",
+          "description": "信息技术行业 算法工程师",
+          "detail_type": "identity_people",
+          "icon": "",
+          "night_icon": "",
+          "sources": [],
+          "title": "认证",
+          "type": "identity",
+          "url": "https://zhuanlan.zhihu.com/p/96956163"
+        }
+      ],
+      "night_icon": "https://picx.zhimg.com/v2-27bfcba90e66db79ce8768ab807e017e_l.png?source=32738c0c",
+      "title": "知势榜教育校园领域影响力榜答主"
+    },
+    "gender": -1,
+    "headline": "学校≠教育≠技能；文凭溢价=80%信号传递+20%人力资本",
+    "id": "4c592f496dc33822b560b382907ff1d0",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "Thoughts Memo",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/4c592f496dc33822b560b382907ff1d0",
+    "url_token": "L.M.Sherlock",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 24,
+  "content": "<p data-pid=\"DaeEmK9K\">「职业技能会快速贬值」和「没必要上大学」有啥关系？搞得好像大学是职业技术培训学校似的。</p><p data-pid=\"_VoYpk4Z\">马斯克这波属于是结论正确（没必要上大学），但推导前提全错（职业技能贬值）。</p><p data-pid=\"ycqZUAlp\"><b>省流：</b></p><ul><li data-pid=\"_i_je8h_\">大学教育和积累<b>人力资本（Human Capital）</b>无关，只是一场<b>信号传递（Signaling）</b>游戏。<br/><br/></li><li data-pid=\"aUpeQ4AE\">你真以为大学里教的那些老掉牙的 PPT、脱离实际的理论是为了培养你的「职业技能」？这不过是为了向未来的老板发出信号，证明你智力正常、尽责且服从规训。<br/><br/></li><li data-pid=\"GWzp8REz\">AI 时代的到来，你在大学学到的「技能」并不会被颠覆（因为不能颠覆一个不存在的东西），真正被颠覆的是这套低效、昂贵、极其折磨人的信号筛选机制。<br/><br/></li><li data-pid=\"J47B_28s\">当大语言模型（LLM）能够比你更顺从、更精准地完成那些基于规则的死记硬背和流水线任务时，靠做题卷出来的文凭溢价将面临清零。</li></ul><p data-pid=\"iwjUzBYj\">在《教育的浪费<sup data-text=\"教育的浪费\" data-url=\"https://book.douban.com/subject/36333171/\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"1\">[1]</sup>》中，Bryan Caplan 一针见血地挑明了美国高等教育的本质。他通过对比教育的人力资本模型和信号模型，发现人力资本模型根本在现实世界中站不住脚。</p><p data-pid=\"IMMIIRco\"><b>人力资本模型</b>认为，教育就像一种投资，它能实实在在地提升个人的知识和技能（即「人力资本」），从而提高生产力，最终带来更高的收入。教育的回报来自于技能的提升。</p><p data-pid=\"6JQyD9k9\"><b>信号模型</b>则认为，教育的核心作用并非技能传授，而是<b>信号传递</b><sup data-text=\"教育的信号传递模型\" data-url=\"https://zhida.zhihu.com/repositories/7524607380135744184\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"2\">[2]</sup><b>（Signaling）</b>。通过接受教育，特别是获得文凭，个人向老板传递了自身具备某些不易观察到的优秀品质，例如智力、责任心、<b>服从性（Conformity）</b>等等。文凭本身就是一种信号，而老板愿意为这种信号买单。</p><p data-pid=\"RGcc5ggr\">首要的问题是：从幼儿园开始，学生花费数千小时的时间来学习各种科目，但是这些科目与现代劳动力市场并不相关。为什么会这样？为什么语文课把重点放在文学和诗歌上，而不是侧重于工作实践的商务与科技写作上？为什么高等数学课上要费心研究几乎没有学生能听懂的证明题？对于普通的学生来说，他们何时才能用得上学校教的历史知识、三角学知识、物理知识？</p><p data-pid=\"s4FJwqG0\">答案是：<b>大量的教育内容实际上只是毫无意义的形式主义，就像马戏团里的动物被训练跳圈一样。</b> 雇主根本不关心你是否真的在工作中用得上微积分，他们只关心你是否能忍受这四年枯燥、无意义的学术折磨，以此来证明你是一头优质的牛马。</p><p data-pid=\"h74Tmqnd\">看明白了吗？大学从来就不教你什么「前沿的职业技能」。你在大学里上的水课、写的那些八股文期末论文、刷的绩点（GPA），本质上都是在进行一场昂贵的服从性测试。</p><p data-pid=\"dd7qHk1s\">如果说在过去，这种通过<b>普鲁士教育模式</b><sup data-text=\"普鲁士教育模式\" data-url=\"https://zhuanlan.zhihu.com/p/251148900\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"3\">[3]</sup><b>（Prussian Education System）</b>筛选出来的「做题家」还能在工业化和科层制的企业中找到自己的位置（因为大公司需要听话、能忍受无聊的螺丝钉），那么在 AGI 时代，这种人才模型就显得尤为可笑了。</p><p data-pid=\"2Nq5jLmi\">AI 最擅长什么？死记硬背、遵循指令、处理海量标准化信息。 应试教育在干什么？用十二年甚至十六年的时间，把人类活生生规训成一个低配版的 AI。</p><p data-pid=\"lAMgGc1h\">当 AI 的边际成本趋近于零时，一个人如果只会按照给定的 prompt（考纲）输出标准答案（做题），他的价值自然会被颠覆。这和「职业技能贬值」无关，这是「服从性信号」的通胀与破产。</p><p data-pid=\"g6cx1pmB\">你指望一群考核指标全在科研 Paper 上，十几年没更新过 PPT 的教授，在大学里教你如何应对 AI 时代的挑战？</p><p data-pid=\"GuUraxyl\">真正的硬核技能，比如在真实世界中发现问题、解决问题的能力，以及那些无法用语言清晰描述的<b>隐性知识</b><sup data-text=\"隐性知识系列\" data-url=\"https://zhuanlan.zhihu.com/p/1926283046446937604\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"4\">[4]</sup><b>（Tacit Knowledge）</b>，永远不可能在大学课堂上听懂。它需要你进行<b>自主教育（Self-Directed Education）</b>，需要你在真实的项目中去试错、去建立自己的心智模型。</p><p data-pid=\"CbFchqb7\">所以，大学的课，应逃尽逃。带个降噪耳机，在宿舍或者后排自己看网课，去搞开源项目，去实习，去接触真实世界的泥土。</p><p data-pid=\"vcpT3ZSS\">拜做题教的信徒们该醒醒了，旧时代的赎罪券在硅谷和 AGI 面前，一文不值。（逃</p><hr/><p data-pid=\"Rq-m0H57\"><b>延伸阅读</b></p><a href=\"https://zhuanlan.zhihu.com/p/19966155821\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-draft-title=\"文凭的终结 - 保罗•格雷厄姆（硅谷创业教父）\" data-draft-cover=\"https://picx.zhimg.com/v2-ad9c706257775c828af2bed26ceb41cb.webp?source=7e7ef6e2&amp;needBackground=1\" class=\"internal\">文凭的终结 - 保罗•格雷厄姆（硅谷创业教父）</a><a href=\"https://zhuanlan.zhihu.com/p/13065852973\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-draft-title=\"高等教育应当认真对待「信号传递批判」的理由及其潜在影响\" data-draft-cover=\"https://pic1.zhimg.com/v2-dc753fc419c09d503a2102f30a5c848a.png?source=7e7ef6e2&amp;needBackground=1\" class=\"internal\">高等教育应当认真对待「信号传递批判」的理由及其潜在影响</a><a href=\"https://zhuanlan.zhihu.com/p/704855447\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-draft-title=\"摒弃应试思维 - 保罗•格雷厄姆（硅谷创业教父）\" data-draft-cover=\"https://picx.zhimg.com/v2-aa917a4502a2507e71d68f469a727912.jpg?source=7e7ef6e2&amp;needBackground=1\" class=\"internal\">摒弃应试思维 - 保罗•格雷厄姆（硅谷创业教父）</a><a href=\"https://www.zhihu.com/question/1946575484436607707/answer/1954471460530811056\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-draft-title=\"大学老师是否有必要向学生解释所教知识和就业实际的撕裂？\" data-draft-cover=\"https://pica.zhimg.com/v2-4d60f6d6caef5cc08c64261f26913f1d.jpg?source=7e7ef6e2&amp;needBackground=1\" class=\"internal\">大学老师是否有必要向学生解释所教知识和就业实际的撕裂？</a><blockquote data-pid=\"1f1yHLfJ\">以上回答初稿由 gemini-3.1-pro-preview 根据汉化组的 1903 篇回答生成<sup data-text=\"我爬取了 Thoughts Memo 和 Jarrett Ye 共 1903 篇回答\" data-url=\"https://zhuanlan.zhihu.com/p/1981333174593294847\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"5\">[5]</sup></blockquote>",
+  "content_need_truncated": false,
+  "created_time": 1771683352,
+  "excerpt": "「职业技能会快速贬值」和「没必要上大学」有啥关系？搞得好像大学是职业技术培训学校似的。 马斯克这波属于是结论正确（没必要上大学），但推导前提全错（职业技能贬值）。 省流：大学教育和积累人力资本（Human Capital）无关，只是一场信号传递（Signaling）游戏。 你真以为大学里教的那些老掉牙的 PPT、脱离实际的理论是为了培养你的「职业技能」？这不过是为了向未来的老板发出信号，证明你智力正常、尽责且服从规训。 AI …",
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2008666247177463284",
+  "is_collapsed": false,
+  "is_contain_ai_content": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "link_card_info": {
+    "https://www.zhihu.com/question/1946575484436607707/answer/1954471460530811056": "{\"card_type\":\"card_1\",\"display\":{\"title\":\"大学老师是否有必要向学生解释所教知识和就业实际的撕裂？\",\"card_open_url\":\"https://www.zhihu.com/question/1946575484436607707/answer/1954471460530811056\",\"desc\":\"135 赞同 · 6 评论 \\u003ca class=\\\"tag type_a\\\"\\u003e回答\\u003c/a\\u003e\",\"content\":\"\\u003ca class=\\\"text normal/bold\\\" data-color=\\\"#444444\\\" data-night-color=\\\"#D3D3D3\\\"\\u003eThoughts Memo:\\u003c/a\\u003e 这个问题，大学老师不一定解释的清楚。。。英语里有句俗语叫做 Those who can, do; those who can't, teach. 啥意思呢？就是水平高的人都去投入实践了，水平低的才留在学校里教书。 不过这也要分领域， Paul Graham 在他的文章《边缘的力量 》中如此总结到：判断一个领域是否有一致标准的途径之一，是看该领域中顶尖的从业者与大学里教授该学科的人之间的重合度。在这一尺度的顶端是像数学和物理这样的领域，几乎所有的教师都是最…\",\"image\":{\"image_url\":\"https://picx.zhimg.com/v2-4d60f6d6caef5cc08c64261f26913f1d.jpg?source=7e7ef6e2\\u0026needBackground=1\",\"ratio\":1,\"is_video\":false},\"bg_type\":\"dark\"},\"source\":{\"content_type\":\"ANSWER\",\"content_id\":\"1954471460530811056\"},\"za_data\":{\"attach_info\":\"\"}}",
+    "https://zhuanlan.zhihu.com/p/13065852973": "{\"card_type\":\"card_1\",\"display\":{\"title\":\"高等教育应当认真对待「信号传递批判」的理由及其潜在影响\",\"card_open_url\":\"https://zhuanlan.zhihu.com/p/13065852973\",\"desc\":\"35 赞同 · 3 评论 \\u003ca class=\\\"tag type_a\\\"\\u003e文章\\u003c/a\\u003e\",\"content\":\"\\u003ca class=\\\"text normal/bold\\\" data-color=\\\"#444444\\\" data-night-color=\\\"#D3D3D3\\\"\\u003eThoughts Memo:\\u003c/a\\u003e 不久前，高等教育政策研究所公布了 David Willetts 议员的一篇 论文 ，该文有力地论证了继续支持和扩大高等教育的必要性。我们赞同该论文中的诸多观点。教育确实可以成为一段足以改变人生轨迹的经历，它不仅能提高毕业生的收入水平和幸福感，还能为整个社会带来积极影响。Willetts 的建议——增加大学数量，提高教育经费，同时加大对继续教育和终身学习的投资——鲜明地体现了教育学界的主流观点：越多越好。Willetts 敏锐地意识…\",\"image\":{\"image_url\":\"https://pica.zhimg.com/v2-2892e036cb258b516862f67b7d0935e6_r.jpg?source=172ae18b\",\"ratio\":1,\"is_video\":false},\"bg_type\":\"dark\"},\"source\":{\"content_type\":\"ARTICLE\",\"content_id\":\"13065852973\"},\"za_data\":{\"attach_info\":\"\"}}",
+    "https://zhuanlan.zhihu.com/p/19966155821": "{\"card_type\":\"card_1\",\"display\":{\"title\":\"文凭的终结 - 保罗•格雷厄姆（硅谷创业教父）\",\"card_open_url\":\"https://zhuanlan.zhihu.com/p/19966155821\",\"desc\":\"69 赞同 · 7 评论 \\u003ca class=\\\"tag type_a\\\"\\u003e文章\\u003c/a\\u003e\",\"content\":\"\\u003ca class=\\\"text normal/bold\\\" data-color=\\\"#444444\\\" data-night-color=\\\"#D3D3D3\\\"\\u003eThoughts Memo:\\u003c/a\\u003e 几个月前，我读到一篇《纽约时报》关于韩国补习机构的文章，其中说道 能否进入正确的大学可以成就或毁掉一个有抱负的韩国青年。一位家长补充道： 「在我们国家，高考决定了一个人 70% 到 80% 的未来。」这听起来多么老套，真是令人震惊。然而当我还在高中时，这作为对美国的描述似乎并不太离谱。这意味着这里的情况一定起了变化。 现在，在美国，人们的生活轨迹似乎比 25 年前更少由文凭决定，而更多由表现决定。你上哪所大学仍…\",\"image\":{\"image_url\":\"https://pica.zhimg.com/v2-ad9c706257775c828af2bed26ceb41cb_r.jpg?source=172ae18b\",\"ratio\":1,\"is_video\":false},\"bg_type\":\"dark\"},\"source\":{\"content_type\":\"ARTICLE\",\"content_id\":\"19966155821\"},\"za_data\":{\"attach_info\":\"\"}}",
+    "https://zhuanlan.zhihu.com/p/704855447": "{\"card_type\":\"card_1\",\"display\":{\"title\":\"摒弃应试思维 - 保罗•格雷厄姆（硅谷创业教父）\",\"card_open_url\":\"https://zhuanlan.zhihu.com/p/704855447\",\"desc\":\"282 赞同 · 12 评论 \\u003ca class=\\\"tag type_a\\\"\\u003e文章\\u003c/a\\u003e\",\"content\":\"\\u003ca class=\\\"text normal/bold\\\" data-color=\\\"#444444\\\" data-night-color=\\\"#D3D3D3\\\"\\u003eThoughts Memo:\\u003c/a\\u003e 你在学校受到的最有害的教育，不是某一门具体课程，而是学习只为了拿高分。 上大学时，有个特别认真的哲学研究生曾对我说，他从不关心课程的分数，只在乎从中学到了什么。这番话令我难忘，因为这是我唯一一次听到有人这样说。 对于我和大多数学生而言，学习完全是为考试成绩服务。虽然我一向比较用功、学习刻苦，也确实对大部分课程感兴趣，然而只有在备考时，我才会竭尽全力。 本来，考试应该顾名思义，是对课程学习效果的考察…\",\"image\":{\"image_url\":\"https://picx.zhimg.com/v2-aa917a4502a2507e71d68f469a727912_r.jpg?source=172ae18b\",\"ratio\":1,\"is_video\":false},\"bg_type\":\"dark\"},\"source\":{\"content_type\":\"ARTICLE\",\"content_id\":\"704855447\"},\"za_data\":{\"attach_info\":\"\"}}"
+  },
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/63069741049?contentId=2008666247177463284&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "38 人听过",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1771510056,
+    "detail": "<p>马斯克认为ai时代将会颠覆一切，职业技能会快速贬值，所以没必要上大学了，对此你们怎么看？</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-bd7778787ba552beb73d9e3e2dba6a65_1440w.png\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1026\" data-rawheight=\"562\" class=\"origin_image zh-lightbox-thumb\" width=\"1026\" data-original=\"https://pic2.zhimg.com/v2-bd7778787ba552beb73d9e3e2dba6a65_r.jpg\"/></figure><p></p>",
+    "id": "2007939390421360944",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "如何看待马斯克认为现代年轻人没必要上大学了？",
+    "type": "question",
+    "updated_time": 1771939550,
+    "url": "https://www.zhihu.com/api/v4/questions/2007939390421360944"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1771693941,
+  "url": "https://www.zhihu.com/api/v4/answers/2008666247177463284",
+  "voteup_count": 364
+}

@@ -1,0 +1,486 @@
+{
+  "id": "2013698640993068681",
+  "title": "反抗",
+  "type": "article",
+  "article_type": "normal",
+  "excerpt_title": "",
+  "url": "https://api.zhihu.com/articles/2013698640993068681",
+  "image_url": "https://picx.zhimg.com/v2-5bbc277fcb0685054f867df8f09b630f_720w.jpg?source=172ae18b",
+  "title_image": "https://pic1.zhimg.com/v2-5bbc277fcb0685054f867df8f09b630f_720w.jpg?source=172ae18b",
+  "excerpt": "第三种有争议的美德是「反抗」。与其他 <a href=\"https://link.zhihu.com/?target=https%3A//mindingourway.com/desperation/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">有争议的</a>[1]<a href=\"https://link.zhihu.com/?target=https%3A//mindingourway.com/recklessness/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">美德</a>[2] 一样，它也可能给你招来麻烦。<a href=\"https://link.zhihu.com/?target=http%3A//slatestarcodex.com/2014/03/24/should-you-reverse-any-advice-you-hear\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">请牢记反向建议等效定律</a>。不过，倘若运用得当，「反抗」这个美德便能在一种健康、摆脱内疚感的内在动机系统中发挥重要的作用。我过去常对人讲，我做事的动力，大概有…",
+  "created": 1772942098,
+  "updated": 1773279508,
+  "author": {
+    "is_followed": false,
+    "avatar_url_template": "https://pica.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94.jpg?source=172ae18b",
+    "uid": "592323397158703104",
+    "user_type": "people",
+    "is_following": false,
+    "url_token": "L.M.Sherlock",
+    "id": "4c592f496dc33822b560b382907ff1d0",
+    "description": "欢迎关注 Thoughts Memo 汉化组！我们关注的话题包括但不限于认知科学、知识工作、学习方法、学校教育、理性思考、儿童权利，目前已经完成翻译 1400 多篇文章。\n\n加入汉化组：https://paratranz.cn/projects/3131",
+    "name": "Thoughts Memo",
+    "is_advertiser": false,
+    "headline": "学校≠教育≠技能；文凭溢价=80%信号传递+20%人力资本",
+    "gender": -1,
+    "url": "https://api.zhihu.com/people/4c592f496dc33822b560b382907ff1d0",
+    "avatar_url": "https://picx.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94_l.jpg?source=172ae18b",
+    "is_org": false,
+    "type": "people",
+    "badge": [
+      {
+        "type": "identity",
+        "topics": [],
+        "description": "信息技术行业 算法工程师"
+      }
+    ],
+    "badge_v2": {
+      "title": "知势榜教育校园领域影响力榜答主",
+      "merged_badges": [
+        {
+          "type": "best",
+          "detail_type": "best",
+          "title": "社区成就",
+          "description": "知势榜教育校园领域影响力榜答主",
+          "url": "",
+          "sources": [],
+          "icon": "",
+          "night_icon": "",
+          "badge_status": "passed"
+        },
+        {
+          "type": "identity",
+          "detail_type": "identity_people",
+          "title": "认证",
+          "description": "信息技术行业 算法工程师",
+          "url": "https://zhuanlan.zhihu.com/p/96956163",
+          "sources": [],
+          "icon": "",
+          "night_icon": "",
+          "badge_status": "passed"
+        }
+      ],
+      "detail_badges": [
+        {
+          "type": "reward",
+          "detail_type": "super_activity",
+          "title": "社区成就",
+          "description": "知势榜教育校园领域影响力榜答主",
+          "url": "",
+          "sources": [
+            {
+              "id": "27",
+              "token": "",
+              "type": "content_potential_category",
+              "url": "",
+              "name": "知势榜8月",
+              "avatar_path": "",
+              "avatar_url": "",
+              "description": "",
+              "priority": 27
+            }
+          ],
+          "icon": "https://picx.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+          "night_icon": "https://picx.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+          "badge_status": "passed"
+        },
+        {
+          "type": "identity",
+          "detail_type": "identity_people",
+          "title": "已认证的个人",
+          "description": "信息技术行业 算法工程师",
+          "url": "https://zhuanlan.zhihu.com/p/96956163",
+          "sources": [],
+          "icon": "https://picx.zhimg.com/v2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c",
+          "night_icon": "https://pica.zhimg.com/v2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c",
+          "badge_status": "passed"
+        }
+      ],
+      "icon": "https://pic1.zhimg.com/v2-27bfcba90e66db79ce8768ab807e017e_l.png?source=32738c0c",
+      "night_icon": "https://picx.zhimg.com/v2-27bfcba90e66db79ce8768ab807e017e_l.png?source=32738c0c"
+    },
+    "exposed_medal": {
+      "medal_id": "0",
+      "medal_name": "",
+      "avatar_url": "",
+      "mini_avatar_url": "",
+      "description": "",
+      "medal_avatar_frame": null
+    }
+  },
+  "comment_permission": "all",
+  "copyright_permission": "need_review",
+  "state": "published",
+  "ip_info": "广东",
+  "image_width": 4000,
+  "image_height": 811,
+  "content": "<p data-pid=\"Le6FlOC2\">第三种有争议的美德是「反抗」。与其他<a href=\"https://link.zhihu.com/?target=https%3A//mindingourway.com/desperation/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">有争议的</a><sup data-text=\"拼命\" data-url=\"https://zhuanlan.zhihu.com/p/2004618843809682596\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"1\">[1]</sup><a href=\"https://link.zhihu.com/?target=https%3A//mindingourway.com/recklessness/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">美德</a><sup data-text=\"鲁莽\" data-url=\"https://zhuanlan.zhihu.com/p/2009342379862280068\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"2\">[2]</sup> 一样，它也可能给你招来麻烦。<a href=\"https://link.zhihu.com/?target=http%3A//slatestarcodex.com/2014/03/24/should-you-reverse-any-advice-you-hear\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">请牢记反向建议等效定律</a>。不过，倘若运用得当，「反抗」这个美德便能在一种健康、摆脱内疚感的内在动机系统中发挥重要的作用。</p><p data-pid=\"LoxyrcGM\">我过去常对人讲，我做事的动力，大概有九成是靠反抗驱动的。最常听到的回应是：「哈哈，那用激将法岂不是就能轻易摆布你了？」这让我意识到，我还没能讲清楚我所说的「反抗燃料」究竟为何物，于是索性就不再对外说出那句话了。今天，我就来试试能否把「反抗燃料」的含义说明白。</p><p data-pid=\"ASoQTDSp\">和我谈论过「反抗」的大多数人，都认为这是一种针对权威人物的心理姿态。他们或许会想象，一位家长说着「把西兰花吃完」，而那个讨厌西兰花的孩子则咬牙切齿，眼中燃着怒火，一边尽可能地耍着性子把东西吃下去，一边盘算着如何报复。我们从这个孩子身上想象出的那种情绪，或许就是人们心中对「反抗」最典型的印象。</p><p data-pid=\"JCPtsvM3\">我认为，那个孩子确实拥有「反抗的美德」，但这种美德并非体现在耍性子或对抗权威上。外在的反抗行为，是那孩子以一种公然反对的姿态张着嘴吃饭的举动；而内在的「反抗的美德」，则是他在这么做<b>之前</b>的内心活动。它是那个孩子决定不再任人摆布时精神上的自我武装。它体现在独立自主的抉择中，体现在拒绝逆来顺受的意志里。倘若这些自发的、潜意识的心理活动能被言语化，或许会是这样：「我就是我，不会由你左右」，或是「如果你逼我，我必将反抗」。然而，它们并未诉诸言语，因为它们并不是有意识的，而是一种条件反射般的本能。</p><p data-pid=\"P-o7qGOD\">「反抗的美德」，在于当你察觉到世间有不公与罪恶正在滋生时，便会<b>本能地</b>竭尽全力去阻止它，去扭转局面。这种美德，在于从不逆来顺受，也在于绝不允许世间的任何不公与罪恶滋生。</p><p data-pid=\"V4OQNJE3\">「反抗」，并不是不假思索的意气用事：一个懂得反抗的孩子，或许会为了避开严重的后果而选择静待良机。「反抗」，是指<b>对既有常规毫不迟疑的抵制</b>：一个懂得反抗的孩子或许会权衡利弊、静待良机，但反抗这一决心本身，是毋庸置疑、下意识的。他们纯粹是厌恶眼前的局面，因此反抗。</p><p data-pid=\"QVWQM972\">所谓「反抗的美德」，其精髓就在于：面对世间的一切不公时，能产生<b>那种</b>下意识的反应。</p><hr/><p data-pid=\"Z-ONRUfm\">当然，反抗什么，是一门艺术。我推荐去<a href=\"https://link.zhihu.com/?target=https%3A//mindingourway.com/the-value-of-a-life/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">反抗死亡</a><sup data-text=\"生命的价值\" data-url=\"https://zhuanlan.zhihu.com/p/1971878962755011075\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"3\">[3]</sup>；不过，我并不推荐你对那些习惯用严厉、权威口吻命令你做事的人产生那种「反抗」反应。那些对你发号施令的人，你可以根据具体情况选择置之不理或暂时服从，但他们通常不值得你去<b>反抗</b>，除非是在某些特定情形下：你确实需要证明自己不受其支配，且此前所有你尝试更温和的提醒方式都失败了。</p><p data-pid=\"tCGRY8NK\">作为一条经验法则，我建议将「反抗」的矛头指向<b>世事</b>，这通常是有益的；而将矛头指向<b>个人</b>，则通常是有害的。</p><p data-pid=\"7CYB-Y3P\">为了说明这种区别，不妨想象一下：你是 Neo，身处第一部<a href=\"https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/The_Matrix\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">《黑客帝国》</a>电影剧情结束的二十年后。电影的续集从未上演；相反，你被彻底困死在矩阵之中，与外部世界的所有联系都已逐一断绝、消失。终于有一天，你对矩阵的掌控力也开始瓦解，你的非凡能力从指间溜走，正如梦境中的清醒意识一般，稍纵即逝。此刻，你孑然立于摩天大楼之巅，隔着深渊遥望对面的孪生高塔，却怎么也想不起飞翔曾是何种滋味。</p><p data-pid=\"3DkY6I_e\">你木然地立在那里，竭力想要唤回曾经的记忆，却发现它们虚无缥缈，难以捕捉。就在这时，身后有人走上了天台，他的喊声穿透了猎猎风声。</p><p data-pid=\"siQqY8Pv\">「你他妈在干什么，你这白痴？」那人吼道，「快从那儿退回来！立刻！马上！」</p><p data-pid=\"rosYtLAQ\">所谓「针对个人的反抗」，就是内心涌起一股强烈的冲动，想要压过对方一头，向他证明你不受他支配，并很可能因此做出不计后果的鲁莽行为。</p><p data-pid=\"gnZl8OU3\">而「针对世界的反抗」，则是听到这个人的喊声，并借此为契机，回忆起你曾知晓的那个真相。你会对自己说：「啊，对了，我身处矩阵之中。」你会回想起，无论周遭的人沉溺于何种幻象，这个世界的规则与习俗都无法将你主宰。你的精神会猛然聚焦。你会重新握住那份失落已久的力量，然后纵身一跃。</p><p data-pid=\"ZZGwvgUw\">（当然，那些已将「反抗的美德」内化于心的人，无需他人的推动就能进入这种精神状态——因为对他们而言，反抗的本质在于自身与世事的关系，而非与他人的关系，这是一种可以随时被唤醒的内在联系。）</p><hr/><p data-pid=\"lbNv51B_\">这，就是我所说的那种「反抗」。它关乎<a href=\"https://link.zhihu.com/?target=https%3A//mindingourway.com/deregulating-distraction-moving-towards-the-goal-and-level-hopping/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">层级跃迁</a>，也关乎一种对自身局限的质疑精神。它还关乎一种衡量进步的技巧：不以他人为镜，而以事实为尺。</p><p data-pid=\"zg7m4M5_\">我一直在撰写一系列长文，探讨如何用另一种力量来取代以内疚感产生动机的模式。许多读者向我反馈，说我那些关于摆脱内疚感的文章似乎深受道家思想的启发。或许，两者确有共通之处。但此文所谈的「反抗」，是个例外。</p><p data-pid=\"iv071sXa\">「反抗」，并非是要与世界达成和解。 它是指凝视这个世界时，内心能产生与那个反抗的孩子如出一辙的本能反应。 它是在面对庞大到令人绝望的难题时，本能地吼出一句「去它的」，然后在无望中选择依靠自己。 它是一种根深蒂固的，绝不愿「温和地走进那个良夜」的本性。 它是有能力看清我们所有人都深陷其中的社会僵局，并为此<b>感到愤怒</b>——并非因为某个个体是邪恶的，而是因为几乎没人是邪恶的，但一切却依旧千疮百孔。</p><p data-pid=\"_AQiI_ik\">而最重要的是，它是在看清这世界的千疮百孔之后，内心<b>迸发</b>出的一种呐喊：「去他妈的这身凡骨俗胎，老子就是要<b>拨乱反正</b>！」</p><p data-pid=\"Z0lnlygE\">当那个反抗的孩子尽可能地带着怨气吃下蔬菜时，他们的脑海里从未<b>闪过一丝一毫</b>向父母投降的念头。耍性子是一种<b>下意识的反应</b>。他们权衡的从来不是要不要反抗父母——充其量，他们可能仔细权衡过，是要现在就公然报复，还是以后再伺机而动。「反抗」是一种<b>本能</b>；至于「绝不向权威低头」这件事，是理所当然、毋庸置疑的。</p><p data-pid=\"2d484Wkq\">「反抗的美德」是指拥有如出一辙的本能反应，但其矛头并非指向某个权威人物，而是指向<b><a href=\"https://link.zhihu.com/?target=https%3A//mindingourway.com/the-value-of-a-life/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">崩坏世界</a></b><sup data-text=\"生命的价值\" data-url=\"https://zhuanlan.zhihu.com/p/1971878962755011075\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"3\">[3]</sup><b>的现状</b>。它的精髓在于，将「为修正这崩坏的世界而抗争」这件事，化为一种<b>无需言说、发自本能的自觉</b>——你或许会权衡利弊、等待时机，但<b>是否要抗争</b>这件事本身，却是一个无需思考的问题。</p><p data-pid=\"YrCnBQvv\">我仍不知道该如何传授「反抗」之道，但它是我个人动机系统的核心基石之一。如果你想为自己打造一套与我类似的动机系统，那么「反抗」便是其中不可或缺的一环。</p><p data-pid=\"wRjHyFPl\">所以，我建议这样激励你自己，以取代内疚感：让这世间的不公，触动你内心深处的某个开关，让问题的焦点不再是你是否会屈服或绝望，而是变成<b>你将如何奋力将未来的航向，扭转到一条不同的路上。</b>将眼下的现状视为你的宿敌；将未来视为悬而待夺的奖赏。挣脱虚幻的枷锁，咬紧牙关，起而反叛。去蔑视它。</p><p data-pid=\"7QKlWkNJ\">允许自己带上几分<a href=\"https://link.zhihu.com/?target=https%3A//mindingourway.com/recklessness/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">鲁莽</a><sup data-text=\"鲁莽\" data-url=\"https://zhuanlan.zhihu.com/p/2009342379862280068\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"2\">[2]</sup>。让自己带上几分<a href=\"https://link.zhihu.com/?target=https%3A//mindingourway.com/desperation/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">拼命</a><sup data-text=\"拼命\" data-url=\"https://zhuanlan.zhihu.com/p/2004618843809682596\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"1\">[1]</sup>。让反抗现状的火焰在你胸中熊熊燃起。接着，<b>行动</b>。</p><hr/><p data-pid=\"Eq-0ayrU\">上一篇：</p><a href=\"https://zhuanlan.zhihu.com/p/2009342379862280068\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-draft-title=\"鲁莽\" data-draft-cover=\"https://picx.zhimg.com/v2-5bbc277fcb0685054f867df8f09b630f.jpg?source=7e7ef6e2&amp;needBackground=1\" class=\"internal\">鲁莽</a><p data-pid=\"8suP79lp\">下一篇：</p><a href=\"https://zhuanlan.zhihu.com/p/2015014462667628594\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-draft-title=\"我们将如何被衡量\" data-draft-cover=\"\" class=\"internal\">我们将如何被衡量</a><hr/><blockquote data-pid=\"J-sCieqD\"><a href=\"https://link.zhihu.com/?target=http%3A//paratranz.cn/projects/3131\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Thoughts Memo</a> 汉化组译制<br/>感谢主要译者 <span class=\"nolink\">肉卡肉丝</span>，校对 <span class=\"nolink\">HyFren</span>、Jarrett Ye<br/>原文：<a href=\"https://link.zhihu.com/?target=https%3A//mindingourway.com/defiance/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Defiance</a><br/>2016 年 2 月 14 日</blockquote>",
+  "content_need_truncated": false,
+  "force_login_when_click_read_more": false,
+  "admin_closed_comment": false,
+  "topics": [
+    {
+      "url": "https://api.zhihu.com/topics/20024798",
+      "type": "topic",
+      "id": "20024798",
+      "name": "反抗"
+    },
+    {
+      "url": "https://api.zhihu.com/topics/20768173",
+      "type": "topic",
+      "id": "20768173",
+      "name": "内驱力"
+    },
+    {
+      "url": "https://api.zhihu.com/topics/19565518",
+      "type": "topic",
+      "id": "19565518",
+      "name": "动机"
+    }
+  ],
+  "voteup_count": 41,
+  "voting": 0,
+  "heavy_up_status": "allow_heavy_up",
+  "column": {
+    "description": "",
+    "can_manage": true,
+    "intro": "<p>将无益的内疚感转化为更理性、更有效能的行动和思维模式，以实现个人目标并更好地为世界做出贡献。</p>",
+    "is_following": false,
+    "url_token": "c_1900848986845319905",
+    "id": "c_1900848986845319905",
+    "articles_count": 45,
+    "accept_submission": false,
+    "title": "超越内疚",
+    "url": "https://api.zhihu.com/columns/c_1900848986845319905",
+    "comment_permission": "all",
+    "created": 1745977714,
+    "updated": 1748310019,
+    "image_url": "https://pica.zhimg.com/v2-aadaf160e1a360ad997ceff62fd063a3_720w.jpg?source=172ae18b",
+    "author": {
+      "is_followed": false,
+      "avatar_url_template": "https://picx.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94.jpg?source=172ae18b",
+      "uid": "592323397158703104",
+      "user_type": "people",
+      "is_following": false,
+      "url_token": "L.M.Sherlock",
+      "id": "4c592f496dc33822b560b382907ff1d0",
+      "description": "欢迎关注 Thoughts Memo 汉化组！我们关注的话题包括但不限于认知科学、知识工作、学习方法、学校教育、理性思考、儿童权利，目前已经完成翻译 1400 多篇文章。\n\n加入汉化组：https://paratranz.cn/projects/3131",
+      "name": "Thoughts Memo",
+      "is_advertiser": false,
+      "headline": "学校≠教育≠技能；文凭溢价=80%信号传递+20%人力资本",
+      "gender": -1,
+      "url": "https://api.zhihu.com/people/4c592f496dc33822b560b382907ff1d0",
+      "avatar_url": "https://pica.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94_l.jpg?source=172ae18b",
+      "is_org": false,
+      "type": "people",
+      "badge_v2": {
+        "title": "",
+        "merged_badges": [],
+        "detail_badges": [],
+        "icon": "",
+        "night_icon": ""
+      }
+    },
+    "followers": 741,
+    "type": "column",
+    "column_type": "normal"
+  },
+  "comment_count": 1,
+  "contributions": [
+    {
+      "id": 53612421,
+      "state": "accepted",
+      "type": "first_publish",
+      "column": {
+        "description": "",
+        "can_manage": true,
+        "intro": "<p>将无益的内疚感转化为更理性、更有效能的行动和思维模式，以实现个人目标并更好地为世界做出贡献。</p>",
+        "is_following": false,
+        "url_token": "c_1900848986845319905",
+        "id": "c_1900848986845319905",
+        "articles_count": 45,
+        "accept_submission": false,
+        "title": "超越内疚",
+        "url": "https://api.zhihu.com/columns/c_1900848986845319905",
+        "comment_permission": "all",
+        "created": 1745977714,
+        "updated": 1748310019,
+        "image_url": "https://pica.zhimg.com/v2-aadaf160e1a360ad997ceff62fd063a3_720w.jpg?source=172ae18b",
+        "author": {
+          "is_followed": false,
+          "avatar_url_template": "https://picx.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94.jpg?source=172ae18b",
+          "uid": "592323397158703104",
+          "user_type": "people",
+          "is_following": false,
+          "url_token": "L.M.Sherlock",
+          "id": "4c592f496dc33822b560b382907ff1d0",
+          "description": "欢迎关注 Thoughts Memo 汉化组！我们关注的话题包括但不限于认知科学、知识工作、学习方法、学校教育、理性思考、儿童权利，目前已经完成翻译 1400 多篇文章。\n\n加入汉化组：https://paratranz.cn/projects/3131",
+          "name": "Thoughts Memo",
+          "is_advertiser": false,
+          "headline": "学校≠教育≠技能；文凭溢价=80%信号传递+20%人力资本",
+          "gender": -1,
+          "url": "https://api.zhihu.com/people/4c592f496dc33822b560b382907ff1d0",
+          "avatar_url": "https://pica.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94_l.jpg?source=172ae18b",
+          "is_org": false,
+          "type": "people",
+          "badge_v2": {
+            "title": "",
+            "merged_badges": [],
+            "detail_badges": [],
+            "icon": "",
+            "night_icon": ""
+          }
+        },
+        "followers": 741,
+        "type": "column",
+        "column_type": "normal"
+      }
+    }
+  ],
+  "is_title_image_full_screen": false,
+  "upvoted_followees": [],
+  "commercial_info": {
+    "is_commercial": false,
+    "plugin": {}
+  },
+  "suggest_edit": {
+    "status": false,
+    "reason": "",
+    "tip": "",
+    "url": "",
+    "title": ""
+  },
+  "reason": "",
+  "annotation_action": [],
+  "can_tip": false,
+  "can_open_tipjar": true,
+  "tipjarors_count": 0,
+  "is_labeled": false,
+  "has_publishing_draft": false,
+  "is_favorited": false,
+  "favlists_count": 34,
+  "is_normal": true,
+  "status": 0,
+  "activity_topping_info": {
+    "state": "untopped"
+  },
+  "share_text": "反抗 - 来自知乎专栏「超越内疚」，作者: Thoughts Memo https://zhuanlan.zhihu.com/p/2013698640993068681 （想看更多？下载 @知乎 App：http://weibo.com/p/100404711598 ）",
+  "can_comment": {
+    "status": true,
+    "reason": ""
+  },
+  "linkbox": {
+    "url": "",
+    "category": "",
+    "pic": "",
+    "title": ""
+  },
+  "mcn_fp_show": -1,
+  "is_visible": true,
+  "is_liked": false,
+  "liked_count": 18,
+  "has_column": true,
+  "republishers": [],
+  "is_new_link_card": true,
+  "emoji_reaction": {
+    "like_count": 18,
+    "like_has_set": false
+  },
+  "ab_param": {
+    "qa_hidden_voteup": "",
+    "rs_interest1": "",
+    "zp_zhi_style": ""
+  },
+  "attached_info": "kgIuCgkyNzExMjE1ODISEzIwMTM2OTg2NDA5OTMwNjg2ODEYByIKSU1BR0VfVEVYVA==",
+  "share_guide": {
+    "has_positive_bubble": false,
+    "has_time_bubble": false,
+    "hit_share_guide_cluster": false
+  },
+  "settings": {
+    "table_of_contents": {
+      "enabled": false
+    }
+  },
+  "can_reference": false,
+  "reaction_instruction": {},
+  "reaction": {
+    "statistics": {
+      "up_vote_count": 41,
+      "down_vote_count": 0,
+      "like_count": 18,
+      "comment_count": 1,
+      "share_count": 0,
+      "play_count": 0,
+      "interest_play_count": 0,
+      "favorites": 34,
+      "pv_count": 0,
+      "bullet_count": 0,
+      "applaud_count": 0,
+      "question_follower_count": 0,
+      "question_answer_count": 0,
+      "plaincontent_vote_up_count": 0,
+      "plaincontent_like_count": 0,
+      "img_like_count": {
+        "v2-5bbc277fcb0685054f867df8f09b630f": 0
+      },
+      "subscribe_count": 0,
+      "republishers": []
+    },
+    "relation": {
+      "is_author": true,
+      "vote": "Neutral",
+      "liked": false,
+      "img_liked": {
+        "v2-5bbc277fcb0685054f867df8f09b630f": false
+      },
+      "faved": false,
+      "following": false,
+      "subcribed": false,
+      "is_navigator_vote": false,
+      "current_user_is_navigator": false,
+      "vote_next_step": ""
+    },
+    "image_reactions": {
+      "v2-5bbc277fcb0685054f867df8f09b630f": {
+        "like_count": 0,
+        "is_liked": false
+      }
+    }
+  },
+  "interaction_bar_plugins": [
+    {
+      "type": "comment",
+      "comment": {
+        "enable": true,
+        "placeholder": "发条带图评论"
+      }
+    }
+  ],
+  "bar_plugins_flip_time": 3000,
+  "podcast_audio_enter": {
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13,
+    "action_url": "zhihu://podcast/audio_player/65931709069?contentId=2013698640993068681&contentType=article"
+  },
+  "endorsements": [
+    {
+      "elements": [
+        {
+          "type": "IMAGE",
+          "image_key": "zhicon_icon_24_column_fill",
+          "image_color": {
+            "alpha": 1,
+            "group": "GBL01A"
+          },
+          "width": 16,
+          "height": 16
+        },
+        {
+          "type": "TEXT",
+          "content": "收录于 · 超越内疚",
+          "font_size": 13,
+          "font_color": {
+            "alpha": 1,
+            "group": "GBL01A"
+          },
+          "is_bold": false,
+          "max_line": 1
+        },
+        {
+          "type": "IMAGE",
+          "image_key": "zhicon_icon_16_arrow_right",
+          "image_color": {
+            "alpha": 1,
+            "group": "GBL01A"
+          },
+          "width": 12,
+          "height": 12
+        }
+      ],
+      "sub_elements": [],
+      "sub_elements_type": "DESCRIPTION",
+      "background_color": {
+        "alpha": 0.08,
+        "group": "GBL01A"
+      },
+      "action_url": "https://www.zhihu.com/column/c_1900848986845319905",
+      "za": {
+        "block_text": "Column",
+        "type": "text",
+        "text": "收录于 · 超越内疚"
+      }
+    }
+  ],
+  "segment_infos": [
+    {
+      "pid": "JCPtsvM3",
+      "text": "我认为，那个孩子确实拥有「反抗的美德」，但这种美德并非体现在耍性子或对抗权威上。外在的反抗行为，是那孩子以一种公然反对的姿态张着嘴吃饭的举动；而内在的「反抗的美德」，则是他在这么做之前的内心活动。它是那个孩子决定不再任人摆布时精神上的自我武装。它体现在独立自主的抉择中，体现在拒绝逆来顺受的意志里。倘若这些自发的、潜意识的心理活动能被言语化，或许会是这样：「我就是我，不会由你左右」，或是「如果你逼我，我必将反抗」。然而，它们并未诉诸言语，因为它们并不是有意识的，而是一种条件反射般的本能。",
+      "marks": [
+        {
+          "start_index": 71,
+          "end_index": 150,
+          "seg_info": {
+            "seg_ids": [
+              "2014045452648076569"
+            ],
+            "is_like": false,
+            "like_count": 3,
+            "comment_count": 0,
+            "my_comment_count": 0,
+            "is_span": false
+          }
+        }
+      ]
+    },
+    {
+      "pid": "Z-ONRUfm",
+      "text": "当然，反抗什么，是一门艺术。我推荐去 反抗死亡[3]；不过，我并不推荐你对那些习惯用严厉、权威口吻命令你做事的人产生那种「反抗」反应。那些对你发号施令的人，你可以根据具体情况选择置之不理或暂时服从，但他们通常不值得你去反抗，除非是在某些特定情形下：你确实需要证明自己不受其支配，且此前所有你尝试更温和的提醒方式都失败了。",
+      "marks": [
+        {
+          "start_index": 3,
+          "end_index": 160,
+          "seg_info": {
+            "seg_ids": [
+              "2014009786056864709",
+              "2014045975803619309",
+              "2014009757774656614"
+            ],
+            "is_like": false,
+            "like_count": 3,
+            "comment_count": 0,
+            "my_comment_count": 0,
+            "is_span": true
+          }
+        }
+      ]
+    },
+    {
+      "pid": "tCGRY8NK",
+      "text": "作为一条经验法则，我建议将「反抗」的矛头指向世事，这通常是有益的；而将矛头指向个人，则通常是有害的。",
+      "marks": [
+        {
+          "start_index": 0,
+          "end_index": 0,
+          "seg_info": {
+            "seg_ids": [
+              "2014009786056864709",
+              "2014045975803619309",
+              "2014009757774656614"
+            ],
+            "is_like": false,
+            "like_count": 3,
+            "comment_count": 0,
+            "my_comment_count": 0,
+            "is_span": true
+          }
+        }
+      ]
+    }
+  ],
+  "allow_segment_interaction": 1,
+  "is_navigator": false,
+  "navigator_vote": false,
+  "vote_next_step": "vote"
+}

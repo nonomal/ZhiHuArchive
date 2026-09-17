@@ -1,0 +1,135 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://pic1.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://picx.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94.jpg?source=2c26e567",
+    "badge": [
+      {
+        "description": "信息技术行业 算法工程师",
+        "topics": [],
+        "type": "identity"
+      }
+    ],
+    "badge_v2": {
+      "detail_badges": [
+        {
+          "badge_status": "passed",
+          "description": "知势榜教育校园领域影响力榜答主",
+          "detail_type": "super_activity",
+          "icon": "https://pic1.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+          "night_icon": "https://pic1.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+          "sources": [
+            {
+              "avatar_path": "",
+              "avatar_url": "",
+              "description": "",
+              "id": "27",
+              "name": "知势榜8月",
+              "priority": 27,
+              "token": "",
+              "type": "content_potential_category",
+              "url": ""
+            }
+          ],
+          "title": "社区成就",
+          "type": "reward",
+          "url": ""
+        },
+        {
+          "badge_status": "passed",
+          "description": "信息技术行业 算法工程师",
+          "detail_type": "identity_people",
+          "icon": "https://picx.zhimg.com/v2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c",
+          "night_icon": "https://pic1.zhimg.com/v2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c",
+          "sources": [],
+          "title": "已认证的个人",
+          "type": "identity",
+          "url": "https://zhuanlan.zhihu.com/p/96956163"
+        }
+      ],
+      "icon": "https://pic1.zhimg.com/v2-27bfcba90e66db79ce8768ab807e017e_l.png?source=32738c0c",
+      "merged_badges": [
+        {
+          "badge_status": "passed",
+          "description": "知势榜教育校园领域影响力榜答主",
+          "detail_type": "best",
+          "icon": "",
+          "night_icon": "",
+          "sources": [],
+          "title": "社区成就",
+          "type": "best",
+          "url": ""
+        },
+        {
+          "badge_status": "passed",
+          "description": "信息技术行业 算法工程师",
+          "detail_type": "identity_people",
+          "icon": "",
+          "night_icon": "",
+          "sources": [],
+          "title": "认证",
+          "type": "identity",
+          "url": "https://zhuanlan.zhihu.com/p/96956163"
+        }
+      ],
+      "night_icon": "https://pica.zhimg.com/v2-27bfcba90e66db79ce8768ab807e017e_l.png?source=32738c0c",
+      "title": "知势榜教育校园领域影响力榜答主"
+    },
+    "gender": -1,
+    "headline": "学校≠教育≠技能；文凭溢价=80%信号传递+20%人力资本",
+    "id": "4c592f496dc33822b560b382907ff1d0",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "Thoughts Memo",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/4c592f496dc33822b560b382907ff1d0",
+    "url_token": "L.M.Sherlock",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 6,
+  "content": "<p data-pid=\"bSggLmnl\">手机端编辑器的二级标题。</p><p data-pid=\"tAWFO7BE\">本来知乎只支持两级标题就已经很难受了。没想到有一次更新直接把手机端的二级标题给干掉了，想要调标题格式还得打开网页版，麻烦死了。自那之后我几乎就没用手机端发过文章了，除了偶尔改个错别字。</p><p data-pid=\"JFlrL6Ta\">当年发的想法为证：</p><a data-draft-node=\"block\" data-draft-type=\"link-card\" href=\"https://www.zhihu.com/pin/1685966583925702656\" data-draft-title=\"\" data-draft-cover=\"\" class=\"internal\">Thoughts Memo 的想法</a><p data-pid=\"x1hiyFNf\">——本回答发自我的手机</p>",
+  "content_need_truncated": false,
+  "created_time": 1769882000,
+  "excerpt": "手机端编辑器的二级标题。 本来知乎只支持两级标题就已经很难受了。没想到有一次更新直接把手机端的二级标题给干掉了，想要调标题格式还得打开网页版，麻烦死了。自那之后我几乎就没用手机端发过文章了，除了偶尔改个错别字。 当年发的想法为证： Thoughts Memo 的想法 ——本回答发自我的手机",
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2001110828385063192",
+  "is_collapsed": false,
+  "is_contain_ai_content": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2001110828385063192&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1769483769,
+    "detail": "<p>十五载同行，我们一起走过了无数求知、分享的时光，有些功能曾陪我们探索知识、连接同好，甚至成为独有的使用记忆。在知乎 15 周年纪念的时刻，一起聊聊你最怀念的产品功能，说说它曾带给你的价值与温暖。</p>",
+    "id": "1999440526072574966",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "知乎 15 周年，那些消失的产品功能里，哪一个是你最怀念的？",
+    "type": "question",
+    "updated_time": 1769483769,
+    "url": "https://www.zhihu.com/api/v4/questions/1999440526072574966"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1769882000,
+  "url": "https://www.zhihu.com/api/v4/answers/2001110828385063192",
+  "voteup_count": 20
+}

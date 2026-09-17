@@ -1,0 +1,420 @@
+{
+  "id": "2003874115736581429",
+  "title": "说日语",
+  "type": "article",
+  "article_type": "normal",
+  "excerpt_title": "",
+  "url": "https://api.zhihu.com/articles/2003874115736581429",
+  "image_url": "https://pic1.zhimg.com/v2-861edc71efffb16aef3d9c1b2db5e3fa_720w.jpg?source=172ae18b",
+  "title_image": "https://pic1.zhimg.com/v2-861edc71efffb16aef3d9c1b2db5e3fa_720w.jpg?source=172ae18b",
+  "excerpt": "<b>输入</b>是把外语口语练好的核心。<b>输出</b>只是锦上添花。学习外语时，我们通常会想：「只要我多说，我就会变强！」可惜这其实是错的。让你日语变强的，是沉浸（输入）：也就是用日语去听、去读母语者面向母语者创作的内容。自然的遣词造句来自上千小时的输入（尤其…",
+  "created": 1770600049,
+  "updated": 1771476549,
+  "author": {
+    "is_followed": false,
+    "avatar_url_template": "https://picx.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94.jpg?source=172ae18b",
+    "uid": "592323397158703104",
+    "user_type": "people",
+    "is_following": false,
+    "url_token": "L.M.Sherlock",
+    "id": "4c592f496dc33822b560b382907ff1d0",
+    "description": "欢迎关注 Thoughts Memo 汉化组！我们关注的话题包括但不限于认知科学、知识工作、学习方法、学校教育、理性思考、儿童权利，目前已经完成翻译 1400 多篇文章。\n\n加入汉化组：https://paratranz.cn/projects/3131",
+    "name": "Thoughts Memo",
+    "is_advertiser": false,
+    "headline": "学校≠教育≠技能；文凭溢价=80%信号传递+20%人力资本",
+    "gender": -1,
+    "url": "https://api.zhihu.com/people/4c592f496dc33822b560b382907ff1d0",
+    "avatar_url": "https://pic1.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94_l.jpg?source=172ae18b",
+    "is_org": false,
+    "type": "people",
+    "badge": [
+      {
+        "type": "identity",
+        "topics": [],
+        "description": "信息技术行业 算法工程师"
+      }
+    ],
+    "badge_v2": {
+      "title": "知势榜教育校园领域影响力榜答主",
+      "merged_badges": [
+        {
+          "type": "best",
+          "detail_type": "best",
+          "title": "社区成就",
+          "description": "知势榜教育校园领域影响力榜答主",
+          "url": "",
+          "sources": [],
+          "icon": "",
+          "night_icon": "",
+          "badge_status": "passed"
+        },
+        {
+          "type": "identity",
+          "detail_type": "identity_people",
+          "title": "认证",
+          "description": "信息技术行业 算法工程师",
+          "url": "https://zhuanlan.zhihu.com/p/96956163",
+          "sources": [],
+          "icon": "",
+          "night_icon": "",
+          "badge_status": "passed"
+        }
+      ],
+      "detail_badges": [
+        {
+          "type": "reward",
+          "detail_type": "super_activity",
+          "title": "社区成就",
+          "description": "知势榜教育校园领域影响力榜答主",
+          "url": "",
+          "sources": [
+            {
+              "id": "27",
+              "token": "",
+              "type": "content_potential_category",
+              "url": "",
+              "name": "知势榜8月",
+              "avatar_path": "",
+              "avatar_url": "",
+              "description": "",
+              "priority": 27
+            }
+          ],
+          "icon": "https://picx.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+          "night_icon": "https://picx.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+          "badge_status": "passed"
+        },
+        {
+          "type": "identity",
+          "detail_type": "identity_people",
+          "title": "已认证的个人",
+          "description": "信息技术行业 算法工程师",
+          "url": "https://zhuanlan.zhihu.com/p/96956163",
+          "sources": [],
+          "icon": "https://pic1.zhimg.com/v2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c",
+          "night_icon": "https://pica.zhimg.com/v2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c",
+          "badge_status": "passed"
+        }
+      ],
+      "icon": "https://picx.zhimg.com/v2-27bfcba90e66db79ce8768ab807e017e_l.png?source=32738c0c",
+      "night_icon": "https://pic1.zhimg.com/v2-27bfcba90e66db79ce8768ab807e017e_l.png?source=32738c0c"
+    },
+    "exposed_medal": {
+      "medal_id": "0",
+      "medal_name": "",
+      "avatar_url": "",
+      "mini_avatar_url": "",
+      "description": "",
+      "medal_avatar_frame": null
+    }
+  },
+  "comment_permission": "all",
+  "copyright_permission": "need_review",
+  "state": "published",
+  "ip_info": "福建",
+  "image_width": 1008,
+  "image_height": 558,
+  "content": "<p data-pid=\"o26Mzl_4\"><b>输入</b>是把外语口语练好的核心。<b>输出</b>只是锦上添花。</p><p data-pid=\"pXtTJ9Uw\">学习外语时，我们通常会想：「只要我多说，我就会变强！」可惜这其实是错的。让你日语变强的，是沉浸（输入）：也就是用日语去听、去读母语者面向母语者创作的内容。自然的遣词造句来自上千小时的输入（尤其是听力！）。但你仍然有一个需要触达的「上限」，而口语练习可以帮你摸到这个上限。你需要先输入到「你已经知道什么是正确的」再开口，因为你已经在输入里听过它，所以在对话之前你就能知道自己该说出怎样自然的话。输入越多，你的输出上限就越高，也就意味着你的输出容量更大。因此，作为完全的初学者去练口语几乎没意义：你的输出上限极低，再怎么练口语也很难让你真正提升口语。等你多沉浸几百小时，输出上限会提高；这时你就可以练口语来「顶到」你的上限。你可能会在这种时候发现自己顶到上限：你想说某句话，却不知道怎么自然表达，只好在脑子里从汉语翻译成日语，并靠自己背过的语法结构硬拼出来。如果发生这种情况，就说明你需要更多输入。换句话说，如果你想不出该怎么表达自己的想法，那就需要更多输入。等你又恢复自信之后，再回到输出练习。</p><p data-pid=\"PpzREFeX\">另一个不适合过早输出的原因是：你不知道哪些是对的、哪些是错的，而母语者也不会告诉你。于是你可能在犯很大的错误，却毫无察觉。也许你不喜欢犯错。</p><h2><b>但为什么和母语者聊天可能不是个好主意</b></h2><ol><li data-pid=\"5xRiCMU3\">如果你期待对方纠正你，那你多半要失望了。母语者不会纠正你。纠正别人的说法是不礼貌的，因为对方可能会觉得被冒犯。这不是日语独有的现象。我经常能注意到非汉语母语者的表达不自然，但我也不会纠正他们，因为我可能会显得像「语法警察」。我相信日本人纠正你的日语时也会有同样的顾虑。<br/><br/></li><li data-pid=\"WFqTvd_W\">HelloTalk 等类似应用上的大多数母语者并不想练日语；他们想和你练汉语。所以他们会拖住你，让你几乎没有机会真正练口语。<br/><br/></li><li data-pid=\"edw-3y2D\">如果你还没有对日语口语有扎实的把握（例如还听不懂大多数动画），却硬要开口说，那会充满错误、而且极其挫败。相比之下，单纯去沉浸会更有动力。<br/><br/></li><li data-pid=\"-CMaVVjs\">即便你让他们纠正你，他们也不会纠正。</li></ol><h2><b>为什么和母语者聊天可能是个好主意</b></h2><ol><li data-pid=\"GLrHxU6_\">因为好玩。毫无疑问：当你能正确输出时，输出是很好玩的。对我来说，当我自然输出、我的日本朋友能准确理解我想说什么时，这会给我很大的动力。再说了，如果你想说，那就去说！没有人会拦着你。🙂<br/><br/></li><li data-pid=\"TFJegih8\">这肯定比和学习者对话更好。</li></ol><h2><b>如果我犯错了怎么办？</b></h2><p data-pid=\"kXdsATh3\">别纠结，继续往前走。没什么大不了的。只要你每天都在沉浸，就完全不是问题！<b>我可以和其他学习者聊天吗？</b>无论你和谁用日语对话，只要你在规律使用日语，这对扩大你的主动词汇量都很重要。只要你在沉浸，和其他学习者聊天就没什么坏处。</p><h2><b>其他链接</b></h2><p data-pid=\"6SHKqmnY\"><a href=\"https://link.zhihu.com/?target=http%3A//www.antimoon.com/other/myths-speaking.htm\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">AntiMoon 文章</a> </p><p data-pid=\"p1zG_Njl\"><a href=\"https://link.zhihu.com/?target=https%3A//learnjapanese.moe/guide\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">主指南</a><sup data-text=\"日语学习指南\" data-url=\"https://zhuanlan.zhihu.com/p/2002818500717207719\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"1\">[1]</sup></p><p data-pid=\"jeMX8aka\">祝你沉浸愉快！</p><h2><b>补充说明：阅读过载</b></h2><p data-pid=\"UjNtJqMq\">我曾经多次强调：在你做了大量听力沉浸之前，不要太早把重心放在阅读上。这是为了确保你最终能有一个好口音。之所以要先听日语，是为了在脑子里建立一个「日语听起来是什么样」的模型，让你习惯日语的声音；比如日语的「ra ri ru re ro」和汉语的同类音差别很大。如果你在缺少这些知识的情况下大量阅读，你最后可能会带着很重的外国口音说话。所谓外国口音，往往来自这样一种误判：你以为目标语言里的某个音和母语里某个听起来相似的音是同一个音，但其实不是——而你之所以会这么想，是因为你听得还不够久。几乎不可能在阅读一门语言时完全不把任何语音成分带进去；因此即便你是在脑子里默读，也可能出现这个问题。当然，如果你不在意口音，觉得带 gaijin 口音也无所谓，那你确实不一定需要听太多。如果你完全不听、只学会阅读也没问题：比如你就是想看带字幕的动画，或者只想玩视觉小说之类的。学习日语的方法从来都不可能一刀切。但我认为：如果你能读中二系视觉小说，却听不懂动画，这会非常伤你的自尊；而且你可能不愿意在后期再去做大量听力，因为你会想：「我为什么要听？我又听不懂。我都能用日语玩这么多很酷的视觉小说了，那我宁愿继续这样。」这就是为什么我鼓励你从一开始就重视听力。我希望你能理解。</p><hr/><blockquote data-pid=\"zFycWlU8\"><a href=\"https://link.zhihu.com/?target=http%3A//paratranz.cn/projects/3131\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Thoughts Memo</a> 汉化组译制<br/>感谢主要译者 <span class=\"nolink\">GPT-5.2</span>，校对 Jarrett Ye<br/>原文：<a href=\"https://link.zhihu.com/?target=https%3A//learnjapanese.moe/speaking/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Speaking Japanese</a><br/>目录：<a href=\"https://zhuanlan.zhihu.com/p/2005777505055967011\" class=\"internal\" target=\"_blank\">日语学习：萌萌二次元之路</a></blockquote>",
+  "content_need_truncated": false,
+  "force_login_when_click_read_more": false,
+  "admin_closed_comment": false,
+  "topics": [
+    {
+      "url": "https://api.zhihu.com/topics/19789286",
+      "type": "topic",
+      "id": "19789286",
+      "name": "日语学习"
+    },
+    {
+      "url": "https://api.zhihu.com/topics/19585373",
+      "type": "topic",
+      "id": "19585373",
+      "name": "口语"
+    },
+    {
+      "url": "https://api.zhihu.com/topics/19724413",
+      "type": "topic",
+      "id": "19724413",
+      "name": "日语口语"
+    }
+  ],
+  "voteup_count": 56,
+  "voting": 0,
+  "heavy_up_status": "allow_heavy_up",
+  "column": {
+    "description": "",
+    "can_manage": true,
+    "intro": "你并不需要刻意记住语言，而是要去熟悉语言",
+    "is_following": false,
+    "url_token": "c_1537015147880669184",
+    "id": "c_1537015147880669184",
+    "articles_count": 95,
+    "accept_submission": false,
+    "title": "外语习得",
+    "url": "https://api.zhihu.com/columns/c_1537015147880669184",
+    "comment_permission": "all",
+    "created": 1659232967,
+    "updated": 1751811168,
+    "image_url": "https://picx.zhimg.com/v2-9e674c4fb024a1226e2d46e314d3ca5f_720w.jpg?source=172ae18b",
+    "author": {
+      "is_followed": false,
+      "avatar_url_template": "https://pica.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94.jpg?source=172ae18b",
+      "uid": "592323397158703104",
+      "user_type": "people",
+      "is_following": false,
+      "url_token": "L.M.Sherlock",
+      "id": "4c592f496dc33822b560b382907ff1d0",
+      "description": "欢迎关注 Thoughts Memo 汉化组！我们关注的话题包括但不限于认知科学、知识工作、学习方法、学校教育、理性思考、儿童权利，目前已经完成翻译 1400 多篇文章。\n\n加入汉化组：https://paratranz.cn/projects/3131",
+      "name": "Thoughts Memo",
+      "is_advertiser": false,
+      "headline": "学校≠教育≠技能；文凭溢价=80%信号传递+20%人力资本",
+      "gender": -1,
+      "url": "https://api.zhihu.com/people/4c592f496dc33822b560b382907ff1d0",
+      "avatar_url": "https://pic1.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94_l.jpg?source=172ae18b",
+      "is_org": false,
+      "type": "people",
+      "badge_v2": {
+        "title": "",
+        "merged_badges": [],
+        "detail_badges": [],
+        "icon": "",
+        "night_icon": ""
+      }
+    },
+    "followers": 974,
+    "type": "column",
+    "column_type": "normal"
+  },
+  "comment_count": 4,
+  "contributions": [
+    {
+      "id": 53460160,
+      "state": "accepted",
+      "type": "first_publish",
+      "column": {
+        "description": "",
+        "can_manage": true,
+        "intro": "你并不需要刻意记住语言，而是要去熟悉语言",
+        "is_following": false,
+        "url_token": "c_1537015147880669184",
+        "id": "c_1537015147880669184",
+        "articles_count": 95,
+        "accept_submission": false,
+        "title": "外语习得",
+        "url": "https://api.zhihu.com/columns/c_1537015147880669184",
+        "comment_permission": "all",
+        "created": 1659232967,
+        "updated": 1751811168,
+        "image_url": "https://picx.zhimg.com/v2-9e674c4fb024a1226e2d46e314d3ca5f_720w.jpg?source=172ae18b",
+        "author": {
+          "is_followed": false,
+          "avatar_url_template": "https://pica.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94.jpg?source=172ae18b",
+          "uid": "592323397158703104",
+          "user_type": "people",
+          "is_following": false,
+          "url_token": "L.M.Sherlock",
+          "id": "4c592f496dc33822b560b382907ff1d0",
+          "description": "欢迎关注 Thoughts Memo 汉化组！我们关注的话题包括但不限于认知科学、知识工作、学习方法、学校教育、理性思考、儿童权利，目前已经完成翻译 1400 多篇文章。\n\n加入汉化组：https://paratranz.cn/projects/3131",
+          "name": "Thoughts Memo",
+          "is_advertiser": false,
+          "headline": "学校≠教育≠技能；文凭溢价=80%信号传递+20%人力资本",
+          "gender": -1,
+          "url": "https://api.zhihu.com/people/4c592f496dc33822b560b382907ff1d0",
+          "avatar_url": "https://pic1.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94_l.jpg?source=172ae18b",
+          "is_org": false,
+          "type": "people",
+          "badge_v2": {
+            "title": "",
+            "merged_badges": [],
+            "detail_badges": [],
+            "icon": "",
+            "night_icon": ""
+          }
+        },
+        "followers": 974,
+        "type": "column",
+        "column_type": "normal"
+      }
+    }
+  ],
+  "is_title_image_full_screen": false,
+  "upvoted_followees": [],
+  "commercial_info": {
+    "is_commercial": false,
+    "plugin": {}
+  },
+  "suggest_edit": {
+    "status": false,
+    "reason": "",
+    "tip": "",
+    "url": "",
+    "title": ""
+  },
+  "reason": "",
+  "annotation_action": [],
+  "can_tip": false,
+  "can_open_tipjar": true,
+  "tipjarors_count": 0,
+  "is_labeled": false,
+  "has_publishing_draft": false,
+  "is_favorited": false,
+  "favlists_count": 77,
+  "is_normal": true,
+  "status": 0,
+  "activity_topping_info": {
+    "state": "untopped"
+  },
+  "share_text": "说日语 - 来自知乎专栏「外语习得」，作者: Thoughts Memo https://zhuanlan.zhihu.com/p/2003874115736581429 （想看更多？下载 @知乎 App：http://weibo.com/p/100404711598 ）",
+  "can_comment": {
+    "status": true,
+    "reason": ""
+  },
+  "linkbox": {
+    "url": "",
+    "category": "",
+    "pic": "",
+    "title": ""
+  },
+  "mcn_fp_show": -1,
+  "is_visible": true,
+  "is_liked": false,
+  "liked_count": 7,
+  "has_column": true,
+  "republishers": [],
+  "is_new_link_card": true,
+  "emoji_reaction": {
+    "like_count": 7,
+    "like_has_set": false
+  },
+  "ab_param": {
+    "qa_hidden_voteup": "",
+    "rs_interest1": "",
+    "zp_zhi_style": ""
+  },
+  "attached_info": "kgIuCgkyNzAxMzkyMTcSEzIwMDM4NzQxMTU3MzY1ODE0MjkYByIKSU1BR0VfVEVYVA==",
+  "share_guide": {
+    "has_positive_bubble": false,
+    "has_time_bubble": false,
+    "hit_share_guide_cluster": false
+  },
+  "settings": {
+    "table_of_contents": {
+      "enabled": true
+    }
+  },
+  "can_reference": false,
+  "reaction_instruction": {},
+  "reaction": {
+    "statistics": {
+      "up_vote_count": 56,
+      "down_vote_count": 0,
+      "like_count": 7,
+      "comment_count": 4,
+      "share_count": 0,
+      "play_count": 0,
+      "interest_play_count": 0,
+      "favorites": 77,
+      "pv_count": 0,
+      "bullet_count": 0,
+      "applaud_count": 0,
+      "question_follower_count": 0,
+      "question_answer_count": 0,
+      "plaincontent_vote_up_count": 0,
+      "plaincontent_like_count": 0,
+      "img_like_count": {
+        "v2-861edc71efffb16aef3d9c1b2db5e3fa": 0
+      },
+      "subscribe_count": 0,
+      "republishers": []
+    },
+    "relation": {
+      "is_author": true,
+      "vote": "Neutral",
+      "liked": false,
+      "img_liked": {
+        "v2-861edc71efffb16aef3d9c1b2db5e3fa": false
+      },
+      "faved": false,
+      "following": false,
+      "subcribed": false,
+      "is_navigator_vote": false,
+      "current_user_is_navigator": false,
+      "vote_next_step": ""
+    },
+    "image_reactions": {
+      "v2-861edc71efffb16aef3d9c1b2db5e3fa": {
+        "like_count": 0,
+        "is_liked": false
+      }
+    }
+  },
+  "interaction_bar_plugins": [
+    {
+      "type": "comment",
+      "comment": {
+        "enable": true,
+        "placeholder": "发条带图评论"
+      }
+    }
+  ],
+  "bar_plugins_flip_time": 3000,
+  "podcast_audio_enter": {
+    "text": "1 人听过",
+    "text_color": "MapBrand",
+    "text_size": 13,
+    "action_url": "zhihu://podcast/audio_player/62720544019?contentId=2003874115736581429&contentType=article"
+  },
+  "endorsements": [
+    {
+      "elements": [
+        {
+          "type": "IMAGE",
+          "image_key": "zhicon_icon_24_column_fill",
+          "image_color": {
+            "alpha": 1,
+            "group": "GBL01A"
+          },
+          "width": 16,
+          "height": 16
+        },
+        {
+          "type": "TEXT",
+          "content": "收录于 · 外语习得",
+          "font_size": 13,
+          "font_color": {
+            "alpha": 1,
+            "group": "GBL01A"
+          },
+          "is_bold": false,
+          "max_line": 1
+        },
+        {
+          "type": "IMAGE",
+          "image_key": "zhicon_icon_16_arrow_right",
+          "image_color": {
+            "alpha": 1,
+            "group": "GBL01A"
+          },
+          "width": 12,
+          "height": 12
+        }
+      ],
+      "sub_elements": [],
+      "sub_elements_type": "DESCRIPTION",
+      "background_color": {
+        "alpha": 0.08,
+        "group": "GBL01A"
+      },
+      "action_url": "https://www.zhihu.com/column/c_1537015147880669184",
+      "za": {
+        "block_text": "Column",
+        "type": "text",
+        "text": "收录于 · 外语习得"
+      }
+    }
+  ],
+  "allow_segment_interaction": 1,
+  "is_navigator": false,
+  "navigator_vote": false,
+  "vote_next_step": "vote"
+}

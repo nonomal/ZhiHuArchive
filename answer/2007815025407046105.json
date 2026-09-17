@@ -1,0 +1,139 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://picx.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://pica.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94.jpg?source=2c26e567",
+    "badge": [
+      {
+        "description": "信息技术行业 算法工程师",
+        "topics": [],
+        "type": "identity"
+      }
+    ],
+    "badge_v2": {
+      "detail_badges": [
+        {
+          "badge_status": "passed",
+          "description": "知势榜教育校园领域影响力榜答主",
+          "detail_type": "super_activity",
+          "icon": "https://picx.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+          "night_icon": "https://picx.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+          "sources": [
+            {
+              "avatar_path": "",
+              "avatar_url": "",
+              "description": "",
+              "id": "27",
+              "name": "知势榜8月",
+              "priority": 27,
+              "token": "",
+              "type": "content_potential_category",
+              "url": ""
+            }
+          ],
+          "title": "社区成就",
+          "type": "reward",
+          "url": ""
+        },
+        {
+          "badge_status": "passed",
+          "description": "信息技术行业 算法工程师",
+          "detail_type": "identity_people",
+          "icon": "https://picx.zhimg.com/v2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c",
+          "night_icon": "https://pica.zhimg.com/v2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c",
+          "sources": [],
+          "title": "已认证的个人",
+          "type": "identity",
+          "url": "https://zhuanlan.zhihu.com/p/96956163"
+        }
+      ],
+      "icon": "https://pic1.zhimg.com/v2-27bfcba90e66db79ce8768ab807e017e_l.png?source=32738c0c",
+      "merged_badges": [
+        {
+          "badge_status": "passed",
+          "description": "知势榜教育校园领域影响力榜答主",
+          "detail_type": "best",
+          "icon": "",
+          "night_icon": "",
+          "sources": [],
+          "title": "社区成就",
+          "type": "best",
+          "url": ""
+        },
+        {
+          "badge_status": "passed",
+          "description": "信息技术行业 算法工程师",
+          "detail_type": "identity_people",
+          "icon": "",
+          "night_icon": "",
+          "sources": [],
+          "title": "认证",
+          "type": "identity",
+          "url": "https://zhuanlan.zhihu.com/p/96956163"
+        }
+      ],
+      "night_icon": "https://picx.zhimg.com/v2-27bfcba90e66db79ce8768ab807e017e_l.png?source=32738c0c",
+      "title": "知势榜教育校园领域影响力榜答主"
+    },
+    "gender": -1,
+    "headline": "学校≠教育≠技能；文凭溢价=80%信号传递+20%人力资本",
+    "id": "4c592f496dc33822b560b382907ff1d0",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "Thoughts Memo",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/4c592f496dc33822b560b382907ff1d0",
+    "url_token": "L.M.Sherlock",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 8,
+  "content": "<p data-pid=\"Yq7s3o3E\">AI 在应试教育上全面替代人类教师是迟早的事。人类教师会疲惫、会走神、需要同时管理一个班五十多个不同动态的注意力系统。AI 则可以 24 小时待命，并在学生需要的那一刻提供反馈，不早也不晚。它不需要根据班级中位数来调整教学的节奏，而是真正根据学生在每一个知识点上的遗忘率来针对性地推荐下一个学习任务。它也不会忘记学生还记得什么、掌握了什么、误解了什么。</p><p data-pid=\"sQ79EsGE\">而且，AI 与学生的每一次交互都会产生数据，数据可以改进模型，指标提升会引来更多的用户和投资，更多的资源促进更优秀的人才进入这个领域，开发更好的 AI 得到更好的指标。应试教育只关心分数，只关心可以用分数衡量的东西，这种场景和 AI 实在是太匹配了。</p><p data-pid=\"DM5aiWyF\">反观基于人类教师的应试教育，其发展之缓慢令人发指。间隔效应、测试效应、即时反馈、合意困难、认知支架、掌握学习等一系列经过大量实证研究检验等认知科学<sup data-text=\"第二章 学习的科学\" data-url=\"https://zhuanlan.zhihu.com/p/16601875270\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"1\">[1]</sup>成果，却在课堂上鲜为人知。许多搞军事化管理的学校，其教学水平和两百年前的普鲁士学校<sup data-text=\"普鲁士教育模式\" data-url=\"https://zhuanlan.zhihu.com/p/251148900\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"2\">[2]</sup>差不多，除了电子设备多了些，其本质并没有多少改变：服从纪律<sup data-text=\"普鲁士的纪律不可避免地摧毁了教育\" data-url=\"https://zhuanlan.zhihu.com/p/520591051\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"3\">[3]</sup>、吃苦耐劳，还有中式特色的对考试、做题的狂热崇拜<sup data-text=\"现在的中国教育用什么形容最合适?\" data-url=\"https://www.zhihu.com/question/664294817/answer/75146401021\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"4\">[4]</sup>。</p><p data-pid=\"2F4eYgvL\">不过，要论应试教育，怎么能忽略标准化测试大国——美国<sup data-text=\"标准化测试与美国教育的毁灭\" data-url=\"https://zhuanlan.zhihu.com/p/609895338\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"5\">[5]</sup>呢？AI 加速应试教育的排头兵——Alpha 学校早已诞生：</p><a href=\"https://zhuanlan.zhihu.com/p/1962882704082211479\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-draft-title=\"每天学习两小时：对 Alpha 学校的详细评测——它会是教育的未来吗？\" data-draft-cover=\"https://pic1.zhimg.com/v2-ac1bc9e6da05a3473c400ed019ec9411.jpg?source=7e7ef6e2&amp;needBackground=1\" class=\"internal\">每天学习两小时：对 Alpha 学校的详细评测——它会是教育的未来吗？</a><a href=\"https://zhuanlan.zhihu.com/p/1967273928855651385\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-draft-title=\"评 Alpha School：当你尝试目标拆解应试教育\" data-draft-cover=\"https://picx.zhimg.com/v2-d78275fe518af4695100ce081b420a9b.webp?source=7e7ef6e2&amp;needBackground=1\" class=\"internal\">评 Alpha School：当你尝试目标拆解应试教育</a><p data-pid=\"b2pGOFDp\">但问题是，这又能怎么样呢？whataboutism，对吧。AI 能榨干学生的潜力，使其在考试中斩获高分，又如何？AI 本身就能在考试中斩获高分，还要训练人类来干同样的事情，图啥呢？教育和学习，本来就是两回事。</p><p data-pid=\"Mzd2ofDY\">对此，我还没想清楚，就先留给各位自己思考了。该去码头整点薯条了。</p>",
+  "content_need_truncated": false,
+  "created_time": 1771480405,
+  "excerpt": "AI 在应试教育上全面替代人类教师是迟早的事。人类教师会疲惫、会走神、需要同时管理一个班五十多个不同动态的注意力系统。AI 则可以 24 小时待命，并在学生需要的那一刻提供反馈，不早也不晚。它不需要根据班级中位数来调整教学的节奏，而是真正根据学生在每一个知识点上的遗忘率来针对性地推荐下一个学习任务。它也不会忘记学生还记得什么、掌握了什么、误解了什么。 而且，AI 与学生的每一次交互都会产生数据，数据可以改进模…",
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2007815025407046105",
+  "is_collapsed": false,
+  "is_contain_ai_content": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "link_card_info": {
+    "https://zhuanlan.zhihu.com/p/1962882704082211479": "{\"card_type\":\"card_1\",\"display\":{\"title\":\"每天学习两小时：对 Alpha 学校的详细评测——它会是教育的未来吗？\",\"card_open_url\":\"https://zhuanlan.zhihu.com/p/1962882704082211479\",\"desc\":\"155 赞同 · 23 评论 \\u003ca class=\\\"tag type_a\\\"\\u003e文章\\u003c/a\\u003e\",\"content\":\"\\u003ca class=\\\"text normal/bold\\\" data-color=\\\"#444444\\\" data-night-color=\\\"#D3D3D3\\\"\\u003eThoughts Memo:\\u003c/a\\u003e 译者按：我看 Alpha 学校搞得不错，学习效率极大提升，课程进度、考试分数等关键绩效指标基本实现量化管理，薪酬与产出也实现了有效挂钩。如果能取消下午那些分散精力的所谓「生活技能」课，把时间全部投入到上午的学习平台上来，Alpha 学校就是我们理想中的应试工厂。 「正如我们不接受学生用 AI 写论文一样，我们也不会接受学区用 AI 来取代教师的关键作用。」 ——亚瑟·斯坦伯格，美国教师联合会宾夕法尼亚分会，回应 Alpha …\",\"image\":{\"image_url\":\"https://picx.zhimg.com/v2-4a6878d6dc6d41b93edc2c53b04c5194_r.jpg?source=172ae18b\",\"ratio\":1,\"is_video\":false},\"bg_type\":\"dark\"},\"source\":{\"content_type\":\"ARTICLE\",\"content_id\":\"1962882704082211479\"},\"za_data\":{\"attach_info\":\"\"}}",
+    "https://zhuanlan.zhihu.com/p/1967273928855651385": "{\"card_type\":\"card_1\",\"display\":{\"title\":\"评 Alpha School：当你尝试目标拆解应试教育\",\"card_open_url\":\"https://zhuanlan.zhihu.com/p/1967273928855651385\",\"desc\":\"45 赞同 · 1 评论 \\u003ca class=\\\"tag type_a\\\"\\u003e文章\\u003c/a\\u003e\",\"content\":\"\\u003ca class=\\\"text normal/bold\\\" data-color=\\\"#444444\\\" data-night-color=\\\"#D3D3D3\\\"\\u003eThoughts Memo:\\u003c/a\\u003e 那篇关于奥斯汀旗舰学校 Alpha School、 长达 1.8 万字的鸿篇巨制写得非常出色 [1]。文章虽长，但考虑到你正在阅读的这个博客的调性，如果你对这类话题感兴趣，我强烈建议你通读全文。对于这类说法和报告，我们永远要持审慎的态度。但就其核心论断——即这里发生了什么以及为何发生——而言，我认为大部分是可信的。我不知道这套模式能规模化到何种程度，但我猜想其潜力巨大。这其中没有任何出人意料之处，甚至都没怎么用到生成式…\",\"image\":{\"image_url\":\"https://pica.zhimg.com/v2-d78275fe518af4695100ce081b420a9b_r.jpg?source=172ae18b\",\"ratio\":1,\"is_video\":false},\"bg_type\":\"dark\"},\"source\":{\"content_type\":\"ARTICLE\",\"content_id\":\"1967273928855651385\"},\"za_data\":{\"attach_info\":\"\"}}"
+  },
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/62729483292?contentId=2007815025407046105&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "1 人听过",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1751968150,
+    "detail": "<p>近些年来AI与算法的快速发展已经大大改变了应试教育。Anki之类的间隔重复软件，通过对遗忘率的科学分析和复习计划制定，使学校背默的效率相形见绌；传统上的教师答疑解决学生问题的职能正在被一系列全能的AI取代，AI有求必应和知无不言的优势能够大大提高学习效率；同时，也涌现出一批类似Math Acadamy的个性化学习软件，它们能挖掘出学生的薄弱点，在向前推进的同时查漏补缺。</p><p>那么，在这个新时代下，应试教育又可能会如何发展？个体又应当如何建构学习价值加以面对？</p>",
+    "id": "1925974695838192438",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "在AI和算法时代，应试教育会如何发展？个体该怎么看待学习以面对？",
+    "type": "question",
+    "updated_time": 1751968551,
+    "url": "https://www.zhihu.com/api/v4/questions/1925974695838192438"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1771480613,
+  "url": "https://www.zhihu.com/api/v4/answers/2007815025407046105",
+  "voteup_count": 81
+}

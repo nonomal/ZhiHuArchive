@@ -1,0 +1,426 @@
+{
+  "id": "2004279702467150376",
+  "title": "动画日语",
+  "type": "article",
+  "article_type": "normal",
+  "excerpt_title": "",
+  "url": "https://api.zhihu.com/articles/2004279702467150376",
+  "image_url": "https://pic1.zhimg.com/v2-0313dc5f847fa49c454321b812a8a6f9_720w.jpg?source=172ae18b",
+  "title_image": "https://pica.zhimg.com/v2-0313dc5f847fa49c454321b812a8a6f9_720w.jpg?source=172ae18b",
+  "excerpt": "<img src=\"https://pica.zhimg.com/v2-3ded96b4a8cba6dfccfc4e97178d202e_200x112.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"549\" data-watermark=\"original\" data-original-src=\"v2-3ded96b4a8cba6dfccfc4e97178d202e\" data-watermark-src=\"v2-72afeb2f03e9876751062cefc2c4ea9b\" data-private-watermark-src=\"\" class=\"origin_image inline-img zh-lightbox-thumb\" data-original=\"https://pica.zhimg.com/v2-3ded96b4a8cba6dfccfc4e97178d202e_r.jpg\"/>在日语学习圈里，你很常会听到这种说法：「【不要/不可能】从动画里学日语，现实里没人这么说话！」但这其实是错的。先来想想：这个说法为什么会出现？通常说这句话的人自己也不知道它从何而来；换句话说，大多数这么说的人其实根本不知道自己在说什么。这…",
+  "created": 1770686954,
+  "updated": 1771476565,
+  "author": {
+    "is_followed": false,
+    "avatar_url_template": "https://picx.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94.jpg?source=172ae18b",
+    "uid": "592323397158703104",
+    "user_type": "people",
+    "is_following": false,
+    "url_token": "L.M.Sherlock",
+    "id": "4c592f496dc33822b560b382907ff1d0",
+    "description": "欢迎关注 Thoughts Memo 汉化组！我们关注的话题包括但不限于认知科学、知识工作、学习方法、学校教育、理性思考、儿童权利，目前已经完成翻译 1400 多篇文章。\n\n加入汉化组：https://paratranz.cn/projects/3131",
+    "name": "Thoughts Memo",
+    "is_advertiser": false,
+    "headline": "学校≠教育≠技能；文凭溢价=80%信号传递+20%人力资本",
+    "gender": -1,
+    "url": "https://api.zhihu.com/people/4c592f496dc33822b560b382907ff1d0",
+    "avatar_url": "https://picx.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94_l.jpg?source=172ae18b",
+    "is_org": false,
+    "type": "people",
+    "badge": [
+      {
+        "type": "identity",
+        "topics": [],
+        "description": "信息技术行业 算法工程师"
+      }
+    ],
+    "badge_v2": {
+      "title": "知势榜教育校园领域影响力榜答主",
+      "merged_badges": [
+        {
+          "type": "best",
+          "detail_type": "best",
+          "title": "社区成就",
+          "description": "知势榜教育校园领域影响力榜答主",
+          "url": "",
+          "sources": [],
+          "icon": "",
+          "night_icon": "",
+          "badge_status": "passed"
+        },
+        {
+          "type": "identity",
+          "detail_type": "identity_people",
+          "title": "认证",
+          "description": "信息技术行业 算法工程师",
+          "url": "https://zhuanlan.zhihu.com/p/96956163",
+          "sources": [],
+          "icon": "",
+          "night_icon": "",
+          "badge_status": "passed"
+        }
+      ],
+      "detail_badges": [
+        {
+          "type": "reward",
+          "detail_type": "super_activity",
+          "title": "社区成就",
+          "description": "知势榜教育校园领域影响力榜答主",
+          "url": "",
+          "sources": [
+            {
+              "id": "27",
+              "token": "",
+              "type": "content_potential_category",
+              "url": "",
+              "name": "知势榜8月",
+              "avatar_path": "",
+              "avatar_url": "",
+              "description": "",
+              "priority": 27
+            }
+          ],
+          "icon": "https://picx.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+          "night_icon": "https://pic1.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+          "badge_status": "passed"
+        },
+        {
+          "type": "identity",
+          "detail_type": "identity_people",
+          "title": "已认证的个人",
+          "description": "信息技术行业 算法工程师",
+          "url": "https://zhuanlan.zhihu.com/p/96956163",
+          "sources": [],
+          "icon": "https://picx.zhimg.com/v2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c",
+          "night_icon": "https://picx.zhimg.com/v2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c",
+          "badge_status": "passed"
+        }
+      ],
+      "icon": "https://picx.zhimg.com/v2-27bfcba90e66db79ce8768ab807e017e_l.png?source=32738c0c",
+      "night_icon": "https://pica.zhimg.com/v2-27bfcba90e66db79ce8768ab807e017e_l.png?source=32738c0c"
+    },
+    "exposed_medal": {
+      "medal_id": "0",
+      "medal_name": "",
+      "avatar_url": "",
+      "mini_avatar_url": "",
+      "description": "",
+      "medal_avatar_frame": null
+    }
+  },
+  "comment_permission": "all",
+  "copyright_permission": "need_review",
+  "state": "published",
+  "ip_info": "福建",
+  "image_width": 1800,
+  "image_height": 745,
+  "content": "<p data-pid=\"SInhBa0l\">在日语学习圈里，你很常会听到这种说法：「【不要/不可能】从动画里学日语，现实里没人这么说话！」但这其实是错的。先来想想：这个说法为什么会出现？通常说这句话的人自己也不知道它从何而来；换句话说，大多数这么说的人其实根本不知道自己在说什么。这个观点的来源是：如果你用动画学日语，你可能会以为「おい、てめぇなにやってんだ！コラァ！」以及「ちっ、オラぁ一番強ぇんだぜ」、「コラァ！何ブツブツ言ってんだ？打っ殺すぞ！」这种话很自然。（如果你看不懂，就脑补一些非常尬、非常粗鲁的台词就好。）但事实上，根本不是这样。你要记住：每部动画都不一样。有些更自然，有些更偏男性化，有些更偏女性化。比如，《你的名字。》比《龙珠Z》更自然；《Love Live!》比《斩服少女》更自然。像《辉夜大小姐想让我告白～天才们的恋爱头脑战～》这种作品里，每个角色说话也都不一样：有些角色很「动画腔」，而有些角色其实挺自然的。其次，请花点时间想一想：「什么才是『真实』的日语？」</p><h2><b>「真实」的日语</b></h2><p data-pid=\"OO_J_2xU\">人们常说动画不是「真实」的日语。说这种话的人之所以会这么觉得，只是因为动画里的日语和他们在教材里学到的那种「人造、稀释、兑水」的日语不一样。事实上，教材日语非常不自然；你甚至可以说它才不「真实」。日语有很多种形态，就像汉语也有很多种形态一样。你会和你认识的另一个人用完全相同的方式说话吗？大概率不会。但这是否意味着对方「说错了」，他们的汉语不「真实」？当然不是。每个人都有自己的个人语体（idiolect），不同地方也有不同方言，等等。日语的种类多到近乎「数不清」；你根本不可能指着某一种日语说「这才是唯一真实的日语」。实际上，动画里有时真的挺自然的：当我和日本朋友聊天时，他们说的话有不少我以前在动画里就听过。与此同时，我还从来没遇到过日本人真的按教材句子那样说话。甚至在《双层公寓》（自然、无台本的真人秀）里，他们还在嘲笑教材日语！</p><h2><b>那到底什么才算真实的日语？</b></h2><p data-pid=\"YJKGAygb\">答案很简单：<b>母语者写给母语者的日语</b>。动画由母语者写剧本；电影由母语者写剧本；日剧由母语者写剧本。这些内容是做给日本人看的，并不一定以「学习」为目的，但令人惊讶的是，它们却是非常强大的学习工具。教材即便由母语者编写，它也是写给外国人的：日语会为了外国人被稀释、被人造、被过滤。这就是为什么你不该长期使用专门为学习者简化过的内容——除非你是从零开始学日语；那种情况下用一下可以，但你应该尽快放手，越早越好。</p><h2><b>不要把动画一概而论！</b></h2><p data-pid=\"JOsXaapN\">老听人说「看动画会让你说话像随时要杀人」真的很烦——就像前面举的例子一样。这不过是有人挑选了刚好符合他们论点的动画例子，然后完全无视了那些「说话很自然」的动画的海量存在。老动画有时会用一些不寻常、过时的俚语，比如把「朋友」说成「ダチ」在今天就挺过时的，你对日本人这么说会显得很怪。动画会使用<a href=\"https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Yakuwarigo\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">役割語</a>（yakuwarigo，角色语），也就是根据角色设定来调整语言风格。比如反派可能会说<a href=\"https://link.zhihu.com/?target=https%3A//jisho.org/word/%25E8%25B2%25B4%25E6%25A7%2598\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">貴様</a>（kisama），或者经常说<a href=\"https://link.zhihu.com/?target=https%3A//jisho.org/search/%25E3%2581%25A6%25E3%2582%2581%25E3%2581%2587%2520%2523sentences\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">てめぇ</a>，但凡是个正常人都知道不该学那家伙那样说话，所以你也不会对日本人这样讲话。正因为动画使用役割語，你会获得一种<b>更宽广的沉浸感</b>：你会知道什么听起来更男性化、什么更女性化、什么更傲慢、什么更礼貌、什么更讽刺，等等。这使它成为非常<b>有价值的沉浸资源</b>。并不是每个动画角色都像悟空、鸣人或其他少年漫主角；正如我所说，每部动画都不一样，《你的名字。》其实就挺自然的。</p><h2><b>为什么你应该从动画里学习</b></h2><ol><li data-pid=\"CO9cRxw0\">获取方便。社区一直在努力让几乎所有动画都能免费获得，甚至在 Nyaa.si 这样的公共 tracker 上也能找到。<br/><br/></li><li data-pid=\"v6fFO4La\">大家都不陌生。你既然在学日语，那么动画很可能就是你开始学习的动机；那为什么不从最初让你想学这门语言的东西里学习呢？<br/><br/></li><li data-pid=\"hVXcJkNR\">你能对役割語形成更广泛的语感。这很重要。<br/><br/></li><li data-pid=\"49Cnvmlo\">取决于你看的作品，它可以很接近现实口语（例如新海诚的电影）。<br/><br/></li><li data-pid=\"PKSpy56f\">相比无聊的教材，无论从日语本身还是从乐趣而言，动画都强太多了。</li></ol><figure data-size=\"normal\"><img src=\"https://pica.zhimg.com/v2-3ded96b4a8cba6dfccfc4e97178d202e_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"549\" data-original-token=\"v2-3ded96b4a8cba6dfccfc4e97178d202e\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pica.zhimg.com/v2-3ded96b4a8cba6dfccfc4e97178d202e_r.jpg\"/></figure><p data-pid=\"v27UeVPQ\">附言：你看的动画要么带<b>日语字幕</b>，要么是<b>完全无字幕</b>。可能有人会说：有些人看了很久中文字幕的动画也还是不会日语——他们说得没错。但我们不看中文字幕：我们看无字幕，或者至少看日语字幕。</p><p data-pid=\"GpSGNEhN\">祝你沉浸愉快！😄</p><hr/><blockquote data-pid=\"zFycWlU8\"><a href=\"https://link.zhihu.com/?target=http%3A//paratranz.cn/projects/3131\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Thoughts Memo</a> 汉化组译制<br/>感谢主要译者 <span class=\"nolink\">GPT-5.2</span>，校对 Jarrett Ye<br/>原文：<a href=\"https://link.zhihu.com/?target=https%3A//learnjapanese.moe/animejp/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Anime Japanese</a><br/>目录：<a href=\"https://zhuanlan.zhihu.com/p/2005777505055967011\" class=\"internal\" target=\"_blank\">日语学习：萌萌二次元之路</a></blockquote>",
+  "content_need_truncated": false,
+  "force_login_when_click_read_more": false,
+  "admin_closed_comment": false,
+  "topics": [
+    {
+      "url": "https://api.zhihu.com/topics/21306208",
+      "type": "topic",
+      "id": "21306208",
+      "name": "零基础学日语"
+    },
+    {
+      "url": "https://api.zhihu.com/topics/19564189",
+      "type": "topic",
+      "id": "19564189",
+      "name": "日本动漫"
+    },
+    {
+      "url": "https://api.zhihu.com/topics/19686545",
+      "type": "topic",
+      "id": "19686545",
+      "name": "二语习得理论"
+    }
+  ],
+  "voteup_count": 74,
+  "voting": 0,
+  "heavy_up_status": "allow_heavy_up",
+  "column": {
+    "description": "",
+    "can_manage": true,
+    "intro": "你并不需要刻意记住语言，而是要去熟悉语言",
+    "is_following": false,
+    "url_token": "c_1537015147880669184",
+    "id": "c_1537015147880669184",
+    "articles_count": 95,
+    "accept_submission": false,
+    "title": "外语习得",
+    "url": "https://api.zhihu.com/columns/c_1537015147880669184",
+    "comment_permission": "all",
+    "created": 1659232967,
+    "updated": 1751811168,
+    "image_url": "https://pic1.zhimg.com/v2-9e674c4fb024a1226e2d46e314d3ca5f_720w.jpg?source=172ae18b",
+    "author": {
+      "is_followed": false,
+      "avatar_url_template": "https://picx.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94.jpg?source=172ae18b",
+      "uid": "592323397158703104",
+      "user_type": "people",
+      "is_following": false,
+      "url_token": "L.M.Sherlock",
+      "id": "4c592f496dc33822b560b382907ff1d0",
+      "description": "欢迎关注 Thoughts Memo 汉化组！我们关注的话题包括但不限于认知科学、知识工作、学习方法、学校教育、理性思考、儿童权利，目前已经完成翻译 1400 多篇文章。\n\n加入汉化组：https://paratranz.cn/projects/3131",
+      "name": "Thoughts Memo",
+      "is_advertiser": false,
+      "headline": "学校≠教育≠技能；文凭溢价=80%信号传递+20%人力资本",
+      "gender": -1,
+      "url": "https://api.zhihu.com/people/4c592f496dc33822b560b382907ff1d0",
+      "avatar_url": "https://pica.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94_l.jpg?source=172ae18b",
+      "is_org": false,
+      "type": "people",
+      "badge_v2": {
+        "title": "",
+        "merged_badges": [],
+        "detail_badges": [],
+        "icon": "",
+        "night_icon": ""
+      }
+    },
+    "followers": 974,
+    "type": "column",
+    "column_type": "normal"
+  },
+  "comment_count": 5,
+  "contributions": [
+    {
+      "id": 53464815,
+      "state": "accepted",
+      "type": "first_publish",
+      "column": {
+        "description": "",
+        "can_manage": true,
+        "intro": "你并不需要刻意记住语言，而是要去熟悉语言",
+        "is_following": false,
+        "url_token": "c_1537015147880669184",
+        "id": "c_1537015147880669184",
+        "articles_count": 95,
+        "accept_submission": false,
+        "title": "外语习得",
+        "url": "https://api.zhihu.com/columns/c_1537015147880669184",
+        "comment_permission": "all",
+        "created": 1659232967,
+        "updated": 1751811168,
+        "image_url": "https://pic1.zhimg.com/v2-9e674c4fb024a1226e2d46e314d3ca5f_720w.jpg?source=172ae18b",
+        "author": {
+          "is_followed": false,
+          "avatar_url_template": "https://picx.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94.jpg?source=172ae18b",
+          "uid": "592323397158703104",
+          "user_type": "people",
+          "is_following": false,
+          "url_token": "L.M.Sherlock",
+          "id": "4c592f496dc33822b560b382907ff1d0",
+          "description": "欢迎关注 Thoughts Memo 汉化组！我们关注的话题包括但不限于认知科学、知识工作、学习方法、学校教育、理性思考、儿童权利，目前已经完成翻译 1400 多篇文章。\n\n加入汉化组：https://paratranz.cn/projects/3131",
+          "name": "Thoughts Memo",
+          "is_advertiser": false,
+          "headline": "学校≠教育≠技能；文凭溢价=80%信号传递+20%人力资本",
+          "gender": -1,
+          "url": "https://api.zhihu.com/people/4c592f496dc33822b560b382907ff1d0",
+          "avatar_url": "https://pica.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94_l.jpg?source=172ae18b",
+          "is_org": false,
+          "type": "people",
+          "badge_v2": {
+            "title": "",
+            "merged_badges": [],
+            "detail_badges": [],
+            "icon": "",
+            "night_icon": ""
+          }
+        },
+        "followers": 974,
+        "type": "column",
+        "column_type": "normal"
+      }
+    }
+  ],
+  "is_title_image_full_screen": false,
+  "upvoted_followees": [],
+  "commercial_info": {
+    "is_commercial": false,
+    "plugin": {}
+  },
+  "suggest_edit": {
+    "status": false,
+    "reason": "",
+    "tip": "",
+    "url": "",
+    "title": ""
+  },
+  "reason": "",
+  "annotation_action": [],
+  "can_tip": false,
+  "can_open_tipjar": true,
+  "tipjarors_count": 0,
+  "is_labeled": false,
+  "has_publishing_draft": false,
+  "is_favorited": false,
+  "favlists_count": 67,
+  "is_normal": true,
+  "status": 0,
+  "activity_topping_info": {
+    "state": "untopped"
+  },
+  "share_text": "动画日语 - 来自知乎专栏「外语习得」，作者: Thoughts Memo https://zhuanlan.zhihu.com/p/2004279702467150376 （想看更多？下载 @知乎 App：http://weibo.com/p/100404711598 ）",
+  "can_comment": {
+    "status": true,
+    "reason": ""
+  },
+  "linkbox": {
+    "url": "",
+    "category": "",
+    "pic": "",
+    "title": ""
+  },
+  "mcn_fp_show": -1,
+  "is_visible": true,
+  "is_liked": false,
+  "liked_count": 3,
+  "has_column": true,
+  "republishers": [],
+  "is_new_link_card": true,
+  "emoji_reaction": {
+    "like_count": 3,
+    "like_has_set": false
+  },
+  "ab_param": {
+    "qa_hidden_voteup": "",
+    "rs_interest1": "",
+    "zp_zhi_style": ""
+  },
+  "attached_info": "kgIuCgkyNzAxODQyMDASEzIwMDQyNzk3MDI0NjcxNTAzNzYYByIKSU1BR0VfVEVYVA==",
+  "share_guide": {
+    "has_positive_bubble": false,
+    "has_time_bubble": false,
+    "hit_share_guide_cluster": false
+  },
+  "settings": {
+    "table_of_contents": {
+      "enabled": true
+    }
+  },
+  "can_reference": false,
+  "reaction_instruction": {},
+  "reaction": {
+    "statistics": {
+      "up_vote_count": 74,
+      "down_vote_count": 0,
+      "like_count": 3,
+      "comment_count": 5,
+      "share_count": 0,
+      "play_count": 0,
+      "interest_play_count": 0,
+      "favorites": 67,
+      "pv_count": 0,
+      "bullet_count": 0,
+      "applaud_count": 0,
+      "question_follower_count": 0,
+      "question_answer_count": 0,
+      "plaincontent_vote_up_count": 0,
+      "plaincontent_like_count": 0,
+      "img_like_count": {
+        "v2-0313dc5f847fa49c454321b812a8a6f9": 0,
+        "v2-3ded96b4a8cba6dfccfc4e97178d202e": 0
+      },
+      "subscribe_count": 0,
+      "republishers": []
+    },
+    "relation": {
+      "is_author": true,
+      "vote": "Neutral",
+      "liked": false,
+      "img_liked": {
+        "v2-0313dc5f847fa49c454321b812a8a6f9": false,
+        "v2-3ded96b4a8cba6dfccfc4e97178d202e": false
+      },
+      "faved": false,
+      "following": false,
+      "subcribed": false,
+      "is_navigator_vote": false,
+      "current_user_is_navigator": false,
+      "vote_next_step": ""
+    },
+    "image_reactions": {
+      "v2-0313dc5f847fa49c454321b812a8a6f9": {
+        "like_count": 0,
+        "is_liked": false
+      },
+      "v2-3ded96b4a8cba6dfccfc4e97178d202e": {
+        "like_count": 0,
+        "is_liked": false
+      }
+    }
+  },
+  "interaction_bar_plugins": [
+    {
+      "type": "comment",
+      "comment": {
+        "enable": true,
+        "placeholder": "发条带图评论"
+      }
+    }
+  ],
+  "bar_plugins_flip_time": 3000,
+  "podcast_audio_enter": {
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13,
+    "action_url": "zhihu://podcast/audio_player/62720581458?contentId=2004279702467150376&contentType=article"
+  },
+  "endorsements": [
+    {
+      "elements": [
+        {
+          "type": "IMAGE",
+          "image_key": "zhicon_icon_24_column_fill",
+          "image_color": {
+            "alpha": 1,
+            "group": "GBL01A"
+          },
+          "width": 16,
+          "height": 16
+        },
+        {
+          "type": "TEXT",
+          "content": "收录于 · 外语习得",
+          "font_size": 13,
+          "font_color": {
+            "alpha": 1,
+            "group": "GBL01A"
+          },
+          "is_bold": false,
+          "max_line": 1
+        },
+        {
+          "type": "IMAGE",
+          "image_key": "zhicon_icon_16_arrow_right",
+          "image_color": {
+            "alpha": 1,
+            "group": "GBL01A"
+          },
+          "width": 12,
+          "height": 12
+        }
+      ],
+      "sub_elements": [],
+      "sub_elements_type": "DESCRIPTION",
+      "background_color": {
+        "alpha": 0.08,
+        "group": "GBL01A"
+      },
+      "action_url": "https://www.zhihu.com/column/c_1537015147880669184",
+      "za": {
+        "block_text": "Column",
+        "type": "text",
+        "text": "收录于 · 外语习得"
+      }
+    }
+  ],
+  "allow_segment_interaction": 1,
+  "is_navigator": false,
+  "navigator_vote": false,
+  "vote_next_step": "vote"
+}

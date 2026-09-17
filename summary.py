@@ -1,12 +1,19 @@
 import json
+import re
+import shutil
 from pathlib import Path
 from datetime import datetime, timezone
+
+from bs4 import BeautifulSoup
 
 BASE_URL = "https://l-m-sherlock.github.io/ZhiHuArchive"
 
 # Load censorship data
 with open("censorship.json", "r", encoding="utf-8") as f:
     censorship_data = json.load(f)
+
+with open("restorations.json", "r", encoding="utf-8") as f:
+    restorations_data = json.load(f)
 
 # Collect all articles
 articles = []
@@ -34,6 +41,425 @@ for file in Path("answer").glob("*.json"):
 articles.sort(key=lambda x: x["voteup_count"], reverse=True)
 answers.sort(key=lambda x: x["voteup_count"], reverse=True)
 
+
+def html_to_text(value: str) -> str:
+    if not value:
+        return ""
+    text = BeautifulSoup(value, "html.parser").get_text(" ", strip=True)
+    return re.sub(r"\s+", " ", text)
+
+
+def build_search_index(articles: list, answers: list) -> list:
+    docs = []
+    for article in articles:
+        docs.append(
+            {
+                "id": f"article-{article['file_stem']}",
+                "url": f"./{article['file_stem']}.html",
+                "title": article.get("title", ""),
+                "excerpt": html_to_text(article.get("excerpt", "")),
+                "content": html_to_text(article.get("content", "")),
+                "image": article.get("image_url", ""),
+                "created": article.get("created", 0),
+                "type": "article",
+            }
+        )
+    for answer in answers:
+        question = answer.get("question", {})
+        question_title = question.get("title", "Untitled")
+        question_detail = html_to_text(question.get("detail", ""))
+        content_text = html_to_text(answer.get("content", ""))
+        docs.append(
+            {
+                "id": f"answer-{answer['file_stem']}",
+                "url": f"./{answer['file_stem']}.html",
+                "title": question_title,
+                "excerpt": html_to_text(answer.get("excerpt", "")),
+                "content": f"{question_detail} {content_text}".strip(),
+                "image": "",
+                "created": answer.get("created_time", 0),
+                "type": "answer",
+            }
+        )
+    return docs
+
+
+search_script = """<script type="module">
+    const input = document.getElementById("search-input");
+    const metaEl = document.getElementById("search-meta");
+    const resultsEl = document.getElementById("search-results");
+    const moreButton = document.getElementById("search-more");
+
+    const hasCJK = (text) => /[\\u3040-\\u30ff\\u3400-\\u9fff\\uf900-\\ufaff]/.test(text);
+
+    const getBasePath = () => {
+        const url = new URL(window.location.href);
+        let basePath = url.pathname;
+        if (!basePath.endsWith("/")) {
+            basePath = basePath.substring(0, basePath.lastIndexOf("/") + 1);
+        }
+        return basePath;
+    };
+
+    const basePath = getBasePath();
+    const indexUrl = basePath + "search-index.json";
+    const segmentitScript = basePath + "segmentit.js";
+
+    let segmenter = null;
+    let segmenterPromise = null;
+    let indexData = null;
+    let indexPromise = null;
+    let lastResults = [];
+    let lastRendered = 0;
+    let lastSearchToken = 0;
+    const pageSize = 10;
+    const maxResults = 200;
+    const minCjkLength = 2;
+
+    const shouldSegment = (term) =>
+        hasCJK(term) && !/\\s/.test(term) && term.trim().length >= minCjkLength;
+
+    const initSegmenter = () => {
+        const lib = window.segmentit || window.Segmentit;
+        if (!lib) {
+            return null;
+        }
+        const Segment = lib.Segment || (lib.default && lib.default.Segment);
+        const useDefault = lib.useDefault || (lib.default && lib.default.useDefault);
+        if (!Segment || !useDefault) {
+            return null;
+        }
+        return useDefault(new Segment());
+    };
+
+    const loadSegmenter = () =>
+        new Promise((resolve) => {
+            const existing = initSegmenter();
+            if (existing) {
+                resolve(existing);
+                return;
+            }
+            const script = document.createElement("script");
+            script.src = segmentitScript;
+            script.async = true;
+            script.onload = () => resolve(initSegmenter());
+            script.onerror = () => resolve(null);
+            document.head.appendChild(script);
+        });
+
+    const ensureSegmenter = (term) => {
+        if (!shouldSegment(term)) {
+            return null;
+        }
+        if (segmenter) {
+            return Promise.resolve(segmenter);
+        }
+        if (!segmenterPromise) {
+            segmenterPromise = loadSegmenter().then((loaded) => {
+                segmenter = loaded;
+                return loaded;
+            });
+        }
+        return segmenterPromise;
+    };
+
+    const segmentText = (text) => {
+        if (!segmenter) {
+            return [];
+        }
+        try {
+            return segmenter
+                .doSegment(text)
+                .map((token) => token.w || token.word || "")
+                .filter((token) => token && token.trim());
+        } catch (error) {
+            return [];
+        }
+    };
+
+    const ensureIndex = () => {
+        if (indexData) {
+            return Promise.resolve(indexData);
+        }
+        if (!indexPromise) {
+            indexPromise = fetch(indexUrl)
+                .then((response) => response.json())
+                .then((data) => {
+                    indexData = data.map((doc) => {
+                        const title = doc.title || "";
+                        const excerpt = doc.excerpt || "";
+                        const content = doc.content || "";
+                        return {
+                            ...doc,
+                            titleLower: title.toLowerCase(),
+                            searchText: (title + " " + excerpt + " " + content).toLowerCase(),
+                        };
+                    });
+                    return indexData;
+                });
+        }
+        return indexPromise;
+    };
+
+    const escapeRegExp = (value) => value.replace(/[.*+?^${}()|[\\]\\\\]/g, "\\$&");
+    const escapeHtml = (value) =>
+        value
+            .replace(/&/g, "&amp;")
+            .replace(/</g, "&lt;")
+            .replace(/>/g, "&gt;")
+            .replace(/"/g, "&quot;")
+            .replace(/'/g, "&#39;");
+
+    const buildQuery = (term) => {
+        const trimmed = term.trim();
+        const lower = trimmed.toLowerCase();
+        const phrases = [];
+        const phraseRegex = /"([^"]+)"/g;
+        let remaining = trimmed;
+        let match;
+        while ((match = phraseRegex.exec(trimmed)) !== null) {
+            if (match[1]) {
+                phrases.push(match[1]);
+            }
+        }
+        if (phrases.length) {
+            remaining = trimmed.replace(phraseRegex, " ").trim();
+        }
+        let tokens = remaining ? remaining.split(/\\s+/).filter(Boolean) : [];
+        if (!tokens.length && shouldSegment(trimmed) && segmenter) {
+            tokens = segmentText(trimmed);
+        }
+        if (!tokens.length && trimmed) {
+            tokens = [trimmed];
+        }
+        const tokensLower = tokens.map((token) => token.toLowerCase());
+        const phrasesLower = phrases.map((phrase) => phrase.toLowerCase());
+        const highlightTerms = [...phrasesLower, ...tokensLower]
+            .filter((value) => value.length > 0)
+            .slice(0, 8);
+        return { raw: trimmed, lower, tokens: tokensLower, phrases: phrasesLower, highlights: highlightTerms };
+    };
+
+    const matchesDoc = (doc, query) => {
+        const text = doc.searchText || "";
+        if (query.phrases.length && query.phrases.some((phrase) => !text.includes(phrase))) {
+            return false;
+        }
+        if (query.tokens.length && query.tokens.some((token) => !text.includes(token))) {
+            return false;
+        }
+        return true;
+    };
+
+    const scoreDoc = (doc, query) => {
+        let score = 0;
+        const title = doc.titleLower || "";
+        if (query.raw && title.includes(query.lower)) {
+            score += 100;
+        }
+        query.phrases.forEach((phrase) => {
+            if (title.includes(phrase)) {
+                score += 60;
+            } else if (doc.searchText.includes(phrase)) {
+                score += 20;
+            }
+        });
+        query.tokens.forEach((token) => {
+            if (!token) {
+                return;
+            }
+            if (title.includes(token)) {
+                score += 20;
+            } else if (doc.searchText.includes(token)) {
+                score += 4;
+            }
+        });
+        return score;
+    };
+
+    const highlightText = (text, terms) => {
+        if (!terms.length) {
+            return escapeHtml(text);
+        }
+        const pattern = [...terms]
+            .filter(Boolean)
+            .sort((a, b) => b.length - a.length)
+            .map(escapeRegExp)
+            .join("|");
+        if (!pattern) {
+            return escapeHtml(text);
+        }
+
+        const regex = new RegExp(pattern, "gi");
+        let output = "";
+        let lastIndex = 0;
+        text.replace(regex, (match, offset) => {
+            output += escapeHtml(text.slice(lastIndex, offset));
+            output += `<mark>${escapeHtml(match)}</mark>`;
+            lastIndex = offset + match.length;
+            return match;
+        });
+        return output + escapeHtml(text.slice(lastIndex));
+    };
+
+    const getSnippetBounds = (sourceLength, matchIndex, matchLength, maxLength) => {
+        const visibleMatchLength = Math.min(matchLength, maxLength);
+        const contextBefore = Math.floor((maxLength - visibleMatchLength) / 2);
+        const latestStart = Math.max(0, sourceLength - maxLength);
+        const start = Math.min(Math.max(0, matchIndex - contextBefore), latestStart);
+        return { start, end: Math.min(sourceLength, start + maxLength) };
+    };
+
+    const findBestSnippetMatch = (source, terms, maxLength) => {
+        const lowerSource = source.toLowerCase();
+        let bestMatch = null;
+
+        terms.forEach((term) => {
+            let matchIndex = lowerSource.indexOf(term);
+            while (matchIndex !== -1) {
+                const { start, end } = getSnippetBounds(source.length, matchIndex, term.length, maxLength);
+                const snippetWindow = lowerSource.slice(start, end);
+                const matchedTermCount = terms.filter((candidate) => snippetWindow.includes(candidate)).length;
+
+                if (!bestMatch || matchedTermCount > bestMatch.matchedTermCount) {
+                    bestMatch = { source, start, end, matchedTermCount };
+                }
+                matchIndex = lowerSource.indexOf(term, matchIndex + term.length);
+            }
+        });
+
+        return bestMatch;
+    };
+
+    const truncateSnippet = (text, maxLength) =>
+        text.length > maxLength ? text.slice(0, maxLength) + "..." : text;
+
+    const buildSnippet = (doc, query, maxLength = 220) => {
+        const queryTerms = [...query.phrases, ...query.tokens];
+        const nonEmptyTerms = queryTerms.filter((term) => term.length > 0);
+        const terms = [...new Set(nonEmptyTerms)];
+        const sources = [doc.content || "", doc.excerpt || ""].filter((source) => source.length > 0);
+        let bestMatch = null;
+
+        sources.forEach((source) => {
+            const candidate = findBestSnippetMatch(source, terms, maxLength);
+            if (candidate && (!bestMatch || candidate.matchedTermCount > bestMatch.matchedTermCount)) {
+                bestMatch = candidate;
+            }
+        });
+
+        if (!bestMatch) {
+            return truncateSnippet(doc.excerpt || doc.content || "", maxLength);
+        }
+
+        const prefix = bestMatch.start > 0 ? "..." : "";
+        const suffix = bestMatch.end < bestMatch.source.length ? "..." : "";
+        return prefix + bestMatch.source.slice(bestMatch.start, bestMatch.end) + suffix;
+    };
+
+    const clearResults = () => {
+        resultsEl.innerHTML = "";
+        metaEl.textContent = "";
+        moreButton.style.display = "none";
+        lastResults = [];
+        lastRendered = 0;
+    };
+
+    const renderBatch = () => {
+        const slice = lastResults.slice(lastRendered, lastRendered + pageSize);
+        slice.forEach((item) => {
+            const doc = item.doc;
+            const li = document.createElement("li");
+            li.className = "search-result";
+            const title = doc.title || doc.url || "未命名";
+            const highlightedTitle = highlightText(title, item.highlights);
+            const thumb = doc.image
+                ? `<div class="search-result-thumb"><img src="${doc.image}" alt="${escapeHtml(title)}"></div>`
+                : "";
+            const snippet = buildSnippet(doc, item.query);
+            const highlightedSnippet = highlightText(snippet, item.highlights);
+            li.innerHTML = `${thumb}<div class="search-result-body">
+                <p class="search-result-title"><a href="${doc.url}" target="_blank" rel="noopener noreferrer">${highlightedTitle}</a></p>
+                <p class="search-result-excerpt">${highlightedSnippet}</p>
+            </div>`;
+            resultsEl.appendChild(li);
+        });
+        lastRendered += slice.length;
+        if (lastRendered >= lastResults.length) {
+            moreButton.style.display = "none";
+        } else {
+            moreButton.style.display = "inline-flex";
+        }
+    };
+
+    const searchAndRender = async (term) => {
+        const token = ++lastSearchToken;
+        const trimmed = term.trim();
+        if (!trimmed) {
+            clearResults();
+            return;
+        }
+        metaEl.textContent = "正在加载索引…";
+        const docs = await ensureIndex();
+        if (token !== lastSearchToken) {
+            return;
+        }
+        const segmentPromise = ensureSegmenter(trimmed);
+        const query = buildQuery(trimmed);
+
+        const matches = [];
+        for (const doc of docs) {
+            if (matchesDoc(doc, query)) {
+                matches.push({ doc, score: scoreDoc(doc, query), highlights: query.highlights, query });
+            }
+        }
+        matches.sort((a, b) => (b.score - a.score) || (b.doc.created - a.doc.created));
+        lastResults = matches.slice(0, maxResults);
+        lastRendered = 0;
+        resultsEl.innerHTML = "";
+
+        if (!lastResults.length) {
+            metaEl.textContent = `没有找到与“${trimmed}”相关的结果`;
+            moreButton.style.display = "none";
+        } else {
+            metaEl.textContent = `找到 ${lastResults.length} 个与“${trimmed}”相关的结果`;
+            renderBatch();
+        }
+
+        if (segmentPromise && !segmenter) {
+            segmentPromise.then((loaded) => {
+                if (!loaded) {
+                    return;
+                }
+                if (token !== lastSearchToken) {
+                    return;
+                }
+                if (input.value.trim() === trimmed) {
+                    searchAndRender(trimmed);
+                }
+            });
+        }
+    };
+
+    const debounce = (fn, delay = 300) => {
+        let timer;
+        return (...args) => {
+            clearTimeout(timer);
+            timer = setTimeout(() => fn(...args), delay);
+        };
+    };
+
+    const init = () => {
+        input.addEventListener("input", debounce((event) => {
+            searchAndRender(event.target.value);
+        }));
+        moreButton.addEventListener("click", renderBatch);
+    };
+
+    init();
+</script>
+"""
+
 # Generate HTML content with tabs
 html_content = (
     """
@@ -57,6 +483,79 @@ html_content = (
         .item { margin: 10px 0; }
         .votes { color: #666; font-size: 0.9em; }
         .created_time { color: #999; font-size: 0.9em; }
+        #search { margin: 24px 0 20px; }
+        .search-label {
+            display: block;
+            font-size: 0.95em;
+            color: #4b5563;
+            margin-bottom: 6px;
+        }
+        .search-input {
+            width: 100%;
+            padding: 10px 12px;
+            border: 1px solid #e5e7eb;
+            border-radius: 10px;
+            font-size: 16px;
+            outline: none;
+            box-sizing: border-box;
+        }
+        .search-input:focus {
+            border-color: #2563eb;
+            box-shadow: 0 0 0 2px rgba(37, 99, 235, 0.15);
+        }
+        .search-helper {
+            margin-top: 6px;
+            font-size: 0.85em;
+            color: #6b7280;
+        }
+        .search-helper strong {
+            color: #374151;
+        }
+        .search-meta {
+            margin-top: 10px;
+            font-size: 0.9em;
+            color: #374151;
+        }
+        .search-results {
+            list-style: none;
+            padding: 0;
+            margin: 12px 0 0;
+        }
+        .search-result {
+            display: flex;
+            gap: 12px;
+            padding: 12px 0;
+            border-bottom: 1px solid #f3f4f6;
+        }
+        .search-result-thumb img {
+            width: 64px;
+            height: 64px;
+            object-fit: cover;
+            border-radius: 10px;
+        }
+        .search-result-title {
+            margin: 0 0 6px;
+            font-size: 1em;
+        }
+        .search-result-excerpt {
+            margin: 0;
+            color: #4b5563;
+            font-size: 0.9em;
+            line-height: 1.4;
+        }
+        .search-more {
+            margin-top: 12px;
+            padding: 8px 14px;
+            border: 1px solid #e5e7eb;
+            border-radius: 999px;
+            background: #fff;
+            cursor: pointer;
+            font-size: 0.9em;
+        }
+        .search-more:hover {
+            border-color: #cbd5f5;
+            background: #f8fafc;
+        }
         a {
             color: #2563eb;
             text-decoration: none;
@@ -90,6 +589,11 @@ html_content = (
             background-color: #fef08a;
             border-bottom-color: rgba(202, 138, 4, 0.6);
             color: #1f2937;
+        }
+        .restored {
+            background-color: #fed7aa;
+            border-bottom-color: rgba(234, 88, 12, 0.65);
+            color: #7c2d12;
         }
 
         /* Tab styles */
@@ -127,17 +631,27 @@ html_content = (
         }
     </script>
 </head>
-<body>
+<body data-pagefind-ignore="all">
 """
     + f"""
     <h1>Thoughts Memo 和 Jarrett Ye 的知乎备份</h1>
     <p>
-        <a class="badge-link" href="https://github.com/l-m-sherlock/ZhiHuArchive" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/github/stars/l-m-sherlock/ZhiHuArchive?style=social" alt="GitHub stars">
+        <a class="badge-link" href="https://github.com/L-M-Sherlock/ZhiHuArchive" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/github/stars/L-M-Sherlock/ZhiHuArchive?style=social" alt="GitHub stars">
         </a>
     </p>
     <p>RSS: <a href="./feed.xml" target="_blank" rel="noopener noreferrer">Atom Feed</a></p>
     <p>NotebookLM 精选笔记：<a href="https://notebooklm.google.com/notebook/dbe190a1-1122-462d-ab4f-40400d9f1d2a" target="_blank" rel="noopener noreferrer">汉化组文章合集</a></p>
+
+    <div id="search">
+        <label class="search-label" for="search-input">站内搜索</label>
+        <input id="search-input" class="search-input" type="search" placeholder="搜索文章和回答..." autocapitalize="none" enterkeyhint="search">
+        <div class="search-helper">提示：首次搜索会加载索引，中文搜索会加载分词库；也支持手动分词（例如：习得性 无助）。</div>
+        <div id="search-meta" class="search-meta"></div>
+        <ol id="search-results" class="search-results"></ol>
+        <button id="search-more" class="search-more" type="button" style="display: none;">加载更多结果</button>
+    </div>
+    {search_script}
 
     <div class="tabs">
         <button class="tab-button active" onclick="openTab(event, 'articles-tab')">文章 ({len(articles)})</button>
@@ -153,11 +667,20 @@ html_content = (
 for article in articles:
     article_path = f"/p/{article['file_stem']}"
     is_censored = censorship_data.get(article_path, False)
-    censored_class = "censored" if is_censored else ""
+    restoration = restorations_data.get(article_path)
+    link_classes = " ".join(
+        name
+        for name, enabled in (
+            ("censored", is_censored),
+            ("restored", restoration is not None),
+        )
+        if enabled
+    )
     censored_text = " (censored)" if is_censored else ""
+    restored_text = f" ({restoration['label']})" if restoration else ""
     html_content += f"""
         <div class="item">
-            <a href="./{article['file_stem']}.html" class="{censored_class}" target="_blank" rel="noopener noreferrer">{article['title']}{censored_text}</a>
+            <a href="./{article['file_stem']}.html" class="{link_classes}" target="_blank" rel="noopener noreferrer">{article['title']}{censored_text}{restored_text}</a>
             <span class="votes">({article['voteup_count']} 赞同)</span>
             <span class="created_time">({datetime.fromtimestamp(article['created']).strftime('%Y-%m-%d')})</span>
         </div>
@@ -179,12 +702,21 @@ for answer in answers:
     )
     answer_path = f"/answer/{answer['file_stem']}"
     is_censored = censorship_data.get(answer_path, False)
-    censored_class = "censored" if is_censored else ""
+    restoration = restorations_data.get(answer_path)
+    link_classes = " ".join(
+        name
+        for name, enabled in (
+            ("censored", is_censored),
+            ("restored", restoration is not None),
+        )
+        if enabled
+    )
     censored_text = " (censored)" if is_censored else ""
+    restored_text = f" ({restoration['label']})" if restoration else ""
 
     html_content += f"""
         <div class="item">
-            <a href="./{answer['file_stem']}.html" class="{censored_class}" target="_blank" rel="noopener noreferrer">{question_title}{censored_text}</a>
+            <a href="./{answer['file_stem']}.html" class="{link_classes}" target="_blank" rel="noopener noreferrer">{question_title}{censored_text}{restored_text}</a>
             <span class="votes">({answer['voteup_count']} 赞同)</span>
             <span class="created_time">({datetime.fromtimestamp(answer['created_time']).strftime('%Y-%m-%d')})</span>
         </div>
@@ -197,39 +729,60 @@ html_content += """
 """
 
 # Write the HTML file
+Path("html").mkdir(exist_ok=True)
+asset_src = Path("assets") / "segmentit.js"
+asset_dst = Path("html") / "segmentit.js"
+if asset_src.exists():
+    shutil.copyfile(asset_src, asset_dst)
+
 with open("./html/index.html", "w", encoding="utf-8") as f:
     f.write(html_content)
+
+search_docs = build_search_index(articles, answers)
+with open("./html/search-index.json", "w", encoding="utf-8") as f:
+    json.dump(search_docs, f, ensure_ascii=False)
+
+
+def sitemap_date(timestamp: int | float) -> str:
+    return datetime.fromtimestamp(timestamp, timezone.utc).strftime("%Y-%m-%d")
 
 
 def generate_sitemap(articles, answers):
     """Generate sitemap.xml file"""
+    content_timestamps = [
+        article.get("updated") or article["created"] for article in articles
+    ] + [answer.get("updated_time") or answer["created_time"] for answer in answers]
+    index_lastmod = sitemap_date(max(content_timestamps))
+
     sitemap_content = '<?xml version="1.0" encoding="UTF-8"?>\n'
     sitemap_content += '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
 
     # Add index page
     sitemap_content += f"""  <url>
     <loc>{BASE_URL}/</loc>
-    <lastmod>{datetime.now(timezone.utc).strftime('%Y-%m-%d')}</lastmod>
+    <lastmod>{index_lastmod}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>\n"""
 
     # Add articles
     for article in articles:
-        created_time = datetime.fromtimestamp(article["created"], timezone.utc)
+        lastmod = sitemap_date(article.get("updated") or article["created"])
         sitemap_content += f"""  <url>
     <loc>{BASE_URL}/{article['file_stem']}.html</loc>
-    <lastmod>{created_time.strftime('%Y-%m-%d')}</lastmod>
+    <lastmod>{lastmod}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>\n"""
 
     # Add answers
     for answer in answers:
-        created_time = datetime.fromtimestamp(answer["created_time"], timezone.utc)
+        lastmod = sitemap_date(
+            answer.get("updated_time") or answer["created_time"]
+        )
         sitemap_content += f"""  <url>
     <loc>{BASE_URL}/{answer['file_stem']}.html</loc>
-    <lastmod>{created_time.strftime('%Y-%m-%d')}</lastmod>
+    <lastmod>{lastmod}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>\n"""

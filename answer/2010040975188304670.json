@@ -1,0 +1,182 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://picx.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://pica.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94.jpg?source=2c26e567",
+    "badge": [
+      {
+        "description": "信息技术行业 算法工程师",
+        "topics": [],
+        "type": "identity"
+      }
+    ],
+    "badge_v2": {
+      "detail_badges": [
+        {
+          "badge_status": "passed",
+          "description": "知势榜教育校园领域影响力榜答主",
+          "detail_type": "super_activity",
+          "icon": "https://picx.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+          "night_icon": "https://picx.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+          "sources": [
+            {
+              "avatar_path": "",
+              "avatar_url": "",
+              "description": "",
+              "id": "27",
+              "name": "知势榜8月",
+              "priority": 27,
+              "token": "",
+              "type": "content_potential_category",
+              "url": ""
+            }
+          ],
+          "title": "社区成就",
+          "type": "reward",
+          "url": ""
+        },
+        {
+          "badge_status": "passed",
+          "description": "信息技术行业 算法工程师",
+          "detail_type": "identity_people",
+          "icon": "https://picx.zhimg.com/v2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c",
+          "night_icon": "https://pica.zhimg.com/v2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c",
+          "sources": [],
+          "title": "已认证的个人",
+          "type": "identity",
+          "url": "https://zhuanlan.zhihu.com/p/96956163"
+        }
+      ],
+      "icon": "https://pic1.zhimg.com/v2-27bfcba90e66db79ce8768ab807e017e_l.png?source=32738c0c",
+      "merged_badges": [
+        {
+          "badge_status": "passed",
+          "description": "知势榜教育校园领域影响力榜答主",
+          "detail_type": "best",
+          "icon": "",
+          "night_icon": "",
+          "sources": [],
+          "title": "社区成就",
+          "type": "best",
+          "url": ""
+        },
+        {
+          "badge_status": "passed",
+          "description": "信息技术行业 算法工程师",
+          "detail_type": "identity_people",
+          "icon": "",
+          "night_icon": "",
+          "sources": [],
+          "title": "认证",
+          "type": "identity",
+          "url": "https://zhuanlan.zhihu.com/p/96956163"
+        }
+      ],
+      "night_icon": "https://picx.zhimg.com/v2-27bfcba90e66db79ce8768ab807e017e_l.png?source=32738c0c",
+      "title": "知势榜教育校园领域影响力榜答主"
+    },
+    "gender": -1,
+    "headline": "学校≠教育≠技能；文凭溢价=80%信号传递+20%人力资本",
+    "id": "4c592f496dc33822b560b382907ff1d0",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "Thoughts Memo",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/4c592f496dc33822b560b382907ff1d0",
+    "url_token": "L.M.Sherlock",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 8,
+  "content": "<p data-pid=\"Db0ofD3M\">别再给孩子们扣上「脆弱」、「抗压能力差」或者「娇生惯养」的帽子了。</p><p data-pid=\"KhfuLT4z\">他们的愤怒和怨恨，不过是一个心智正常的生物在面临长期的<b>慢性压力</b><sup data-text=\"慢性压力\" data-url=\"https://zhuanlan.zhihu.com/p/426177682\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"1\">[1]</sup><b>和系统性自由剥夺</b>时，最本能的反应。</p><p data-pid=\"4uk8PHJj\">你把一个天生热爱奔跑和探索的生灵，关在一个名叫「学校」的建筑里长达十几年，每天规定他什么时候坐下、什么时候吃饭、什么时候才能去上厕所，并且用极其无聊的<b>信号传递游戏</b><sup data-text=\"教育的信号传递模型\" data-url=\"https://zhida.zhihu.com/repositories/7524607380135744184\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"2\">[2]</sup>填满他所有的清醒时间。他不愤怒，难道还要对你感恩戴德吗？</p><p data-pid=\"rX8vEAYn\">太长不看：</p><ul><li data-pid=\"DtiaAnyk\"><b>自由的丧失</b>：孩子自由玩耍和自主探索的时间被严重挤压，取而代之的是成人主导的规训与打造简历的竞赛。<br/><br/></li><li data-pid=\"BO9yynRG\"><b>控制点的外移</b>：在无死角的监控和安排下，孩子失去了对生活的掌控感。他们清晰地意识到自己只是满足父母虚荣心和学校升学率的工具。<br/><br/></li><li data-pid=\"8-qz6vDL\"><b>习得性无助</b><sup data-text=\"习得性无助\" data-url=\"https://zhuanlan.zhihu.com/p/575245791\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"3\">[3]</sup>：<b>普鲁士教育模式</b><sup data-text=\"普鲁士教育模式\" data-url=\"https://zhuanlan.zhihu.com/p/251148900\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"4\">[4]</sup><b>通过长期的强制学习，摧毁了孩子的学习内驱力</b><sup data-text=\"学习内驱力\" data-url=\"https://zhuanlan.zhihu.com/p/52990549\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"5\">[5]</sup>。当反抗无效时，愤怒就会内化为抑郁，或在沉默中积聚成怨恨。</li></ul><p data-pid=\"UTyx6_lt\">以下内容摘自 <a class=\"member_mention\" href=\"https://www.zhihu.com/people/4c592f496dc33822b560b382907ff1d0\" data-hash=\"4c592f496dc33822b560b382907ff1d0\" data-hovercard=\"p$b$4c592f496dc33822b560b382907ff1d0\">@Thoughts Memo</a> 汉化组的译文《<a href=\"https://zhuanlan.zhihu.com/p/1933832627044988705\" class=\"internal\" target=\"_blank\">缺少玩耍造成儿童心理健康恶化</a>》</p><blockquote data-pid=\"1cDvJPlI\">过去半个世纪以来，儿童玩耍和探索的自由已大幅减少<br/>第一个事实是：在过去五十多年里，我们见证了美国儿童自由的持续且普遍的巨大滑落——他们自由玩耍、或在没有成年人直接监护与管制的情况下从事任何活动的自由度都大不如前。每过十年，儿童的自由就更少一分：他们越来越不能在脱离成年人看管的情况下独自或与同伴玩耍、游荡和探索；越来越不能在没有成年人守护的情况下使用公共空间；也越来越难找到一份能证明自己责任感与自控力的兼职工作。这一变化背后的原因包括：社会上的一种恐惧感急剧增强，即认为儿童若非时刻处于监护之下便会身陷险境；儿童花费在学校和家庭作业上的必要时间大幅增加；以及一种社会观点日益盛行——认为儿童的时间最好用于由成人指导的、学校式的活动，例如参加正式的体育训练和课程，即便在校外也是如此。<br/>第二个不争的事实是，同样是在这几十年里，年轻群体的焦虑、抑郁和自杀率都出现了惊人的增长。研究人员通过分析数十年来针对学龄儿童的标准化临床问卷数据估算，我们现在所说的「重度抑郁症」和「广泛性焦虑症」的发病率，在 20 世纪下半叶增加了约 5 至 8 倍，而其他指标显示，这一趋势在 21 世纪头二十年里仍在持续。</blockquote><p data-pid=\"nBikzVIy\">以下内容摘自<a href=\"https://www.zhihu.com/people/4c592f496dc33822b560b382907ff1d0\" class=\"internal\" target=\"_blank\">@Thoughts Memo</a> 汉化组的译文《<a href=\"https://zhuanlan.zhihu.com/p/666868500\" class=\"internal\" target=\"_blank\">孩子玩的越来越少，精神障碍越来越多</a>》</p><blockquote data-pid=\"xiNbE2c7\">年轻人越发感到无法掌控自己的命运<br/>我们知道，焦虑和抑郁与人们对自己生活的掌控感或缺乏掌控感有显著的相关性。认为「我命由我」的人，比起认为「我命由天」的人，更不容易感到焦虑或抑郁。你可能会认为，过去几十年来，人们的生活掌控感应该有所增加。我们预防和治疗疾病的能力已有实质性的进步；限制人们因种族、性别或性取向选择的旧有偏见已经减少；人们的平均财富也比过去几十年来有所增加。然而，数据显示，年轻人秉持「我命由我」信念的比例，在几十年间已经急剧<b>下降</b>。</blockquote><blockquote data-pid=\"NDcLKW4P\">过去半世纪乃至更久以来，随着自由玩耍减少，学校及其类似的活动（如课外辅导和成人指导的体育活动）在人们眼中的地位持续上升。如今，孩子在学校每天要待的时长、每年要待的天数、一生中要花费的年数都是史无前例的。对测试和成绩的重视程度也前所未闻。在学校之外，孩子们在成人的指导和保护下，被照顾，被排名，被评判，被奖励的时间也比以往任何时候都要长。在所有这些环境中，是成人在掌控一切，而<b>非</b>孩子们自己。<br/>一上学，孩子就能很快领悟到：他们自主选择的活动，他们对自身能力的评价，都不重要。真正有分量的，是<b>老师</b>的选择和评判。老师的想法并非总是可预测的。你可能刻苦学习，但因为没能<b>精准</b>把握老师的要求，或者没能猜中考题，依然可能得个低分。在大多数学生看来，课堂上追求的不是真才实学，而是好成绩。如果让他们在深入学习一门课程和拿到 A 之间做选择，大多数学生会毫不犹豫地选择后者。这一现象在教育过程的每个阶段都存在，至少在研究生阶段以前是如此。这并不是学生的错，这是<b>我们</b>的错。我们就是这样设定的。我们的教育制度，不断地进行测试和评估，年复一年，强度只增不减。这一制度明显地将外在的奖励和目标，替代了内在的动力。这制度诞生在世界上的每一天，都在有意制造焦虑和抑郁。</blockquote><p data-pid=\"TVUvb7QV\">随着内控信念的下降，焦虑和抑郁在上升。当我们剥夺孩子自由玩耍的权利，并在所有活动中对他们进行微观管理时，我们其实是在向他们传递一个明确的信息：你们无法掌控自己的生活；你们必须听从我们的指挥，因为我们比你们更清楚什么是对你们好的。</p><p data-pid=\"RcHpztiL\">不仅如此，学校这个高度人造的<b>封闭系统</b><sup data-text=\"封闭系统中的社会化\" data-url=\"https://zhuanlan.zhihu.com/p/584230135\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"6\">[6]</sup>，还在不断通过惩罚和同侪压力制造<b>毒性记忆</b><sup data-text=\"9 毒性记忆\" data-url=\"https://zhuanlan.zhihu.com/p/67390960\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"7\">[7]</sup>。当你试图用外部的奖励（分数）和惩罚（请家长、公开批评）来驱动孩子时，你实际上是在摧毁他们作为一个独立个体的尊严。</p><p data-pid=\"gzY6RODs\">以下内容摘自 <a class=\"member_mention\" href=\"https://www.zhihu.com/people/4c592f496dc33822b560b382907ff1d0\" data-hash=\"4c592f496dc33822b560b382907ff1d0\" data-hovercard=\"p$b$4c592f496dc33822b560b382907ff1d0\">@Thoughts Memo</a> 汉化组的译文《学习中的强迫》</p><blockquote data-pid=\"JaNUGo7X\"><b>学习中的强迫</b>是指使用诸如贿赂或威胁等手段让孩子们违背他们的意愿、违背他们的<a href=\"https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Learn_drive\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">激情和兴趣</a><sup data-text=\"学习内驱力\" data-url=\"https://zhuanlan.zhihu.com/p/52990549\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"8\">[8]</sup>去学习。强迫是一种无效的策略，因为<a href=\"https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/How_can_I_motivate_a_child_extrinsically%253F\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">它不可能从外部有效地激励孩子</a><sup data-text=\"我怎样才能外在地激励孩子?\" data-url=\"https://zhuanlan.zhihu.com/p/357893386\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"9\">[9]</sup>。由于强迫违背了<a href=\"https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Fundamental_law_of_learning\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">学习的基本规律</a><sup data-text=\"学习的基本规律\" data-url=\"https://zhuanlan.zhihu.com/p/273225977\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"10\">[10]</sup>，学习结果往往与孩子的真正潜能相比较差。<br/>学习效率低可能是强迫所导致的问题中最小的那一个。真正的问题是，学习中的强迫会导致以下重叠的负面结果：</blockquote><blockquote data-pid=\"6vI5Vt6a\">强迫抑制了<a href=\"https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Learn_drive\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">学习内驱力</a><sup data-text=\"学习内驱力\" data-url=\"https://zhuanlan.zhihu.com/p/52990549\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"8\">[8]</sup>，从而导致长期学习的减少<br/>强迫抑制创造力（参见：<a href=\"https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Why_do_schools_kill_creativity%253F\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">学校如何扼杀创造力？</a><sup data-text=\"学校如何扼杀创造力？\" data-url=\"https://zhuanlan.zhihu.com/p/555439275\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"11\">[11]</sup>）</blockquote><blockquote data-pid=\"-TGuJsRv\">强迫会导致丧失区分好的学习和不好的学习的能力（参见：<a href=\"https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/War_of_the_networks\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">网络战争</a><sup data-text=\"神经网络战争\" data-url=\"https://zhuanlan.zhihu.com/p/359658715\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"12\">[12]</sup>）<br/>强迫会导致<a href=\"https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Toxic_memories\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">毒性记忆</a><sup data-text=\"毒性记忆\" data-url=\"https://zhuanlan.zhihu.com/p/67390960\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"13\">[13]</sup>的形成，这可能是行为、精神或神经障碍的前奏。</blockquote><blockquote data-pid=\"PljFd04B\">强迫会导致<a href=\"https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Learned_helplessness_vs._learn_drive\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">习得性无助</a><sup data-text=\" 学习内驱力与习得性无助\" data-url=\"https://zhuanlan.zhihu.com/p/65899656\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"14\">[14]</sup>，这可能是抑郁的前奏。<br/>强迫忍受不良的学习习惯可能会破坏未来的认知能力（参见：<a href=\"https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Asemantic_learning\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">无语义学习</a><sup data-text=\"无语义学习\" data-url=\"https://zhuanlan.zhihu.com/p/295053968\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"15\">[15]</sup>）</blockquote><blockquote data-pid=\"lPVheOWb\">强迫导致<a href=\"https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Brains_algorithms_protect_models_of_reality\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">知识模型的瓦解</a><sup data-text=\"大脑算法保护现实的模型\" data-url=\"https://zhuanlan.zhihu.com/p/356977535\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"16\">[16]</sup><br/><a href=\"https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Compulsory_schooling\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">强制教育</a><sup data-text=\"强制学校教育\" data-url=\"https://zhuanlan.zhihu.com/p/351869026\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"17\">[17]</sup>相当于强迫孩子养成不良的饮食习惯。一旦孩子<a href=\"https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/War_of_the_networks\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">失去了辨别</a><sup data-text=\"神经网络战争\" data-url=\"https://zhuanlan.zhihu.com/p/359658715\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"12\">[12]</sup>坏食物和好的食物的能力，在健康饮食的世界中有效导航就变得不可能。如果健康的食物和一些不新鲜的食物混合在一起，会很快造成损害。在强制饮食中，孩子会学会不加选择地吃任何东西，而且不会感到快乐。上学几年后，孩子就失去了<a href=\"https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Pleasure_of_learning\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">学习的乐趣</a><sup data-text=\"学习的乐趣\" data-url=\"https://zhuanlan.zhihu.com/p/602150910\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"18\">[18]</sup>，并准备用<a href=\"https://link.zhihu.com/?target=https%3A//supermemo.guru/wiki/Asemantic_learning\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">无语义学习</a><sup data-text=\"无语义学习\" data-url=\"https://zhuanlan.zhihu.com/p/295053968\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"15\">[15]</sup>的方式学习任何学校材料</blockquote><p data-pid=\"0sri1XwD\">这就是为什么这代孩子心中压抑着那么多的愤怒。</p><p data-pid=\"iT7uI8bC\">他们活在一个被成年人精心设计的、名为「为了你好」的牢笼里。他们每天睡不到 7 个小时（严重违背青少年的昼夜节律<sup data-text=\"将教育与青少年的生物钟同步：「让青少年多睡会儿，推迟上学时间」\" data-url=\"https://zhuanlan.zhihu.com/p/14141127318\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"19\">[19]</sup>），被要求坐在硬板凳上吸收那些毫无<b>认知负荷</b><sup data-text=\"第十四章 最小化认知负荷\" data-url=\"https://zhuanlan.zhihu.com/p/29101571919\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"20\">[20]</sup>管理的垃圾教材，还得面对永远填不满的欲望壑口——父母的期待与学历贬值时代的就业恐慌。</p><p data-pid=\"vAbDG7hJ\">他们没有时间去发展自己的兴趣，没有机会在真实的试错中建立自信，只能在题海和排行榜里进行残酷的零和博弈。</p><p data-pid=\"Na4ylOxZ\">你把人家当做满足 KPI 和阶层跨越的机器零件磨损了十几年，现在反过来问零件为什么会发出刺耳的摩擦声？</p><p data-pid=\"--o2B8lU\">（只能说，没有全员化身哥谭市的反派，已经是这代孩子具有极高道德底线的体现了，懂得都懂。）</p><p data-pid=\"Ri3CgHny\"><b>相关阅读：</b></p><a href=\"https://zhuanlan.zhihu.com/p/619039070\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-draft-title=\"「为什么学生不喜欢上学？」呃，呵呵……\" data-draft-cover=\"https://picx.zhimg.com/v2-7fd35735bc2264a2061c84cc2e15af9f.jpg?source=7e7ef6e2&amp;needBackground=1\" class=\"internal\">「为什么学生不喜欢上学？」呃，呵呵……</a><a href=\"https://zhuanlan.zhihu.com/p/530834207\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-draft-title=\"美国重点学校对学生造成的巨大心理创伤\" data-draft-cover=\"https://picx.zhimg.com/v2-085fa15595cf16a0117d8da582dca3d0.jpg?source=7e7ef6e2&amp;needBackground=1\" class=\"internal\">美国重点学校对学生造成的巨大心理创伤</a><a href=\"https://zhuanlan.zhihu.com/p/559705516\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-draft-title=\"学校让人沾染上的 100+ 恶习\" data-draft-cover=\"https://picx.zhimg.com/v2-bc2a3f36cf6b2e6d6425f07bd5e63c38.jpg?source=7e7ef6e2&amp;needBackground=1\" class=\"internal\">学校让人沾染上的 100+ 恶习</a><p data-pid=\"eGPS01lF\">以上回答初稿由 gemini-3.1-pro-preview 根据汉化组的 1903 篇回答生成<sup data-text=\"我爬取了 Thoughts Memo 和 Jarrett Ye 共 1903 篇回答\" data-url=\"https://zhuanlan.zhihu.com/p/1981333174593294847\" data-draft-node=\"inline\" data-draft-type=\"reference\" data-numero=\"21\">[21]</sup></p>",
+  "content_need_truncated": false,
+  "created_time": 1772011113,
+  "excerpt": "别再给孩子们扣上「脆弱」、「抗压能力差」或者「娇生惯养」的帽子了。 他们的愤怒和怨恨，不过是一个心智正常的生物在面临长期的 慢性压力[1]和系统性自由剥夺时，最本能的反应。你把一个天生热爱奔跑和探索的生灵，关在一个名叫「学校」的建筑里长达十几年，每天规定他什么时候坐下、什么时候吃饭、什么时候才能去上厕所，并且用极其无聊的 信号传递游戏[2]填满他所有的清醒时间。他不愤怒，难道还要对你感恩戴德吗？太长不看： …",
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2010040975188304670",
+  "is_collapsed": false,
+  "is_contain_ai_content": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "link_card_info": {
+    "https://zhuanlan.zhihu.com/p/530834207": "{\"card_type\":\"card_1\",\"display\":{\"title\":\"美国重点学校对学生造成的巨大心理创伤\",\"card_open_url\":\"https://zhuanlan.zhihu.com/p/530834207\",\"desc\":\"646 赞同 · 148 评论 \\u003ca class=\\\"tag type_a\\\"\\u003e文章\\u003c/a\\u003e\",\"content\":\"\\u003ca class=\\\"text normal/bold\\\" data-color=\\\"#444444\\\" data-night-color=\\\"#D3D3D3\\\"\\u003eThoughts Memo:\\u003c/a\\u003e 所谓的“顶尖学府”通过学业压力对学生造成极度精神痛苦在这个时代，家长为了把孩子送进重点学校而大显神通。有些家长到郊区买高价学区房，有的愿意花高价送孩子到私立重点就读，另外有些家长聘请辅导教师帮孩子提分，以谋求优质公立学校的名额…很大程度上，中产阶级及以上的家庭更愿意在这方面花大价钱。 可这些家长们不知道，他们正引导着孩子走向失败——不仅是学习的失败，更是人生的失败。如果这些家长们能了解真相，审…\",\"image\":{\"image_url\":\"https://picx.zhimg.com/v2-085fa15595cf16a0117d8da582dca3d0_r.jpg?source=172ae18b\",\"ratio\":1,\"is_video\":false},\"bg_type\":\"dark\"},\"source\":{\"content_type\":\"ARTICLE\",\"content_id\":\"530834207\"},\"za_data\":{\"attach_info\":\"\"}}",
+    "https://zhuanlan.zhihu.com/p/559705516": "{\"card_type\":\"card_1\",\"display\":{\"title\":\"学校让人沾染上的 100+ 恶习\",\"card_open_url\":\"https://zhuanlan.zhihu.com/p/559705516\",\"desc\":\"8248 赞同 · 661 评论 \\u003ca class=\\\"tag type_a\\\"\\u003e文章\\u003c/a\\u003e\",\"content\":\"\\u003ca class=\\\"text normal/bold\\\" data-color=\\\"#444444\\\" data-night-color=\\\"#D3D3D3\\\"\\u003eThoughts Memo:\\u003c/a\\u003e 编者前言几乎所有自由学习者都明白，学校是摧毁学习的罪魁祸首，Wozniak 博士对此也是心知肚明。可当文章落成并与大家见面之时，我们还是难以相信：可列出的恶习竟超过了一百条！这正是学校恶行罄竹难书的证明。 檄文从多方面列举了学校的罪状，基于理论体系的论述穿插着作者感情的流露，可以称得上是 Wozniak 的代表性作品。前 1-3 章属于前文，4-8 章是文章的正文，最后的 9-14 章属于未分类的部分。全文共五万多字，各位读者…\",\"image\":{\"image_url\":\"https://pic1.zhimg.com/v2-bc2a3f36cf6b2e6d6425f07bd5e63c38_r.jpg?source=172ae18b\",\"ratio\":1,\"is_video\":false},\"bg_type\":\"dark\"},\"source\":{\"content_type\":\"ARTICLE\",\"content_id\":\"559705516\"},\"za_data\":{\"attach_info\":\"\"}}",
+    "https://zhuanlan.zhihu.com/p/619039070": "{\"card_type\":\"card_1\",\"display\":{\"title\":\"「为什么学生不喜欢上学？」呃，呵呵……\",\"card_open_url\":\"https://zhuanlan.zhihu.com/p/619039070\",\"desc\":\"204 赞同 · 66 评论 \\u003ca class=\\\"tag type_a\\\"\\u003e文章\\u003c/a\\u003e\",\"content\":\"\\u003ca class=\\\"text normal/bold\\\" data-color=\\\"#444444\\\" data-night-color=\\\"#D3D3D3\\\"\\u003eThoughts Memo:\\u003c/a\\u003e 孩子不爱上学，因为他们热爱自由。最近有人给我推荐了一本书，因为他觉得我会喜欢这本书。这本名为《为什么学生不喜欢上学？ [1]》的书，由认知科学家 Daniel T. Willingham 所著，出版于 2009 年，面向从幼儿园到高中的老师，受到了无数教育工作者的好评。但这本书完全没有回答书名所提出的问题。Willingham 的论点是：「学生不喜欢上学，因为他们的老师没有充分理解某些认知原理，从而没有尽其所能地教导学生。老师没有以最能…\",\"image\":{\"image_url\":\"https://picx.zhimg.com/v2-7fd35735bc2264a2061c84cc2e15af9f_r.jpg?source=172ae18b\",\"ratio\":1,\"is_video\":false},\"bg_type\":\"dark\"},\"source\":{\"content_type\":\"ARTICLE\",\"content_id\":\"619039070\"},\"za_data\":{\"attach_info\":\"\"}}"
+  },
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/63605648009?contentId=2010040975188304670&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "2 人听过",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1763248976,
+    "detail": "<p>负面情绪的背后，是否有可能我们没有觉察到他们的内心世界？</p>",
+    "id": "1973289911340773706",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "为什么这代孩子心中会压抑着那么多的愤怒、怨恨？",
+    "type": "question",
+    "updated_time": 1763248976,
+    "url": "https://www.zhihu.com/api/v4/questions/1973289911340773706"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "segment_infos": [
+    {
+      "marks": [
+        {
+          "end_index": 51,
+          "seg_info": {
+            "comment_count": 0,
+            "is_like": false,
+            "is_span": true,
+            "like_count": 2,
+            "my_comment_count": 0,
+            "seg_ids": [
+              "2010138366734258538"
+            ]
+          },
+          "start_index": 0
+        }
+      ],
+      "pid": "KhfuLT4z",
+      "text": "他们的愤怒和怨恨，不过是一个心智正常的生物在面临长期的慢性压力[1]和系统性自由剥夺时，最本能的反应。"
+    },
+    {
+      "marks": [
+        {
+          "end_index": 0,
+          "seg_info": {
+            "comment_count": 0,
+            "is_like": false,
+            "is_span": true,
+            "like_count": 2,
+            "my_comment_count": 0,
+            "seg_ids": [
+              "2010138366734258538"
+            ]
+          },
+          "start_index": 0
+        }
+      ],
+      "pid": "4uk8PHJj",
+      "text": "你把一个天生热爱奔跑和探索的生灵，关在一个名叫「学校」的建筑里长达十几年，每天规定他什么时候坐下、什么时候吃饭、什么时候才能去上厕所，并且用极其无聊的信号传递游戏[2]填满他所有的清醒时间。他不愤怒，难道还要对你感恩戴德吗？"
+    }
+  ],
+  "type": "answer",
+  "updated_time": 1772011113,
+  "url": "https://www.zhihu.com/api/v4/answers/2010040975188304670",
+  "voteup_count": 302
+}
